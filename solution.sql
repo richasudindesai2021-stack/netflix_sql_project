@@ -153,6 +153,9 @@ select
 from content_by_year
 group by year, genre
 order by year, total_releases desc;
+/*Tableau visualization link:
+https://public.tableau.com/app/profile/richa.desai2237/viz/NetflixDataVisualization_17631779080870/Sheet1?publish=yes
+*/
 
 
 
@@ -269,6 +272,9 @@ select *
 from final
 order by diversity_rank, country, genre;
 
+/*Tableau Visualization Link:
+https://public.tableau.com/app/profile/richa.desai2237/viz/netflixgenrediversityacrosscountries/Sheet1?publish=yes
+*/
 
 
 
