@@ -199,14 +199,14 @@ with all_genres as (
     where listed_in is not null
 ),
 
--- 2. get all distinct countries
+--  get all distinct countries
 all_countries as (
     select distinct trim(unnest(string_to_array(country, ','))) as country
     from netflix
     where country is not null
 ),
 
--- 3. full country × genre matrix
+-- full country × genre matrix
 country_genre_matrix as (
     select 
         c.country,
@@ -215,7 +215,7 @@ country_genre_matrix as (
     cross join all_genres g
 ),
 
--- 4. explode netflix rows
+--  explode netflix rows
 netflix_country_genre as (
     select
         trim(unnest(string_to_array(n.country, ','))) as country,
@@ -226,7 +226,7 @@ netflix_country_genre as (
       and listed_in is not null
 ),
 
--- 5. left join to identify coverage
+--  left join to identify coverage
 coverage as (
     select 
         m.country,
@@ -240,7 +240,7 @@ coverage as (
     group by m.country, m.genre
 ),
 
--- 6. compute country-level genre counts (needed for ranking)
+--  compute country-level genre counts (needed for ranking)
 country_stats as (
     select
         country,
@@ -251,7 +251,7 @@ country_stats as (
     group by country
 ),
 
--- 7. final join to attach stats to each row
+--  final join to attach stats to each row
 final as (
     select
         c.country,
@@ -268,6 +268,7 @@ final as (
 select *
 from final
 order by diversity_rank, country, genre;
+
 
 
 
