@@ -1,0 +1,5167 @@
+"country","genre","total_titles","genre_present","coverage_pct","diversity_rank"
+United States,Action & Adventure,323,1,97.62,1
+United States,Anime Features,3,1,97.62,1
+United States,Anime Series,14,1,97.62,1
+United States,British TV Shows,10,1,97.62,1
+United States,Children & Family Movies,323,1,97.62,1
+United States,Classic & Cult TV,15,1,97.62,1
+United States,Classic Movies,48,1,97.62,1
+United States,Comedies,399,1,97.62,1
+United States,Crime TV Shows,124,1,97.62,1
+United States,Cult Movies,13,1,97.62,1
+United States,Documentaries,429,1,97.62,1
+United States,Docuseries,129,1,97.62,1
+United States,Dramas,451,1,97.62,1
+United States,Faith & Spirituality,6,1,97.62,1
+United States,Horror Movies,126,1,97.62,1
+United States,Independent Movies,44,1,97.62,1
+United States,International Movies,53,1,97.62,1
+United States,International TV Shows,34,1,97.62,1
+United States,Kids' TV,182,1,97.62,1
+United States,Korean TV Shows,1,1,97.62,1
+United States,LGBTQ Movies,4,1,97.62,1
+United States,Movies,20,1,97.62,1
+United States,Music & Musicals,22,1,97.62,1
+United States,Reality TV,92,1,97.62,1
+United States,Romantic Movies,18,1,97.62,1
+United States,Romantic TV Shows,31,1,97.62,1
+United States,Sci-Fi & Fantasy,21,1,97.62,1
+United States,Science & Nature TV,1,1,97.62,1
+United States,Spanish-Language TV Shows,5,1,97.62,1
+United States,Sports Movies,5,1,97.62,1
+United States,Stand-Up Comedy,210,1,97.62,1
+United States,Stand-Up Comedy & Talk Shows,31,1,97.62,1
+United States,Teen TV Shows,0,0,97.62,1
+United States,Thrillers,72,1,97.62,1
+United States,TV Action & Adventure,38,1,97.62,1
+United States,TV Comedies,118,1,97.62,1
+United States,TV Dramas,64,1,97.62,1
+United States,TV Horror,12,1,97.62,1
+United States,TV Mysteries,2,1,97.62,1
+United States,TV Sci-Fi & Fantasy,1,1,97.62,1
+United States,TV Shows,4,1,97.62,1
+United States,TV Thrillers,2,1,97.62,1
+United Kingdom,Action & Adventure,52,1,78.57,2
+United Kingdom,Anime Features,0,0,78.57,2
+United Kingdom,Anime Series,0,0,78.57,2
+United Kingdom,British TV Shows,216,1,78.57,2
+United Kingdom,Children & Family Movies,21,1,78.57,2
+United Kingdom,Classic & Cult TV,1,1,78.57,2
+United Kingdom,Classic Movies,10,1,78.57,2
+United Kingdom,Comedies,49,1,78.57,2
+United Kingdom,Crime TV Shows,4,1,78.57,2
+United Kingdom,Cult Movies,0,0,78.57,2
+United Kingdom,Documentaries,104,1,78.57,2
+United Kingdom,Docuseries,9,1,78.57,2
+United Kingdom,Dramas,109,1,78.57,2
+United Kingdom,Faith & Spirituality,2,1,78.57,2
+United Kingdom,Horror Movies,21,1,78.57,2
+United Kingdom,Independent Movies,12,1,78.57,2
+United Kingdom,International Movies,28,1,78.57,2
+United Kingdom,International TV Shows,5,1,78.57,2
+United Kingdom,Kids' TV,12,1,78.57,2
+United Kingdom,Korean TV Shows,0,0,78.57,2
+United Kingdom,LGBTQ Movies,1,1,78.57,2
+United Kingdom,Movies,4,1,78.57,2
+United Kingdom,Music & Musicals,7,1,78.57,2
+United Kingdom,Reality TV,3,1,78.57,2
+United Kingdom,Romantic Movies,6,1,78.57,2
+United Kingdom,Romantic TV Shows,1,1,78.57,2
+United Kingdom,Sci-Fi & Fantasy,8,1,78.57,2
+United Kingdom,Science & Nature TV,2,1,78.57,2
+United Kingdom,Spanish-Language TV Shows,1,1,78.57,2
+United Kingdom,Sports Movies,1,1,78.57,2
+United Kingdom,Stand-Up Comedy,18,1,78.57,2
+United Kingdom,Stand-Up Comedy & Talk Shows,0,0,78.57,2
+United Kingdom,Teen TV Shows,0,0,78.57,2
+United Kingdom,Thrillers,14,1,78.57,2
+United Kingdom,TV Action & Adventure,3,1,78.57,2
+United Kingdom,TV Comedies,1,1,78.57,2
+United Kingdom,TV Dramas,2,1,78.57,2
+United Kingdom,TV Horror,1,1,78.57,2
+United Kingdom,TV Mysteries,1,1,78.57,2
+United Kingdom,TV Sci-Fi & Fantasy,0,0,78.57,2
+United Kingdom,TV Shows,0,0,78.57,2
+United Kingdom,TV Thrillers,0,0,78.57,2
+Canada,Action & Adventure,16,1,73.81,3
+Canada,Anime Features,0,0,73.81,3
+Canada,Anime Series,0,0,73.81,3
+Canada,British TV Shows,0,0,73.81,3
+Canada,Children & Family Movies,39,1,73.81,3
+Canada,Classic & Cult TV,2,1,73.81,3
+Canada,Classic Movies,0,0,73.81,3
+Canada,Comedies,55,1,73.81,3
+Canada,Crime TV Shows,13,1,73.81,3
+Canada,Cult Movies,3,1,73.81,3
+Canada,Documentaries,33,1,73.81,3
+Canada,Docuseries,8,1,73.81,3
+Canada,Dramas,41,1,73.81,3
+Canada,Faith & Spirituality,1,1,73.81,3
+Canada,Horror Movies,20,1,73.81,3
+Canada,Independent Movies,11,1,73.81,3
+Canada,International Movies,12,1,73.81,3
+Canada,International TV Shows,16,1,73.81,3
+Canada,Kids' TV,34,1,73.81,3
+Canada,Korean TV Shows,0,0,73.81,3
+Canada,LGBTQ Movies,1,1,73.81,3
+Canada,Movies,3,1,73.81,3
+Canada,Music & Musicals,4,1,73.81,3
+Canada,Reality TV,2,1,73.81,3
+Canada,Romantic Movies,4,1,73.81,3
+Canada,Romantic TV Shows,1,1,73.81,3
+Canada,Sci-Fi & Fantasy,8,1,73.81,3
+Canada,Science & Nature TV,0,0,73.81,3
+Canada,Spanish-Language TV Shows,0,0,73.81,3
+Canada,Sports Movies,2,1,73.81,3
+Canada,Stand-Up Comedy,2,1,73.81,3
+Canada,Stand-Up Comedy & Talk Shows,0,0,73.81,3
+Canada,Teen TV Shows,0,0,73.81,3
+Canada,Thrillers,10,1,73.81,3
+Canada,TV Action & Adventure,6,1,73.81,3
+Canada,TV Comedies,8,1,73.81,3
+Canada,TV Dramas,7,1,73.81,3
+Canada,TV Horror,1,1,73.81,3
+Canada,TV Mysteries,2,1,73.81,3
+Canada,TV Sci-Fi & Fantasy,3,1,73.81,3
+Canada,TV Shows,0,0,73.81,3
+Canada,TV Thrillers,0,0,73.81,3
+Australia,Action & Adventure,8,1,57.14,4
+Australia,Anime Features,0,0,57.14,4
+Australia,Anime Series,0,0,57.14,4
+Australia,British TV Shows,2,1,57.14,4
+Australia,Children & Family Movies,14,1,57.14,4
+Australia,Classic & Cult TV,0,0,57.14,4
+Australia,Classic Movies,3,1,57.14,4
+Australia,Comedies,6,1,57.14,4
+Australia,Crime TV Shows,7,1,57.14,4
+Australia,Cult Movies,0,0,57.14,4
+Australia,Documentaries,10,1,57.14,4
+Australia,Docuseries,8,1,57.14,4
+Australia,Dramas,12,1,57.14,4
+Australia,Faith & Spirituality,1,1,57.14,4
+Australia,Horror Movies,2,1,57.14,4
+Australia,Independent Movies,0,0,57.14,4
+Australia,International Movies,8,1,57.14,4
+Australia,International TV Shows,17,1,57.14,4
+Australia,Kids' TV,14,1,57.14,4
+Australia,Korean TV Shows,0,0,57.14,4
+Australia,LGBTQ Movies,0,0,57.14,4
+Australia,Movies,3,1,57.14,4
+Australia,Music & Musicals,0,0,57.14,4
+Australia,Reality TV,4,1,57.14,4
+Australia,Romantic Movies,3,1,57.14,4
+Australia,Romantic TV Shows,1,1,57.14,4
+Australia,Sci-Fi & Fantasy,2,1,57.14,4
+Australia,Science & Nature TV,0,0,57.14,4
+Australia,Spanish-Language TV Shows,0,0,57.14,4
+Australia,Sports Movies,1,1,57.14,4
+Australia,Stand-Up Comedy,3,1,57.14,4
+Australia,Stand-Up Comedy & Talk Shows,0,0,57.14,4
+Australia,Teen TV Shows,0,0,57.14,4
+Australia,Thrillers,3,1,57.14,4
+Australia,TV Action & Adventure,0,0,57.14,4
+Australia,TV Comedies,4,1,57.14,4
+Australia,TV Dramas,2,1,57.14,4
+Australia,TV Horror,0,0,57.14,4
+Australia,TV Mysteries,0,0,57.14,4
+Australia,TV Sci-Fi & Fantasy,0,0,57.14,4
+Australia,TV Shows,0,0,57.14,4
+Australia,TV Thrillers,0,0,57.14,4
+Spain,Action & Adventure,6,1,54.76,5
+Spain,Anime Features,0,0,54.76,5
+Spain,Anime Series,1,1,54.76,5
+Spain,British TV Shows,1,1,54.76,5
+Spain,Children & Family Movies,5,1,54.76,5
+Spain,Classic & Cult TV,0,0,54.76,5
+Spain,Classic Movies,0,0,54.76,5
+Spain,Comedies,36,1,54.76,5
+Spain,Crime TV Shows,22,1,54.76,5
+Spain,Cult Movies,0,0,54.76,5
+Spain,Documentaries,18,1,54.76,5
+Spain,Docuseries,1,1,54.76,5
+Spain,Dramas,45,1,54.76,5
+Spain,Faith & Spirituality,0,0,54.76,5
+Spain,Horror Movies,6,1,54.76,5
+Spain,Independent Movies,4,1,54.76,5
+Spain,International Movies,26,1,54.76,5
+Spain,International TV Shows,26,1,54.76,5
+Spain,Kids' TV,4,1,54.76,5
+Spain,Korean TV Shows,0,0,54.76,5
+Spain,LGBTQ Movies,1,1,54.76,5
+Spain,Movies,1,1,54.76,5
+Spain,Music & Musicals,0,0,54.76,5
+Spain,Reality TV,0,0,54.76,5
+Spain,Romantic Movies,0,0,54.76,5
+Spain,Romantic TV Shows,0,0,54.76,5
+Spain,Sci-Fi & Fantasy,3,1,54.76,5
+Spain,Science & Nature TV,1,1,54.76,5
+Spain,Spanish-Language TV Shows,2,1,54.76,5
+Spain,Sports Movies,1,1,54.76,5
+Spain,Stand-Up Comedy,1,1,54.76,5
+Spain,Stand-Up Comedy & Talk Shows,0,0,54.76,5
+Spain,Teen TV Shows,0,0,54.76,5
+Spain,Thrillers,4,1,54.76,5
+Spain,TV Action & Adventure,0,0,54.76,5
+Spain,TV Comedies,0,0,54.76,5
+Spain,TV Dramas,1,1,54.76,5
+Spain,TV Horror,0,0,54.76,5
+Spain,TV Mysteries,0,0,54.76,5
+Spain,TV Sci-Fi & Fantasy,0,0,54.76,5
+Spain,TV Shows,0,0,54.76,5
+Spain,TV Thrillers,0,0,54.76,5
+Germany,Action & Adventure,9,1,52.38,6
+Germany,Anime Features,0,0,52.38,6
+Germany,Anime Series,0,0,52.38,6
+Germany,British TV Shows,1,1,52.38,6
+Germany,Children & Family Movies,12,1,52.38,6
+Germany,Classic & Cult TV,0,0,52.38,6
+Germany,Classic Movies,0,0,52.38,6
+Germany,Comedies,21,1,52.38,6
+Germany,Crime TV Shows,7,1,52.38,6
+Germany,Cult Movies,1,1,52.38,6
+Germany,Documentaries,11,1,52.38,6
+Germany,Docuseries,3,1,52.38,6
+Germany,Dramas,27,1,52.38,6
+Germany,Faith & Spirituality,0,0,52.38,6
+Germany,Horror Movies,1,1,52.38,6
+Germany,Independent Movies,10,1,52.38,6
+Germany,International Movies,14,1,52.38,6
+Germany,International TV Shows,21,1,52.38,6
+Germany,Kids' TV,4,1,52.38,6
+Germany,Korean TV Shows,0,0,52.38,6
+Germany,LGBTQ Movies,0,0,52.38,6
+Germany,Movies,0,0,52.38,6
+Germany,Music & Musicals,1,1,52.38,6
+Germany,Reality TV,0,0,52.38,6
+Germany,Romantic Movies,4,1,52.38,6
+Germany,Romantic TV Shows,0,0,52.38,6
+Germany,Sci-Fi & Fantasy,6,1,52.38,6
+Germany,Science & Nature TV,0,0,52.38,6
+Germany,Spanish-Language TV Shows,0,0,52.38,6
+Germany,Sports Movies,3,1,52.38,6
+Germany,Stand-Up Comedy,5,1,52.38,6
+Germany,Stand-Up Comedy & Talk Shows,0,0,52.38,6
+Germany,Teen TV Shows,0,0,52.38,6
+Germany,Thrillers,10,1,52.38,6
+Germany,TV Action & Adventure,0,0,52.38,6
+Germany,TV Comedies,1,1,52.38,6
+Germany,TV Dramas,1,1,52.38,6
+Germany,TV Horror,0,0,52.38,6
+Germany,TV Mysteries,0,0,52.38,6
+Germany,TV Sci-Fi & Fantasy,0,0,52.38,6
+Germany,TV Shows,0,0,52.38,6
+Germany,TV Thrillers,0,0,52.38,6
+India,Action & Adventure,130,1,52.38,6
+India,Anime Features,0,0,52.38,6
+India,Anime Series,0,0,52.38,6
+India,British TV Shows,2,1,52.38,6
+India,Children & Family Movies,21,1,52.38,6
+India,Classic & Cult TV,0,0,52.38,6
+India,Classic Movies,9,1,52.38,6
+India,Comedies,271,1,52.38,6
+India,Crime TV Shows,9,1,52.38,6
+India,Cult Movies,1,1,52.38,6
+India,Documentaries,20,1,52.38,6
+India,Docuseries,7,1,52.38,6
+India,Dramas,408,1,52.38,6
+India,Faith & Spirituality,1,1,52.38,6
+India,Horror Movies,30,1,52.38,6
+India,Independent Movies,5,1,52.38,6
+India,International Movies,47,1,52.38,6
+India,International TV Shows,48,1,52.38,6
+India,Kids' TV,11,1,52.38,6
+India,Korean TV Shows,0,0,52.38,6
+India,LGBTQ Movies,0,0,52.38,6
+India,Movies,0,0,52.38,6
+India,Music & Musicals,1,1,52.38,6
+India,Reality TV,1,1,52.38,6
+India,Romantic Movies,0,0,52.38,6
+India,Romantic TV Shows,1,1,52.38,6
+India,Sci-Fi & Fantasy,1,1,52.38,6
+India,Science & Nature TV,0,0,52.38,6
+India,Spanish-Language TV Shows,0,0,52.38,6
+India,Sports Movies,0,0,52.38,6
+India,Stand-Up Comedy,6,1,52.38,6
+India,Stand-Up Comedy & Talk Shows,0,0,52.38,6
+India,Teen TV Shows,0,0,52.38,6
+India,Thrillers,0,0,52.38,6
+India,TV Action & Adventure,0,0,52.38,6
+India,TV Comedies,0,0,52.38,6
+India,TV Dramas,0,0,52.38,6
+India,TV Horror,0,0,52.38,6
+India,TV Mysteries,0,0,52.38,6
+India,TV Sci-Fi & Fantasy,0,0,52.38,6
+India,TV Shows,3,1,52.38,6
+India,TV Thrillers,0,0,52.38,6
+Japan,Action & Adventure,49,1,52.38,6
+Japan,Anime Features,19,1,52.38,6
+Japan,Anime Series,136,1,52.38,6
+Japan,British TV Shows,0,0,52.38,6
+Japan,Children & Family Movies,0,0,52.38,6
+Japan,Classic & Cult TV,0,0,52.38,6
+Japan,Classic Movies,0,0,52.38,6
+Japan,Comedies,2,1,52.38,6
+Japan,Crime TV Shows,4,1,52.38,6
+Japan,Cult Movies,0,0,52.38,6
+Japan,Documentaries,2,1,52.38,6
+Japan,Docuseries,1,1,52.38,6
+Japan,Dramas,11,1,52.38,6
+Japan,Faith & Spirituality,0,0,52.38,6
+Japan,Horror Movies,3,1,52.38,6
+Japan,Independent Movies,3,1,52.38,6
+Japan,International Movies,7,1,52.38,6
+Japan,International TV Shows,35,1,52.38,6
+Japan,Kids' TV,2,1,52.38,6
+Japan,Korean TV Shows,0,0,52.38,6
+Japan,LGBTQ Movies,0,0,52.38,6
+Japan,Movies,1,1,52.38,6
+Japan,Music & Musicals,1,1,52.38,6
+Japan,Reality TV,2,1,52.38,6
+Japan,Romantic Movies,3,1,52.38,6
+Japan,Romantic TV Shows,0,0,52.38,6
+Japan,Sci-Fi & Fantasy,1,1,52.38,6
+Japan,Science & Nature TV,0,0,52.38,6
+Japan,Spanish-Language TV Shows,0,0,52.38,6
+Japan,Sports Movies,0,0,52.38,6
+Japan,Stand-Up Comedy,0,0,52.38,6
+Japan,Stand-Up Comedy & Talk Shows,0,0,52.38,6
+Japan,Teen TV Shows,0,0,52.38,6
+Japan,Thrillers,0,0,52.38,6
+Japan,TV Action & Adventure,0,0,52.38,6
+Japan,TV Comedies,1,1,52.38,6
+Japan,TV Dramas,1,1,52.38,6
+Japan,TV Horror,1,1,52.38,6
+Japan,TV Mysteries,0,0,52.38,6
+Japan,TV Sci-Fi & Fantasy,0,0,52.38,6
+Japan,TV Shows,1,1,52.38,6
+Japan,TV Thrillers,0,0,52.38,6
+France,Action & Adventure,24,1,50.00,7
+France,Anime Features,0,0,50.00,7
+France,Anime Series,0,0,50.00,7
+France,British TV Shows,0,0,50.00,7
+France,Children & Family Movies,10,1,50.00,7
+France,Classic & Cult TV,0,0,50.00,7
+France,Classic Movies,3,1,50.00,7
+France,Comedies,32,1,50.00,7
+France,Crime TV Shows,19,1,50.00,7
+France,Cult Movies,1,1,50.00,7
+France,Documentaries,22,1,50.00,7
+France,Docuseries,2,1,50.00,7
+France,Dramas,58,1,50.00,7
+France,Faith & Spirituality,0,0,50.00,7
+France,Horror Movies,3,1,50.00,7
+France,Independent Movies,31,1,50.00,7
+France,International Movies,46,1,50.00,7
+France,International TV Shows,22,1,50.00,7
+France,Kids' TV,25,1,50.00,7
+France,Korean TV Shows,0,0,50.00,7
+France,LGBTQ Movies,0,0,50.00,7
+France,Movies,1,1,50.00,7
+France,Music & Musicals,0,0,50.00,7
+France,Reality TV,0,0,50.00,7
+France,Romantic Movies,2,1,50.00,7
+France,Romantic TV Shows,0,0,50.00,7
+France,Sci-Fi & Fantasy,3,1,50.00,7
+France,Science & Nature TV,0,0,50.00,7
+France,Spanish-Language TV Shows,0,0,50.00,7
+France,Sports Movies,2,1,50.00,7
+France,Stand-Up Comedy,5,1,50.00,7
+France,Stand-Up Comedy & Talk Shows,0,0,50.00,7
+France,Teen TV Shows,0,0,50.00,7
+France,Thrillers,11,1,50.00,7
+France,TV Action & Adventure,0,0,50.00,7
+France,TV Comedies,4,1,50.00,7
+France,TV Dramas,0,0,50.00,7
+France,TV Horror,0,0,50.00,7
+France,TV Mysteries,0,0,50.00,7
+France,TV Sci-Fi & Fantasy,0,0,50.00,7
+France,TV Shows,0,0,50.00,7
+France,TV Thrillers,0,0,50.00,7
+Mexico,Action & Adventure,3,1,50.00,7
+Mexico,Anime Features,0,0,50.00,7
+Mexico,Anime Series,0,0,50.00,7
+Mexico,British TV Shows,0,0,50.00,7
+Mexico,Children & Family Movies,3,1,50.00,7
+Mexico,Classic & Cult TV,2,1,50.00,7
+Mexico,Classic Movies,1,1,50.00,7
+Mexico,Comedies,18,1,50.00,7
+Mexico,Crime TV Shows,27,1,50.00,7
+Mexico,Cult Movies,0,0,50.00,7
+Mexico,Documentaries,12,1,50.00,7
+Mexico,Docuseries,1,1,50.00,7
+Mexico,Dramas,28,1,50.00,7
+Mexico,Faith & Spirituality,0,0,50.00,7
+Mexico,Horror Movies,6,1,50.00,7
+Mexico,Independent Movies,0,0,50.00,7
+Mexico,International Movies,8,1,50.00,7
+Mexico,International TV Shows,17,1,50.00,7
+Mexico,Kids' TV,2,1,50.00,7
+Mexico,Korean TV Shows,0,0,50.00,7
+Mexico,LGBTQ Movies,0,0,50.00,7
+Mexico,Movies,1,1,50.00,7
+Mexico,Music & Musicals,0,0,50.00,7
+Mexico,Reality TV,1,1,50.00,7
+Mexico,Romantic Movies,0,0,50.00,7
+Mexico,Romantic TV Shows,0,0,50.00,7
+Mexico,Sci-Fi & Fantasy,2,1,50.00,7
+Mexico,Science & Nature TV,0,0,50.00,7
+Mexico,Spanish-Language TV Shows,1,1,50.00,7
+Mexico,Sports Movies,1,1,50.00,7
+Mexico,Stand-Up Comedy,18,1,50.00,7
+Mexico,Stand-Up Comedy & Talk Shows,0,0,50.00,7
+Mexico,Teen TV Shows,0,0,50.00,7
+Mexico,Thrillers,0,0,50.00,7
+Mexico,TV Action & Adventure,2,1,50.00,7
+Mexico,TV Comedies,0,0,50.00,7
+Mexico,TV Dramas,3,1,50.00,7
+Mexico,TV Horror,0,0,50.00,7
+Mexico,TV Mysteries,0,0,50.00,7
+Mexico,TV Sci-Fi & Fantasy,0,0,50.00,7
+Mexico,TV Shows,0,0,50.00,7
+Mexico,TV Thrillers,0,0,50.00,7
+China,Action & Adventure,31,1,47.62,8
+China,Anime Features,1,1,47.62,8
+China,Anime Series,2,1,47.62,8
+China,British TV Shows,2,1,47.62,8
+China,Children & Family Movies,8,1,47.62,8
+China,Classic & Cult TV,0,0,47.62,8
+China,Classic Movies,0,0,47.62,8
+China,Comedies,16,1,47.62,8
+China,Crime TV Shows,4,1,47.62,8
+China,Cult Movies,0,0,47.62,8
+China,Documentaries,2,1,47.62,8
+China,Docuseries,1,1,47.62,8
+China,Dramas,14,1,47.62,8
+China,Faith & Spirituality,0,0,47.62,8
+China,Horror Movies,0,0,47.62,8
+China,Independent Movies,1,1,47.62,8
+China,International Movies,17,1,47.62,8
+China,International TV Shows,31,1,47.62,8
+China,Kids' TV,2,1,47.62,8
+China,Korean TV Shows,0,0,47.62,8
+China,LGBTQ Movies,0,0,47.62,8
+China,Movies,0,0,47.62,8
+China,Music & Musicals,0,0,47.62,8
+China,Reality TV,1,1,47.62,8
+China,Romantic Movies,0,0,47.62,8
+China,Romantic TV Shows,1,1,47.62,8
+China,Sci-Fi & Fantasy,3,1,47.62,8
+China,Science & Nature TV,0,0,47.62,8
+China,Spanish-Language TV Shows,0,0,47.62,8
+China,Sports Movies,1,1,47.62,8
+China,Stand-Up Comedy,0,0,47.62,8
+China,Stand-Up Comedy & Talk Shows,0,0,47.62,8
+China,Teen TV Shows,0,0,47.62,8
+China,Thrillers,3,1,47.62,8
+China,TV Action & Adventure,0,0,47.62,8
+China,TV Comedies,0,0,47.62,8
+China,TV Dramas,1,1,47.62,8
+China,TV Horror,0,0,47.62,8
+China,TV Mysteries,0,0,47.62,8
+China,TV Sci-Fi & Fantasy,0,0,47.62,8
+China,TV Shows,0,0,47.62,8
+China,TV Thrillers,0,0,47.62,8
+Italy,Action & Adventure,3,1,40.48,9
+Italy,Anime Features,0,0,40.48,9
+Italy,Anime Series,0,0,40.48,9
+Italy,British TV Shows,1,1,40.48,9
+Italy,Children & Family Movies,0,0,40.48,9
+Italy,Classic & Cult TV,0,0,40.48,9
+Italy,Classic Movies,3,1,40.48,9
+Italy,Comedies,8,1,40.48,9
+Italy,Crime TV Shows,4,1,40.48,9
+Italy,Cult Movies,0,0,40.48,9
+Italy,Documentaries,9,1,40.48,9
+Italy,Docuseries,0,0,40.48,9
+Italy,Dramas,21,1,40.48,9
+Italy,Faith & Spirituality,0,0,40.48,9
+Italy,Horror Movies,2,1,40.48,9
+Italy,Independent Movies,1,1,40.48,9
+Italy,International Movies,7,1,40.48,9
+Italy,International TV Shows,7,1,40.48,9
+Italy,Kids' TV,6,1,40.48,9
+Italy,Korean TV Shows,0,0,40.48,9
+Italy,LGBTQ Movies,0,0,40.48,9
+Italy,Movies,0,0,40.48,9
+Italy,Music & Musicals,1,1,40.48,9
+Italy,Reality TV,0,0,40.48,9
+Italy,Romantic Movies,1,1,40.48,9
+Italy,Romantic TV Shows,0,0,40.48,9
+Italy,Sci-Fi & Fantasy,0,0,40.48,9
+Italy,Science & Nature TV,0,0,40.48,9
+Italy,Spanish-Language TV Shows,0,0,40.48,9
+Italy,Sports Movies,0,0,40.48,9
+Italy,Stand-Up Comedy,4,1,40.48,9
+Italy,Stand-Up Comedy & Talk Shows,0,0,40.48,9
+Italy,Teen TV Shows,0,0,40.48,9
+Italy,Thrillers,2,1,40.48,9
+Italy,TV Action & Adventure,0,0,40.48,9
+Italy,TV Comedies,0,0,40.48,9
+Italy,TV Dramas,2,1,40.48,9
+Italy,TV Horror,0,0,40.48,9
+Italy,TV Mysteries,0,0,40.48,9
+Italy,TV Sci-Fi & Fantasy,0,0,40.48,9
+Italy,TV Shows,0,0,40.48,9
+Italy,TV Thrillers,0,0,40.48,9
+South Korea,Action & Adventure,16,1,38.10,10
+South Korea,Anime Features,0,0,38.10,10
+South Korea,Anime Series,0,0,38.10,10
+South Korea,British TV Shows,0,0,38.10,10
+South Korea,Children & Family Movies,3,1,38.10,10
+South Korea,Classic & Cult TV,0,0,38.10,10
+South Korea,Classic Movies,0,0,38.10,10
+South Korea,Comedies,8,1,38.10,10
+South Korea,Crime TV Shows,24,1,38.10,10
+South Korea,Cult Movies,0,0,38.10,10
+South Korea,Documentaries,1,1,38.10,10
+South Korea,Docuseries,0,0,38.10,10
+South Korea,Dramas,13,1,38.10,10
+South Korea,Faith & Spirituality,0,0,38.10,10
+South Korea,Horror Movies,2,1,38.10,10
+South Korea,Independent Movies,1,1,38.10,10
+South Korea,International Movies,8,1,38.10,10
+South Korea,International TV Shows,127,1,38.10,10
+South Korea,Kids' TV,13,1,38.10,10
+South Korea,Korean TV Shows,1,1,38.10,10
+South Korea,LGBTQ Movies,0,0,38.10,10
+South Korea,Movies,0,0,38.10,10
+South Korea,Music & Musicals,0,0,38.10,10
+South Korea,Reality TV,0,0,38.10,10
+South Korea,Romantic Movies,0,0,38.10,10
+South Korea,Romantic TV Shows,0,0,38.10,10
+South Korea,Sci-Fi & Fantasy,0,0,38.10,10
+South Korea,Science & Nature TV,0,0,38.10,10
+South Korea,Spanish-Language TV Shows,0,0,38.10,10
+South Korea,Sports Movies,0,0,38.10,10
+South Korea,Stand-Up Comedy,2,1,38.10,10
+South Korea,Stand-Up Comedy & Talk Shows,0,0,38.10,10
+South Korea,Teen TV Shows,0,0,38.10,10
+South Korea,Thrillers,0,0,38.10,10
+South Korea,TV Action & Adventure,1,1,38.10,10
+South Korea,TV Comedies,1,1,38.10,10
+South Korea,TV Dramas,1,1,38.10,10
+South Korea,TV Horror,0,0,38.10,10
+South Korea,TV Mysteries,0,0,38.10,10
+South Korea,TV Sci-Fi & Fantasy,0,0,38.10,10
+South Korea,TV Shows,0,0,38.10,10
+South Korea,TV Thrillers,0,0,38.10,10
+Argentina,Action & Adventure,2,1,35.71,11
+Argentina,Anime Features,0,0,35.71,11
+Argentina,Anime Series,0,0,35.71,11
+Argentina,British TV Shows,0,0,35.71,11
+Argentina,Children & Family Movies,2,1,35.71,11
+Argentina,Classic & Cult TV,1,1,35.71,11
+Argentina,Classic Movies,1,1,35.71,11
+Argentina,Comedies,9,1,35.71,11
+Argentina,Crime TV Shows,7,1,35.71,11
+Argentina,Cult Movies,0,0,35.71,11
+Argentina,Documentaries,8,1,35.71,11
+Argentina,Docuseries,1,1,35.71,11
+Argentina,Dramas,27,1,35.71,11
+Argentina,Faith & Spirituality,0,0,35.71,11
+Argentina,Horror Movies,2,1,35.71,11
+Argentina,Independent Movies,2,1,35.71,11
+Argentina,International Movies,6,1,35.71,11
+Argentina,International TV Shows,8,1,35.71,11
+Argentina,Kids' TV,3,1,35.71,11
+Argentina,Korean TV Shows,0,0,35.71,11
+Argentina,LGBTQ Movies,0,0,35.71,11
+Argentina,Movies,0,0,35.71,11
+Argentina,Music & Musicals,0,0,35.71,11
+Argentina,Reality TV,0,0,35.71,11
+Argentina,Romantic Movies,0,0,35.71,11
+Argentina,Romantic TV Shows,0,0,35.71,11
+Argentina,Sci-Fi & Fantasy,0,0,35.71,11
+Argentina,Science & Nature TV,0,0,35.71,11
+Argentina,Spanish-Language TV Shows,0,0,35.71,11
+Argentina,Sports Movies,0,0,35.71,11
+Argentina,Stand-Up Comedy,8,1,35.71,11
+Argentina,Stand-Up Comedy & Talk Shows,0,0,35.71,11
+Argentina,Teen TV Shows,0,0,35.71,11
+Argentina,Thrillers,0,0,35.71,11
+Argentina,TV Action & Adventure,0,0,35.71,11
+Argentina,TV Comedies,0,0,35.71,11
+Argentina,TV Dramas,0,0,35.71,11
+Argentina,TV Horror,0,0,35.71,11
+Argentina,TV Mysteries,0,0,35.71,11
+Argentina,TV Sci-Fi & Fantasy,0,0,35.71,11
+Argentina,TV Shows,0,0,35.71,11
+Argentina,TV Thrillers,0,0,35.71,11
+Czech Republic,Action & Adventure,1,1,33.33,12
+Czech Republic,Anime Features,0,0,33.33,12
+Czech Republic,Anime Series,0,0,33.33,12
+Czech Republic,British TV Shows,0,0,33.33,12
+Czech Republic,Children & Family Movies,0,0,33.33,12
+Czech Republic,Classic & Cult TV,0,0,33.33,12
+Czech Republic,Classic Movies,0,0,33.33,12
+Czech Republic,Comedies,1,1,33.33,12
+Czech Republic,Crime TV Shows,0,0,33.33,12
+Czech Republic,Cult Movies,1,1,33.33,12
+Czech Republic,Documentaries,1,1,33.33,12
+Czech Republic,Docuseries,3,1,33.33,12
+Czech Republic,Dramas,3,1,33.33,12
+Czech Republic,Faith & Spirituality,0,0,33.33,12
+Czech Republic,Horror Movies,1,1,33.33,12
+Czech Republic,Independent Movies,0,0,33.33,12
+Czech Republic,International Movies,3,1,33.33,12
+Czech Republic,International TV Shows,0,0,33.33,12
+Czech Republic,Kids' TV,0,0,33.33,12
+Czech Republic,Korean TV Shows,0,0,33.33,12
+Czech Republic,LGBTQ Movies,0,0,33.33,12
+Czech Republic,Movies,0,0,33.33,12
+Czech Republic,Music & Musicals,0,0,33.33,12
+Czech Republic,Reality TV,0,0,33.33,12
+Czech Republic,Romantic Movies,1,1,33.33,12
+Czech Republic,Romantic TV Shows,0,0,33.33,12
+Czech Republic,Sci-Fi & Fantasy,1,1,33.33,12
+Czech Republic,Science & Nature TV,1,1,33.33,12
+Czech Republic,Spanish-Language TV Shows,0,0,33.33,12
+Czech Republic,Sports Movies,0,0,33.33,12
+Czech Republic,Stand-Up Comedy,0,0,33.33,12
+Czech Republic,Stand-Up Comedy & Talk Shows,0,0,33.33,12
+Czech Republic,Teen TV Shows,0,0,33.33,12
+Czech Republic,Thrillers,1,1,33.33,12
+Czech Republic,TV Action & Adventure,0,0,33.33,12
+Czech Republic,TV Comedies,0,0,33.33,12
+Czech Republic,TV Dramas,1,1,33.33,12
+Czech Republic,TV Horror,1,1,33.33,12
+Czech Republic,TV Mysteries,0,0,33.33,12
+Czech Republic,TV Sci-Fi & Fantasy,0,0,33.33,12
+Czech Republic,TV Shows,0,0,33.33,12
+Czech Republic,TV Thrillers,0,0,33.33,12
+Netherlands,Action & Adventure,1,1,33.33,12
+Netherlands,Anime Features,0,0,33.33,12
+Netherlands,Anime Series,0,0,33.33,12
+Netherlands,British TV Shows,1,1,33.33,12
+Netherlands,Children & Family Movies,5,1,33.33,12
+Netherlands,Classic & Cult TV,0,0,33.33,12
+Netherlands,Classic Movies,0,0,33.33,12
+Netherlands,Comedies,3,1,33.33,12
+Netherlands,Crime TV Shows,1,1,33.33,12
+Netherlands,Cult Movies,0,0,33.33,12
+Netherlands,Documentaries,4,1,33.33,12
+Netherlands,Docuseries,0,0,33.33,12
+Netherlands,Dramas,7,1,33.33,12
+Netherlands,Faith & Spirituality,0,0,33.33,12
+Netherlands,Horror Movies,0,0,33.33,12
+Netherlands,Independent Movies,3,1,33.33,12
+Netherlands,International Movies,8,1,33.33,12
+Netherlands,International TV Shows,3,1,33.33,12
+Netherlands,Kids' TV,1,1,33.33,12
+Netherlands,Korean TV Shows,0,0,33.33,12
+Netherlands,LGBTQ Movies,0,0,33.33,12
+Netherlands,Movies,0,0,33.33,12
+Netherlands,Music & Musicals,1,1,33.33,12
+Netherlands,Reality TV,0,0,33.33,12
+Netherlands,Romantic Movies,1,1,33.33,12
+Netherlands,Romantic TV Shows,0,0,33.33,12
+Netherlands,Sci-Fi & Fantasy,0,0,33.33,12
+Netherlands,Science & Nature TV,0,0,33.33,12
+Netherlands,Spanish-Language TV Shows,0,0,33.33,12
+Netherlands,Sports Movies,0,0,33.33,12
+Netherlands,Stand-Up Comedy,1,1,33.33,12
+Netherlands,Stand-Up Comedy & Talk Shows,0,0,33.33,12
+Netherlands,Teen TV Shows,0,0,33.33,12
+Netherlands,Thrillers,0,0,33.33,12
+Netherlands,TV Action & Adventure,0,0,33.33,12
+Netherlands,TV Comedies,0,0,33.33,12
+Netherlands,TV Dramas,0,0,33.33,12
+Netherlands,TV Horror,0,0,33.33,12
+Netherlands,TV Mysteries,0,0,33.33,12
+Netherlands,TV Sci-Fi & Fantasy,0,0,33.33,12
+Netherlands,TV Shows,0,0,33.33,12
+Netherlands,TV Thrillers,0,0,33.33,12
+New Zealand,Action & Adventure,4,1,33.33,12
+New Zealand,Anime Features,0,0,33.33,12
+New Zealand,Anime Series,0,0,33.33,12
+New Zealand,British TV Shows,0,0,33.33,12
+New Zealand,Children & Family Movies,1,1,33.33,12
+New Zealand,Classic & Cult TV,0,0,33.33,12
+New Zealand,Classic Movies,1,1,33.33,12
+New Zealand,Comedies,1,1,33.33,12
+New Zealand,Crime TV Shows,0,0,33.33,12
+New Zealand,Cult Movies,0,0,33.33,12
+New Zealand,Documentaries,4,1,33.33,12
+New Zealand,Docuseries,1,1,33.33,12
+New Zealand,Dramas,5,1,33.33,12
+New Zealand,Faith & Spirituality,0,0,33.33,12
+New Zealand,Horror Movies,1,1,33.33,12
+New Zealand,Independent Movies,0,0,33.33,12
+New Zealand,International Movies,0,0,33.33,12
+New Zealand,International TV Shows,1,1,33.33,12
+New Zealand,Kids' TV,0,0,33.33,12
+New Zealand,Korean TV Shows,0,0,33.33,12
+New Zealand,LGBTQ Movies,0,0,33.33,12
+New Zealand,Movies,0,0,33.33,12
+New Zealand,Music & Musicals,0,0,33.33,12
+New Zealand,Reality TV,0,0,33.33,12
+New Zealand,Romantic Movies,1,1,33.33,12
+New Zealand,Romantic TV Shows,0,0,33.33,12
+New Zealand,Sci-Fi & Fantasy,2,1,33.33,12
+New Zealand,Science & Nature TV,0,0,33.33,12
+New Zealand,Spanish-Language TV Shows,0,0,33.33,12
+New Zealand,Sports Movies,0,0,33.33,12
+New Zealand,Stand-Up Comedy,0,0,33.33,12
+New Zealand,Stand-Up Comedy & Talk Shows,0,0,33.33,12
+New Zealand,Teen TV Shows,0,0,33.33,12
+New Zealand,Thrillers,0,0,33.33,12
+New Zealand,TV Action & Adventure,1,1,33.33,12
+New Zealand,TV Comedies,0,0,33.33,12
+New Zealand,TV Dramas,1,1,33.33,12
+New Zealand,TV Horror,0,0,33.33,12
+New Zealand,TV Mysteries,0,0,33.33,12
+New Zealand,TV Sci-Fi & Fantasy,1,1,33.33,12
+New Zealand,TV Shows,0,0,33.33,12
+New Zealand,TV Thrillers,0,0,33.33,12
+Poland,Action & Adventure,2,1,33.33,12
+Poland,Anime Features,0,0,33.33,12
+Poland,Anime Series,0,0,33.33,12
+Poland,British TV Shows,0,0,33.33,12
+Poland,Children & Family Movies,0,0,33.33,12
+Poland,Classic & Cult TV,0,0,33.33,12
+Poland,Classic Movies,2,1,33.33,12
+Poland,Comedies,6,1,33.33,12
+Poland,Crime TV Shows,6,1,33.33,12
+Poland,Cult Movies,0,0,33.33,12
+Poland,Documentaries,1,1,33.33,12
+Poland,Docuseries,1,1,33.33,12
+Poland,Dramas,9,1,33.33,12
+Poland,Faith & Spirituality,0,0,33.33,12
+Poland,Horror Movies,2,1,33.33,12
+Poland,Independent Movies,0,0,33.33,12
+Poland,International Movies,3,1,33.33,12
+Poland,International TV Shows,1,1,33.33,12
+Poland,Kids' TV,0,0,33.33,12
+Poland,Korean TV Shows,0,0,33.33,12
+Poland,LGBTQ Movies,0,0,33.33,12
+Poland,Movies,0,0,33.33,12
+Poland,Music & Musicals,0,0,33.33,12
+Poland,Reality TV,0,0,33.33,12
+Poland,Romantic Movies,1,1,33.33,12
+Poland,Romantic TV Shows,0,0,33.33,12
+Poland,Sci-Fi & Fantasy,1,1,33.33,12
+Poland,Science & Nature TV,0,0,33.33,12
+Poland,Spanish-Language TV Shows,0,0,33.33,12
+Poland,Sports Movies,0,0,33.33,12
+Poland,Stand-Up Comedy,0,0,33.33,12
+Poland,Stand-Up Comedy & Talk Shows,0,0,33.33,12
+Poland,Teen TV Shows,0,0,33.33,12
+Poland,Thrillers,1,1,33.33,12
+Poland,TV Action & Adventure,1,1,33.33,12
+Poland,TV Comedies,0,0,33.33,12
+Poland,TV Dramas,0,0,33.33,12
+Poland,TV Horror,0,0,33.33,12
+Poland,TV Mysteries,0,0,33.33,12
+Poland,TV Sci-Fi & Fantasy,0,0,33.33,12
+Poland,TV Shows,0,0,33.33,12
+Poland,TV Thrillers,0,0,33.33,12
+Brazil,Action & Adventure,4,1,30.95,13
+Brazil,Anime Features,0,0,30.95,13
+Brazil,Anime Series,0,0,30.95,13
+Brazil,British TV Shows,0,0,30.95,13
+Brazil,Children & Family Movies,7,1,30.95,13
+Brazil,Classic & Cult TV,0,0,30.95,13
+Brazil,Classic Movies,0,0,30.95,13
+Brazil,Comedies,13,1,30.95,13
+Brazil,Crime TV Shows,6,1,30.95,13
+Brazil,Cult Movies,0,0,30.95,13
+Brazil,Documentaries,11,1,30.95,13
+Brazil,Docuseries,5,1,30.95,13
+Brazil,Dramas,13,1,30.95,13
+Brazil,Faith & Spirituality,0,0,30.95,13
+Brazil,Horror Movies,0,0,30.95,13
+Brazil,Independent Movies,4,1,30.95,13
+Brazil,International Movies,2,1,30.95,13
+Brazil,International TV Shows,15,1,30.95,13
+Brazil,Kids' TV,2,1,30.95,13
+Brazil,Korean TV Shows,0,0,30.95,13
+Brazil,LGBTQ Movies,0,0,30.95,13
+Brazil,Movies,0,0,30.95,13
+Brazil,Music & Musicals,0,0,30.95,13
+Brazil,Reality TV,0,0,30.95,13
+Brazil,Romantic Movies,0,0,30.95,13
+Brazil,Romantic TV Shows,0,0,30.95,13
+Brazil,Sci-Fi & Fantasy,0,0,30.95,13
+Brazil,Science & Nature TV,0,0,30.95,13
+Brazil,Spanish-Language TV Shows,0,0,30.95,13
+Brazil,Sports Movies,0,0,30.95,13
+Brazil,Stand-Up Comedy,9,1,30.95,13
+Brazil,Stand-Up Comedy & Talk Shows,0,0,30.95,13
+Brazil,Teen TV Shows,0,0,30.95,13
+Brazil,Thrillers,0,0,30.95,13
+Brazil,TV Action & Adventure,0,0,30.95,13
+Brazil,TV Comedies,1,1,30.95,13
+Brazil,TV Dramas,0,0,30.95,13
+Brazil,TV Horror,0,0,30.95,13
+Brazil,TV Mysteries,0,0,30.95,13
+Brazil,TV Sci-Fi & Fantasy,0,0,30.95,13
+Brazil,TV Shows,0,0,30.95,13
+Brazil,TV Thrillers,0,0,30.95,13
+Ireland,Action & Adventure,3,1,30.95,13
+Ireland,Anime Features,0,0,30.95,13
+Ireland,Anime Series,0,0,30.95,13
+Ireland,British TV Shows,0,0,30.95,13
+Ireland,Children & Family Movies,3,1,30.95,13
+Ireland,Classic & Cult TV,0,0,30.95,13
+Ireland,Classic Movies,0,0,30.95,13
+Ireland,Comedies,3,1,30.95,13
+Ireland,Crime TV Shows,1,1,30.95,13
+Ireland,Cult Movies,0,0,30.95,13
+Ireland,Documentaries,4,1,30.95,13
+Ireland,Docuseries,0,0,30.95,13
+Ireland,Dramas,7,1,30.95,13
+Ireland,Faith & Spirituality,0,0,30.95,13
+Ireland,Horror Movies,3,1,30.95,13
+Ireland,Independent Movies,0,0,30.95,13
+Ireland,International Movies,3,1,30.95,13
+Ireland,International TV Shows,3,1,30.95,13
+Ireland,Kids' TV,2,1,30.95,13
+Ireland,Korean TV Shows,0,0,30.95,13
+Ireland,LGBTQ Movies,0,0,30.95,13
+Ireland,Movies,0,0,30.95,13
+Ireland,Music & Musicals,0,0,30.95,13
+Ireland,Reality TV,0,0,30.95,13
+Ireland,Romantic Movies,2,1,30.95,13
+Ireland,Romantic TV Shows,0,0,30.95,13
+Ireland,Sci-Fi & Fantasy,0,0,30.95,13
+Ireland,Science & Nature TV,0,0,30.95,13
+Ireland,Spanish-Language TV Shows,0,0,30.95,13
+Ireland,Sports Movies,0,0,30.95,13
+Ireland,Stand-Up Comedy,0,0,30.95,13
+Ireland,Stand-Up Comedy & Talk Shows,0,0,30.95,13
+Ireland,Teen TV Shows,0,0,30.95,13
+Ireland,Thrillers,0,0,30.95,13
+Ireland,TV Action & Adventure,0,0,30.95,13
+Ireland,TV Comedies,3,1,30.95,13
+Ireland,TV Dramas,2,1,30.95,13
+Ireland,TV Horror,0,0,30.95,13
+Ireland,TV Mysteries,0,0,30.95,13
+Ireland,TV Sci-Fi & Fantasy,0,0,30.95,13
+Ireland,TV Shows,0,0,30.95,13
+Ireland,TV Thrillers,0,0,30.95,13
+Belgium,Action & Adventure,0,0,28.57,14
+Belgium,Anime Features,0,0,28.57,14
+Belgium,Anime Series,0,0,28.57,14
+Belgium,British TV Shows,0,0,28.57,14
+Belgium,Children & Family Movies,1,1,28.57,14
+Belgium,Classic & Cult TV,0,0,28.57,14
+Belgium,Classic Movies,0,0,28.57,14
+Belgium,Comedies,3,1,28.57,14
+Belgium,Crime TV Shows,6,1,28.57,14
+Belgium,Cult Movies,0,0,28.57,14
+Belgium,Documentaries,3,1,28.57,14
+Belgium,Docuseries,0,0,28.57,14
+Belgium,Dramas,13,1,28.57,14
+Belgium,Faith & Spirituality,0,0,28.57,14
+Belgium,Horror Movies,2,1,28.57,14
+Belgium,Independent Movies,5,1,28.57,14
+Belgium,International Movies,28,1,28.57,14
+Belgium,International TV Shows,5,1,28.57,14
+Belgium,Kids' TV,0,0,28.57,14
+Belgium,Korean TV Shows,0,0,28.57,14
+Belgium,LGBTQ Movies,0,0,28.57,14
+Belgium,Movies,0,0,28.57,14
+Belgium,Music & Musicals,1,1,28.57,14
+Belgium,Reality TV,0,0,28.57,14
+Belgium,Romantic Movies,0,0,28.57,14
+Belgium,Romantic TV Shows,0,0,28.57,14
+Belgium,Sci-Fi & Fantasy,1,1,28.57,14
+Belgium,Science & Nature TV,0,0,28.57,14
+Belgium,Spanish-Language TV Shows,0,0,28.57,14
+Belgium,Sports Movies,0,0,28.57,14
+Belgium,Stand-Up Comedy,0,0,28.57,14
+Belgium,Stand-Up Comedy & Talk Shows,0,0,28.57,14
+Belgium,Teen TV Shows,0,0,28.57,14
+Belgium,Thrillers,1,1,28.57,14
+Belgium,TV Action & Adventure,0,0,28.57,14
+Belgium,TV Comedies,0,0,28.57,14
+Belgium,TV Dramas,0,0,28.57,14
+Belgium,TV Horror,0,0,28.57,14
+Belgium,TV Mysteries,0,0,28.57,14
+Belgium,TV Sci-Fi & Fantasy,0,0,28.57,14
+Belgium,TV Shows,0,0,28.57,14
+Belgium,TV Thrillers,0,0,28.57,14
+Denmark,Action & Adventure,1,1,28.57,14
+Denmark,Anime Features,0,0,28.57,14
+Denmark,Anime Series,0,0,28.57,14
+Denmark,British TV Shows,0,0,28.57,14
+Denmark,Children & Family Movies,1,1,28.57,14
+Denmark,Classic & Cult TV,0,0,28.57,14
+Denmark,Classic Movies,0,0,28.57,14
+Denmark,Comedies,0,0,28.57,14
+Denmark,Crime TV Shows,1,1,28.57,14
+Denmark,Cult Movies,1,1,28.57,14
+Denmark,Documentaries,6,1,28.57,14
+Denmark,Docuseries,0,0,28.57,14
+Denmark,Dramas,9,1,28.57,14
+Denmark,Faith & Spirituality,0,0,28.57,14
+Denmark,Horror Movies,0,0,28.57,14
+Denmark,Independent Movies,1,1,28.57,14
+Denmark,International Movies,7,1,28.57,14
+Denmark,International TV Shows,8,1,28.57,14
+Denmark,Kids' TV,3,1,28.57,14
+Denmark,Korean TV Shows,0,0,28.57,14
+Denmark,LGBTQ Movies,0,0,28.57,14
+Denmark,Movies,0,0,28.57,14
+Denmark,Music & Musicals,0,0,28.57,14
+Denmark,Reality TV,0,0,28.57,14
+Denmark,Romantic Movies,1,1,28.57,14
+Denmark,Romantic TV Shows,0,0,28.57,14
+Denmark,Sci-Fi & Fantasy,0,0,28.57,14
+Denmark,Science & Nature TV,0,0,28.57,14
+Denmark,Spanish-Language TV Shows,0,0,28.57,14
+Denmark,Sports Movies,0,0,28.57,14
+Denmark,Stand-Up Comedy,0,0,28.57,14
+Denmark,Stand-Up Comedy & Talk Shows,0,0,28.57,14
+Denmark,Teen TV Shows,0,0,28.57,14
+Denmark,Thrillers,0,0,28.57,14
+Denmark,TV Action & Adventure,1,1,28.57,14
+Denmark,TV Comedies,0,0,28.57,14
+Denmark,TV Dramas,0,0,28.57,14
+Denmark,TV Horror,0,0,28.57,14
+Denmark,TV Mysteries,0,0,28.57,14
+Denmark,TV Sci-Fi & Fantasy,0,0,28.57,14
+Denmark,TV Shows,0,0,28.57,14
+Denmark,TV Thrillers,0,0,28.57,14
+Israel,Action & Adventure,1,1,28.57,14
+Israel,Anime Features,0,0,28.57,14
+Israel,Anime Series,0,0,28.57,14
+Israel,British TV Shows,0,0,28.57,14
+Israel,Children & Family Movies,0,0,28.57,14
+Israel,Classic & Cult TV,0,0,28.57,14
+Israel,Classic Movies,0,0,28.57,14
+Israel,Comedies,2,1,28.57,14
+Israel,Crime TV Shows,4,1,28.57,14
+Israel,Cult Movies,0,0,28.57,14
+Israel,Documentaries,2,1,28.57,14
+Israel,Docuseries,2,1,28.57,14
+Israel,Dramas,5,1,28.57,14
+Israel,Faith & Spirituality,0,0,28.57,14
+Israel,Horror Movies,1,1,28.57,14
+Israel,Independent Movies,1,1,28.57,14
+Israel,International Movies,3,1,28.57,14
+Israel,International TV Shows,3,1,28.57,14
+Israel,Kids' TV,0,0,28.57,14
+Israel,Korean TV Shows,0,0,28.57,14
+Israel,LGBTQ Movies,0,0,28.57,14
+Israel,Movies,0,0,28.57,14
+Israel,Music & Musicals,0,0,28.57,14
+Israel,Reality TV,0,0,28.57,14
+Israel,Romantic Movies,0,0,28.57,14
+Israel,Romantic TV Shows,1,1,28.57,14
+Israel,Sci-Fi & Fantasy,0,0,28.57,14
+Israel,Science & Nature TV,0,0,28.57,14
+Israel,Spanish-Language TV Shows,0,0,28.57,14
+Israel,Sports Movies,0,0,28.57,14
+Israel,Stand-Up Comedy,0,0,28.57,14
+Israel,Stand-Up Comedy & Talk Shows,0,0,28.57,14
+Israel,Teen TV Shows,0,0,28.57,14
+Israel,Thrillers,0,0,28.57,14
+Israel,TV Action & Adventure,1,1,28.57,14
+Israel,TV Comedies,0,0,28.57,14
+Israel,TV Dramas,0,0,28.57,14
+Israel,TV Horror,0,0,28.57,14
+Israel,TV Mysteries,0,0,28.57,14
+Israel,TV Sci-Fi & Fantasy,0,0,28.57,14
+Israel,TV Shows,0,0,28.57,14
+Israel,TV Thrillers,0,0,28.57,14
+Norway,Action & Adventure,3,1,26.19,15
+Norway,Anime Features,0,0,26.19,15
+Norway,Anime Series,0,0,26.19,15
+Norway,British TV Shows,0,0,26.19,15
+Norway,Children & Family Movies,1,1,26.19,15
+Norway,Classic & Cult TV,0,0,26.19,15
+Norway,Classic Movies,0,0,26.19,15
+Norway,Comedies,1,1,26.19,15
+Norway,Crime TV Shows,2,1,26.19,15
+Norway,Cult Movies,0,0,26.19,15
+Norway,Documentaries,1,1,26.19,15
+Norway,Docuseries,1,1,26.19,15
+Norway,Dramas,6,1,26.19,15
+Norway,Faith & Spirituality,0,0,26.19,15
+Norway,Horror Movies,1,1,26.19,15
+Norway,Independent Movies,2,1,26.19,15
+Norway,International Movies,1,1,26.19,15
+Norway,International TV Shows,6,1,26.19,15
+Norway,Kids' TV,0,0,26.19,15
+Norway,Korean TV Shows,0,0,26.19,15
+Norway,LGBTQ Movies,0,0,26.19,15
+Norway,Movies,0,0,26.19,15
+Norway,Music & Musicals,0,0,26.19,15
+Norway,Reality TV,0,0,26.19,15
+Norway,Romantic Movies,0,0,26.19,15
+Norway,Romantic TV Shows,0,0,26.19,15
+Norway,Sci-Fi & Fantasy,0,0,26.19,15
+Norway,Science & Nature TV,0,0,26.19,15
+Norway,Spanish-Language TV Shows,0,0,26.19,15
+Norway,Sports Movies,0,0,26.19,15
+Norway,Stand-Up Comedy,0,0,26.19,15
+Norway,Stand-Up Comedy & Talk Shows,0,0,26.19,15
+Norway,Teen TV Shows,0,0,26.19,15
+Norway,Thrillers,0,0,26.19,15
+Norway,TV Action & Adventure,0,0,26.19,15
+Norway,TV Comedies,0,0,26.19,15
+Norway,TV Dramas,0,0,26.19,15
+Norway,TV Horror,0,0,26.19,15
+Norway,TV Mysteries,0,0,26.19,15
+Norway,TV Sci-Fi & Fantasy,0,0,26.19,15
+Norway,TV Shows,0,0,26.19,15
+Norway,TV Thrillers,0,0,26.19,15
+Russia,Action & Adventure,1,1,26.19,15
+Russia,Anime Features,0,0,26.19,15
+Russia,Anime Series,0,0,26.19,15
+Russia,British TV Shows,0,0,26.19,15
+Russia,Children & Family Movies,2,1,26.19,15
+Russia,Classic & Cult TV,0,0,26.19,15
+Russia,Classic Movies,0,0,26.19,15
+Russia,Comedies,0,0,26.19,15
+Russia,Crime TV Shows,6,1,26.19,15
+Russia,Cult Movies,0,0,26.19,15
+Russia,Documentaries,0,0,26.19,15
+Russia,Docuseries,0,0,26.19,15
+Russia,Dramas,3,1,26.19,15
+Russia,Faith & Spirituality,0,0,26.19,15
+Russia,Horror Movies,0,0,26.19,15
+Russia,Independent Movies,0,0,26.19,15
+Russia,International Movies,1,1,26.19,15
+Russia,International TV Shows,3,1,26.19,15
+Russia,Kids' TV,5,1,26.19,15
+Russia,Korean TV Shows,0,0,26.19,15
+Russia,LGBTQ Movies,0,0,26.19,15
+Russia,Movies,0,0,26.19,15
+Russia,Music & Musicals,0,0,26.19,15
+Russia,Reality TV,0,0,26.19,15
+Russia,Romantic Movies,0,0,26.19,15
+Russia,Romantic TV Shows,0,0,26.19,15
+Russia,Sci-Fi & Fantasy,1,1,26.19,15
+Russia,Science & Nature TV,1,1,26.19,15
+Russia,Spanish-Language TV Shows,0,0,26.19,15
+Russia,Sports Movies,1,1,26.19,15
+Russia,Stand-Up Comedy,0,0,26.19,15
+Russia,Stand-Up Comedy & Talk Shows,0,0,26.19,15
+Russia,Teen TV Shows,0,0,26.19,15
+Russia,Thrillers,1,1,26.19,15
+Russia,TV Action & Adventure,0,0,26.19,15
+Russia,TV Comedies,0,0,26.19,15
+Russia,TV Dramas,0,0,26.19,15
+Russia,TV Horror,0,0,26.19,15
+Russia,TV Mysteries,0,0,26.19,15
+Russia,TV Sci-Fi & Fantasy,0,0,26.19,15
+Russia,TV Shows,0,0,26.19,15
+Russia,TV Thrillers,0,0,26.19,15
+Singapore,Action & Adventure,1,1,26.19,15
+Singapore,Anime Features,0,0,26.19,15
+Singapore,Anime Series,0,0,26.19,15
+Singapore,British TV Shows,0,0,26.19,15
+Singapore,Children & Family Movies,0,0,26.19,15
+Singapore,Classic & Cult TV,0,0,26.19,15
+Singapore,Classic Movies,0,0,26.19,15
+Singapore,Comedies,0,0,26.19,15
+Singapore,Crime TV Shows,5,1,26.19,15
+Singapore,Cult Movies,0,0,26.19,15
+Singapore,Documentaries,1,1,26.19,15
+Singapore,Docuseries,0,0,26.19,15
+Singapore,Dramas,3,1,26.19,15
+Singapore,Faith & Spirituality,0,0,26.19,15
+Singapore,Horror Movies,2,1,26.19,15
+Singapore,Independent Movies,0,0,26.19,15
+Singapore,International Movies,4,1,26.19,15
+Singapore,International TV Shows,14,1,26.19,15
+Singapore,Kids' TV,0,0,26.19,15
+Singapore,Korean TV Shows,1,1,26.19,15
+Singapore,LGBTQ Movies,0,0,26.19,15
+Singapore,Movies,0,0,26.19,15
+Singapore,Music & Musicals,0,0,26.19,15
+Singapore,Reality TV,0,0,26.19,15
+Singapore,Romantic Movies,0,0,26.19,15
+Singapore,Romantic TV Shows,0,0,26.19,15
+Singapore,Sci-Fi & Fantasy,0,0,26.19,15
+Singapore,Science & Nature TV,0,0,26.19,15
+Singapore,Spanish-Language TV Shows,0,0,26.19,15
+Singapore,Sports Movies,0,0,26.19,15
+Singapore,Stand-Up Comedy,1,1,26.19,15
+Singapore,Stand-Up Comedy & Talk Shows,0,0,26.19,15
+Singapore,Teen TV Shows,0,0,26.19,15
+Singapore,Thrillers,1,1,26.19,15
+Singapore,TV Action & Adventure,0,0,26.19,15
+Singapore,TV Comedies,1,1,26.19,15
+Singapore,TV Dramas,0,0,26.19,15
+Singapore,TV Horror,0,0,26.19,15
+Singapore,TV Mysteries,0,0,26.19,15
+Singapore,TV Sci-Fi & Fantasy,0,0,26.19,15
+Singapore,TV Shows,0,0,26.19,15
+Singapore,TV Thrillers,0,0,26.19,15
+South Africa,Action & Adventure,8,1,26.19,15
+South Africa,Anime Features,0,0,26.19,15
+South Africa,Anime Series,0,0,26.19,15
+South Africa,British TV Shows,0,0,26.19,15
+South Africa,Children & Family Movies,1,1,26.19,15
+South Africa,Classic & Cult TV,0,0,26.19,15
+South Africa,Classic Movies,0,0,26.19,15
+South Africa,Comedies,14,1,26.19,15
+South Africa,Crime TV Shows,2,1,26.19,15
+South Africa,Cult Movies,0,0,26.19,15
+South Africa,Documentaries,1,1,26.19,15
+South Africa,Docuseries,0,0,26.19,15
+South Africa,Dramas,12,1,26.19,15
+South Africa,Faith & Spirituality,0,0,26.19,15
+South Africa,Horror Movies,0,0,26.19,15
+South Africa,Independent Movies,0,0,26.19,15
+South Africa,International Movies,5,1,26.19,15
+South Africa,International TV Shows,5,1,26.19,15
+South Africa,Kids' TV,0,0,26.19,15
+South Africa,Korean TV Shows,0,0,26.19,15
+South Africa,LGBTQ Movies,0,0,26.19,15
+South Africa,Movies,0,0,26.19,15
+South Africa,Music & Musicals,0,0,26.19,15
+South Africa,Reality TV,0,0,26.19,15
+South Africa,Romantic Movies,0,0,26.19,15
+South Africa,Romantic TV Shows,0,0,26.19,15
+South Africa,Sci-Fi & Fantasy,0,0,26.19,15
+South Africa,Science & Nature TV,0,0,26.19,15
+South Africa,Spanish-Language TV Shows,0,0,26.19,15
+South Africa,Sports Movies,0,0,26.19,15
+South Africa,Stand-Up Comedy,1,1,26.19,15
+South Africa,Stand-Up Comedy & Talk Shows,0,0,26.19,15
+South Africa,Teen TV Shows,0,0,26.19,15
+South Africa,Thrillers,0,0,26.19,15
+South Africa,TV Action & Adventure,0,0,26.19,15
+South Africa,TV Comedies,1,1,26.19,15
+South Africa,TV Dramas,1,1,26.19,15
+South Africa,TV Horror,0,0,26.19,15
+South Africa,TV Mysteries,0,0,26.19,15
+South Africa,TV Sci-Fi & Fantasy,0,0,26.19,15
+South Africa,TV Shows,0,0,26.19,15
+South Africa,TV Thrillers,0,0,26.19,15
+Sweden,Action & Adventure,0,0,26.19,15
+Sweden,Anime Features,0,0,26.19,15
+Sweden,Anime Series,0,0,26.19,15
+Sweden,British TV Shows,0,0,26.19,15
+Sweden,Children & Family Movies,0,0,26.19,15
+Sweden,Classic & Cult TV,0,0,26.19,15
+Sweden,Classic Movies,0,0,26.19,15
+Sweden,Comedies,3,1,26.19,15
+Sweden,Crime TV Shows,3,1,26.19,15
+Sweden,Cult Movies,0,0,26.19,15
+Sweden,Documentaries,5,1,26.19,15
+Sweden,Docuseries,0,0,26.19,15
+Sweden,Dramas,2,1,26.19,15
+Sweden,Faith & Spirituality,0,0,26.19,15
+Sweden,Horror Movies,0,0,26.19,15
+Sweden,Independent Movies,1,1,26.19,15
+Sweden,International Movies,3,1,26.19,15
+Sweden,International TV Shows,5,1,26.19,15
+Sweden,Kids' TV,0,0,26.19,15
+Sweden,Korean TV Shows,0,0,26.19,15
+Sweden,LGBTQ Movies,0,0,26.19,15
+Sweden,Movies,0,0,26.19,15
+Sweden,Music & Musicals,0,0,26.19,15
+Sweden,Reality TV,0,0,26.19,15
+Sweden,Romantic Movies,0,0,26.19,15
+Sweden,Romantic TV Shows,0,0,26.19,15
+Sweden,Sci-Fi & Fantasy,0,0,26.19,15
+Sweden,Science & Nature TV,0,0,26.19,15
+Sweden,Spanish-Language TV Shows,0,0,26.19,15
+Sweden,Sports Movies,1,1,26.19,15
+Sweden,Stand-Up Comedy,1,1,26.19,15
+Sweden,Stand-Up Comedy & Talk Shows,0,0,26.19,15
+Sweden,Teen TV Shows,0,0,26.19,15
+Sweden,Thrillers,2,1,26.19,15
+Sweden,TV Action & Adventure,0,0,26.19,15
+Sweden,TV Comedies,0,0,26.19,15
+Sweden,TV Dramas,2,1,26.19,15
+Sweden,TV Horror,0,0,26.19,15
+Sweden,TV Mysteries,0,0,26.19,15
+Sweden,TV Sci-Fi & Fantasy,0,0,26.19,15
+Sweden,TV Shows,0,0,26.19,15
+Sweden,TV Thrillers,0,0,26.19,15
+Egypt,Action & Adventure,15,1,23.81,16
+Egypt,Anime Features,0,0,23.81,16
+Egypt,Anime Series,0,0,23.81,16
+Egypt,British TV Shows,0,0,23.81,16
+Egypt,Children & Family Movies,1,1,23.81,16
+Egypt,Classic & Cult TV,0,0,23.81,16
+Egypt,Classic Movies,6,1,23.81,16
+Egypt,Comedies,51,1,23.81,16
+Egypt,Crime TV Shows,2,1,23.81,16
+Egypt,Cult Movies,0,0,23.81,16
+Egypt,Documentaries,1,1,23.81,16
+Egypt,Docuseries,0,0,23.81,16
+Egypt,Dramas,21,1,23.81,16
+Egypt,Faith & Spirituality,0,0,23.81,16
+Egypt,Horror Movies,3,1,23.81,16
+Egypt,Independent Movies,0,0,23.81,16
+Egypt,International Movies,4,1,23.81,16
+Egypt,International TV Shows,12,1,23.81,16
+Egypt,Kids' TV,0,0,23.81,16
+Egypt,Korean TV Shows,0,0,23.81,16
+Egypt,LGBTQ Movies,0,0,23.81,16
+Egypt,Movies,0,0,23.81,16
+Egypt,Music & Musicals,0,0,23.81,16
+Egypt,Reality TV,0,0,23.81,16
+Egypt,Romantic Movies,0,0,23.81,16
+Egypt,Romantic TV Shows,0,0,23.81,16
+Egypt,Sci-Fi & Fantasy,0,0,23.81,16
+Egypt,Science & Nature TV,0,0,23.81,16
+Egypt,Spanish-Language TV Shows,0,0,23.81,16
+Egypt,Sports Movies,0,0,23.81,16
+Egypt,Stand-Up Comedy,0,0,23.81,16
+Egypt,Stand-Up Comedy & Talk Shows,0,0,23.81,16
+Egypt,Teen TV Shows,0,0,23.81,16
+Egypt,Thrillers,0,0,23.81,16
+Egypt,TV Action & Adventure,0,0,23.81,16
+Egypt,TV Comedies,0,0,23.81,16
+Egypt,TV Dramas,0,0,23.81,16
+Egypt,TV Horror,0,0,23.81,16
+Egypt,TV Mysteries,0,0,23.81,16
+Egypt,TV Sci-Fi & Fantasy,0,0,23.81,16
+Egypt,TV Shows,0,0,23.81,16
+Egypt,TV Thrillers,0,0,23.81,16
+Indonesia,Action & Adventure,5,1,23.81,16
+Indonesia,Anime Features,0,0,23.81,16
+Indonesia,Anime Series,0,0,23.81,16
+Indonesia,British TV Shows,0,0,23.81,16
+Indonesia,Children & Family Movies,6,1,23.81,16
+Indonesia,Classic & Cult TV,0,0,23.81,16
+Indonesia,Classic Movies,0,0,23.81,16
+Indonesia,Comedies,15,1,23.81,16
+Indonesia,Crime TV Shows,0,0,23.81,16
+Indonesia,Cult Movies,0,0,23.81,16
+Indonesia,Documentaries,1,1,23.81,16
+Indonesia,Docuseries,0,0,23.81,16
+Indonesia,Dramas,47,1,23.81,16
+Indonesia,Faith & Spirituality,0,0,23.81,16
+Indonesia,Horror Movies,9,1,23.81,16
+Indonesia,Independent Movies,0,0,23.81,16
+Indonesia,International Movies,1,1,23.81,16
+Indonesia,International TV Shows,2,1,23.81,16
+Indonesia,Kids' TV,0,0,23.81,16
+Indonesia,Korean TV Shows,0,0,23.81,16
+Indonesia,LGBTQ Movies,0,0,23.81,16
+Indonesia,Movies,0,0,23.81,16
+Indonesia,Music & Musicals,0,0,23.81,16
+Indonesia,Reality TV,0,0,23.81,16
+Indonesia,Romantic Movies,1,1,23.81,16
+Indonesia,Romantic TV Shows,0,0,23.81,16
+Indonesia,Sci-Fi & Fantasy,0,0,23.81,16
+Indonesia,Science & Nature TV,0,0,23.81,16
+Indonesia,Spanish-Language TV Shows,0,0,23.81,16
+Indonesia,Sports Movies,0,0,23.81,16
+Indonesia,Stand-Up Comedy,0,0,23.81,16
+Indonesia,Stand-Up Comedy & Talk Shows,0,0,23.81,16
+Indonesia,Teen TV Shows,0,0,23.81,16
+Indonesia,Thrillers,0,0,23.81,16
+Indonesia,TV Action & Adventure,0,0,23.81,16
+Indonesia,TV Comedies,0,0,23.81,16
+Indonesia,TV Dramas,0,0,23.81,16
+Indonesia,TV Horror,1,1,23.81,16
+Indonesia,TV Mysteries,0,0,23.81,16
+Indonesia,TV Sci-Fi & Fantasy,0,0,23.81,16
+Indonesia,TV Shows,0,0,23.81,16
+Indonesia,TV Thrillers,0,0,23.81,16
+Thailand,Action & Adventure,7,1,23.81,16
+Thailand,Anime Features,0,0,23.81,16
+Thailand,Anime Series,0,0,23.81,16
+Thailand,British TV Shows,0,0,23.81,16
+Thailand,Children & Family Movies,1,1,23.81,16
+Thailand,Classic & Cult TV,0,0,23.81,16
+Thailand,Classic Movies,0,0,23.81,16
+Thailand,Comedies,11,1,23.81,16
+Thailand,Crime TV Shows,5,1,23.81,16
+Thailand,Cult Movies,0,0,23.81,16
+Thailand,Documentaries,4,1,23.81,16
+Thailand,Docuseries,1,1,23.81,16
+Thailand,Dramas,5,1,23.81,16
+Thailand,Faith & Spirituality,0,0,23.81,16
+Thailand,Horror Movies,10,1,23.81,16
+Thailand,Independent Movies,0,0,23.81,16
+Thailand,International Movies,4,1,23.81,16
+Thailand,International TV Shows,18,1,23.81,16
+Thailand,Kids' TV,0,0,23.81,16
+Thailand,Korean TV Shows,0,0,23.81,16
+Thailand,LGBTQ Movies,0,0,23.81,16
+Thailand,Movies,0,0,23.81,16
+Thailand,Music & Musicals,0,0,23.81,16
+Thailand,Reality TV,0,0,23.81,16
+Thailand,Romantic Movies,0,0,23.81,16
+Thailand,Romantic TV Shows,0,0,23.81,16
+Thailand,Sci-Fi & Fantasy,0,0,23.81,16
+Thailand,Science & Nature TV,0,0,23.81,16
+Thailand,Spanish-Language TV Shows,0,0,23.81,16
+Thailand,Sports Movies,0,0,23.81,16
+Thailand,Stand-Up Comedy,0,0,23.81,16
+Thailand,Stand-Up Comedy & Talk Shows,0,0,23.81,16
+Thailand,Teen TV Shows,0,0,23.81,16
+Thailand,Thrillers,0,0,23.81,16
+Thailand,TV Action & Adventure,0,0,23.81,16
+Thailand,TV Comedies,0,0,23.81,16
+Thailand,TV Dramas,0,0,23.81,16
+Thailand,TV Horror,0,0,23.81,16
+Thailand,TV Mysteries,0,0,23.81,16
+Thailand,TV Sci-Fi & Fantasy,0,0,23.81,16
+Thailand,TV Shows,0,0,23.81,16
+Thailand,TV Thrillers,0,0,23.81,16
+Chile,Action & Adventure,0,0,21.43,17
+Chile,Anime Features,0,0,21.43,17
+Chile,Anime Series,0,0,21.43,17
+Chile,British TV Shows,0,0,21.43,17
+Chile,Children & Family Movies,1,1,21.43,17
+Chile,Classic & Cult TV,0,0,21.43,17
+Chile,Classic Movies,0,0,21.43,17
+Chile,Comedies,5,1,21.43,17
+Chile,Crime TV Shows,0,0,21.43,17
+Chile,Cult Movies,0,0,21.43,17
+Chile,Documentaries,0,0,21.43,17
+Chile,Docuseries,0,0,21.43,17
+Chile,Dramas,8,1,21.43,17
+Chile,Faith & Spirituality,0,0,21.43,17
+Chile,Horror Movies,1,1,21.43,17
+Chile,Independent Movies,2,1,21.43,17
+Chile,International Movies,3,1,21.43,17
+Chile,International TV Shows,5,1,21.43,17
+Chile,Kids' TV,0,0,21.43,17
+Chile,Korean TV Shows,0,0,21.43,17
+Chile,LGBTQ Movies,0,0,21.43,17
+Chile,Movies,0,0,21.43,17
+Chile,Music & Musicals,0,0,21.43,17
+Chile,Reality TV,0,0,21.43,17
+Chile,Romantic Movies,0,0,21.43,17
+Chile,Romantic TV Shows,0,0,21.43,17
+Chile,Sci-Fi & Fantasy,0,0,21.43,17
+Chile,Science & Nature TV,0,0,21.43,17
+Chile,Spanish-Language TV Shows,0,0,21.43,17
+Chile,Sports Movies,0,0,21.43,17
+Chile,Stand-Up Comedy,3,1,21.43,17
+Chile,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Chile,Teen TV Shows,0,0,21.43,17
+Chile,Thrillers,1,1,21.43,17
+Chile,TV Action & Adventure,0,0,21.43,17
+Chile,TV Comedies,0,0,21.43,17
+Chile,TV Dramas,0,0,21.43,17
+Chile,TV Horror,0,0,21.43,17
+Chile,TV Mysteries,0,0,21.43,17
+Chile,TV Sci-Fi & Fantasy,0,0,21.43,17
+Chile,TV Shows,0,0,21.43,17
+Chile,TV Thrillers,0,0,21.43,17
+Colombia,Action & Adventure,0,0,21.43,17
+Colombia,Anime Features,0,0,21.43,17
+Colombia,Anime Series,0,0,21.43,17
+Colombia,British TV Shows,0,0,21.43,17
+Colombia,Children & Family Movies,0,0,21.43,17
+Colombia,Classic & Cult TV,0,0,21.43,17
+Colombia,Classic Movies,0,0,21.43,17
+Colombia,Comedies,8,1,21.43,17
+Colombia,Crime TV Shows,13,1,21.43,17
+Colombia,Cult Movies,0,0,21.43,17
+Colombia,Documentaries,2,1,21.43,17
+Colombia,Docuseries,0,0,21.43,17
+Colombia,Dramas,1,1,21.43,17
+Colombia,Faith & Spirituality,0,0,21.43,17
+Colombia,Horror Movies,0,0,21.43,17
+Colombia,Independent Movies,0,0,21.43,17
+Colombia,International Movies,3,1,21.43,17
+Colombia,International TV Shows,13,1,21.43,17
+Colombia,Kids' TV,0,0,21.43,17
+Colombia,Korean TV Shows,0,0,21.43,17
+Colombia,LGBTQ Movies,0,0,21.43,17
+Colombia,Movies,0,0,21.43,17
+Colombia,Music & Musicals,0,0,21.43,17
+Colombia,Reality TV,0,0,21.43,17
+Colombia,Romantic Movies,0,0,21.43,17
+Colombia,Romantic TV Shows,0,0,21.43,17
+Colombia,Sci-Fi & Fantasy,0,0,21.43,17
+Colombia,Science & Nature TV,0,0,21.43,17
+Colombia,Spanish-Language TV Shows,4,1,21.43,17
+Colombia,Sports Movies,0,0,21.43,17
+Colombia,Stand-Up Comedy,4,1,21.43,17
+Colombia,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Colombia,Teen TV Shows,0,0,21.43,17
+Colombia,Thrillers,0,0,21.43,17
+Colombia,TV Action & Adventure,1,1,21.43,17
+Colombia,TV Comedies,0,0,21.43,17
+Colombia,TV Dramas,0,0,21.43,17
+Colombia,TV Horror,0,0,21.43,17
+Colombia,TV Mysteries,0,0,21.43,17
+Colombia,TV Sci-Fi & Fantasy,0,0,21.43,17
+Colombia,TV Shows,0,0,21.43,17
+Colombia,TV Thrillers,0,0,21.43,17
+Hong Kong,Action & Adventure,50,1,21.43,17
+Hong Kong,Anime Features,0,0,21.43,17
+Hong Kong,Anime Series,0,0,21.43,17
+Hong Kong,British TV Shows,0,0,21.43,17
+Hong Kong,Children & Family Movies,2,1,21.43,17
+Hong Kong,Classic & Cult TV,0,0,21.43,17
+Hong Kong,Classic Movies,0,0,21.43,17
+Hong Kong,Comedies,17,1,21.43,17
+Hong Kong,Crime TV Shows,1,1,21.43,17
+Hong Kong,Cult Movies,0,0,21.43,17
+Hong Kong,Documentaries,0,0,21.43,17
+Hong Kong,Docuseries,0,0,21.43,17
+Hong Kong,Dramas,14,1,21.43,17
+Hong Kong,Faith & Spirituality,0,0,21.43,17
+Hong Kong,Horror Movies,0,0,21.43,17
+Hong Kong,Independent Movies,0,0,21.43,17
+Hong Kong,International Movies,10,1,21.43,17
+Hong Kong,International TV Shows,3,1,21.43,17
+Hong Kong,Kids' TV,0,0,21.43,17
+Hong Kong,Korean TV Shows,0,0,21.43,17
+Hong Kong,LGBTQ Movies,0,0,21.43,17
+Hong Kong,Movies,0,0,21.43,17
+Hong Kong,Music & Musicals,0,0,21.43,17
+Hong Kong,Reality TV,0,0,21.43,17
+Hong Kong,Romantic Movies,0,0,21.43,17
+Hong Kong,Romantic TV Shows,1,1,21.43,17
+Hong Kong,Sci-Fi & Fantasy,0,0,21.43,17
+Hong Kong,Science & Nature TV,0,0,21.43,17
+Hong Kong,Spanish-Language TV Shows,0,0,21.43,17
+Hong Kong,Sports Movies,0,0,21.43,17
+Hong Kong,Stand-Up Comedy,0,0,21.43,17
+Hong Kong,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Hong Kong,Teen TV Shows,0,0,21.43,17
+Hong Kong,Thrillers,1,1,21.43,17
+Hong Kong,TV Action & Adventure,0,0,21.43,17
+Hong Kong,TV Comedies,0,0,21.43,17
+Hong Kong,TV Dramas,0,0,21.43,17
+Hong Kong,TV Horror,0,0,21.43,17
+Hong Kong,TV Mysteries,0,0,21.43,17
+Hong Kong,TV Sci-Fi & Fantasy,0,0,21.43,17
+Hong Kong,TV Shows,0,0,21.43,17
+Hong Kong,TV Thrillers,0,0,21.43,17
+Malaysia,Action & Adventure,5,1,21.43,17
+Malaysia,Anime Features,0,0,21.43,17
+Malaysia,Anime Series,0,0,21.43,17
+Malaysia,British TV Shows,0,0,21.43,17
+Malaysia,Children & Family Movies,1,1,21.43,17
+Malaysia,Classic & Cult TV,0,0,21.43,17
+Malaysia,Classic Movies,0,0,21.43,17
+Malaysia,Comedies,3,1,21.43,17
+Malaysia,Crime TV Shows,0,0,21.43,17
+Malaysia,Cult Movies,0,0,21.43,17
+Malaysia,Documentaries,0,0,21.43,17
+Malaysia,Docuseries,0,0,21.43,17
+Malaysia,Dramas,7,1,21.43,17
+Malaysia,Faith & Spirituality,0,0,21.43,17
+Malaysia,Horror Movies,1,1,21.43,17
+Malaysia,Independent Movies,0,0,21.43,17
+Malaysia,International Movies,1,1,21.43,17
+Malaysia,International TV Shows,3,1,21.43,17
+Malaysia,Kids' TV,4,1,21.43,17
+Malaysia,Korean TV Shows,0,0,21.43,17
+Malaysia,LGBTQ Movies,0,0,21.43,17
+Malaysia,Movies,0,0,21.43,17
+Malaysia,Music & Musicals,0,0,21.43,17
+Malaysia,Reality TV,0,0,21.43,17
+Malaysia,Romantic Movies,0,0,21.43,17
+Malaysia,Romantic TV Shows,0,0,21.43,17
+Malaysia,Sci-Fi & Fantasy,0,0,21.43,17
+Malaysia,Science & Nature TV,0,0,21.43,17
+Malaysia,Spanish-Language TV Shows,0,0,21.43,17
+Malaysia,Sports Movies,0,0,21.43,17
+Malaysia,Stand-Up Comedy,0,0,21.43,17
+Malaysia,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Malaysia,Teen TV Shows,0,0,21.43,17
+Malaysia,Thrillers,0,0,21.43,17
+Malaysia,TV Action & Adventure,0,0,21.43,17
+Malaysia,TV Comedies,0,0,21.43,17
+Malaysia,TV Dramas,1,1,21.43,17
+Malaysia,TV Horror,0,0,21.43,17
+Malaysia,TV Mysteries,0,0,21.43,17
+Malaysia,TV Sci-Fi & Fantasy,0,0,21.43,17
+Malaysia,TV Shows,0,0,21.43,17
+Malaysia,TV Thrillers,0,0,21.43,17
+Nigeria,Action & Adventure,3,1,21.43,17
+Nigeria,Anime Features,0,0,21.43,17
+Nigeria,Anime Series,0,0,21.43,17
+Nigeria,British TV Shows,0,0,21.43,17
+Nigeria,Children & Family Movies,0,0,21.43,17
+Nigeria,Classic & Cult TV,0,0,21.43,17
+Nigeria,Classic Movies,0,0,21.43,17
+Nigeria,Comedies,37,1,21.43,17
+Nigeria,Crime TV Shows,1,1,21.43,17
+Nigeria,Cult Movies,0,0,21.43,17
+Nigeria,Documentaries,2,1,21.43,17
+Nigeria,Docuseries,0,0,21.43,17
+Nigeria,Dramas,43,1,21.43,17
+Nigeria,Faith & Spirituality,0,0,21.43,17
+Nigeria,Horror Movies,2,1,21.43,17
+Nigeria,Independent Movies,1,1,21.43,17
+Nigeria,International Movies,6,1,21.43,17
+Nigeria,International TV Shows,8,1,21.43,17
+Nigeria,Kids' TV,0,0,21.43,17
+Nigeria,Korean TV Shows,0,0,21.43,17
+Nigeria,LGBTQ Movies,0,0,21.43,17
+Nigeria,Movies,0,0,21.43,17
+Nigeria,Music & Musicals,0,0,21.43,17
+Nigeria,Reality TV,0,0,21.43,17
+Nigeria,Romantic Movies,0,0,21.43,17
+Nigeria,Romantic TV Shows,0,0,21.43,17
+Nigeria,Sci-Fi & Fantasy,0,0,21.43,17
+Nigeria,Science & Nature TV,0,0,21.43,17
+Nigeria,Spanish-Language TV Shows,0,0,21.43,17
+Nigeria,Sports Movies,0,0,21.43,17
+Nigeria,Stand-Up Comedy,0,0,21.43,17
+Nigeria,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Nigeria,Teen TV Shows,0,0,21.43,17
+Nigeria,Thrillers,0,0,21.43,17
+Nigeria,TV Action & Adventure,0,0,21.43,17
+Nigeria,TV Comedies,0,0,21.43,17
+Nigeria,TV Dramas,0,0,21.43,17
+Nigeria,TV Horror,0,0,21.43,17
+Nigeria,TV Mysteries,0,0,21.43,17
+Nigeria,TV Sci-Fi & Fantasy,0,0,21.43,17
+Nigeria,TV Shows,0,0,21.43,17
+Nigeria,TV Thrillers,0,0,21.43,17
+Taiwan,Action & Adventure,3,1,21.43,17
+Taiwan,Anime Features,0,0,21.43,17
+Taiwan,Anime Series,0,0,21.43,17
+Taiwan,British TV Shows,0,0,21.43,17
+Taiwan,Children & Family Movies,0,0,21.43,17
+Taiwan,Classic & Cult TV,0,0,21.43,17
+Taiwan,Classic Movies,0,0,21.43,17
+Taiwan,Comedies,3,1,21.43,17
+Taiwan,Crime TV Shows,5,1,21.43,17
+Taiwan,Cult Movies,0,0,21.43,17
+Taiwan,Documentaries,0,0,21.43,17
+Taiwan,Docuseries,0,0,21.43,17
+Taiwan,Dramas,5,1,21.43,17
+Taiwan,Faith & Spirituality,0,0,21.43,17
+Taiwan,Horror Movies,3,1,21.43,17
+Taiwan,Independent Movies,0,0,21.43,17
+Taiwan,International Movies,3,1,21.43,17
+Taiwan,International TV Shows,65,1,21.43,17
+Taiwan,Kids' TV,0,0,21.43,17
+Taiwan,Korean TV Shows,0,0,21.43,17
+Taiwan,LGBTQ Movies,0,0,21.43,17
+Taiwan,Movies,0,0,21.43,17
+Taiwan,Music & Musicals,1,1,21.43,17
+Taiwan,Reality TV,0,0,21.43,17
+Taiwan,Romantic Movies,0,0,21.43,17
+Taiwan,Romantic TV Shows,0,0,21.43,17
+Taiwan,Sci-Fi & Fantasy,0,0,21.43,17
+Taiwan,Science & Nature TV,0,0,21.43,17
+Taiwan,Spanish-Language TV Shows,0,0,21.43,17
+Taiwan,Sports Movies,1,1,21.43,17
+Taiwan,Stand-Up Comedy,0,0,21.43,17
+Taiwan,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Taiwan,Teen TV Shows,0,0,21.43,17
+Taiwan,Thrillers,0,0,21.43,17
+Taiwan,TV Action & Adventure,0,0,21.43,17
+Taiwan,TV Comedies,0,0,21.43,17
+Taiwan,TV Dramas,0,0,21.43,17
+Taiwan,TV Horror,0,0,21.43,17
+Taiwan,TV Mysteries,0,0,21.43,17
+Taiwan,TV Sci-Fi & Fantasy,0,0,21.43,17
+Taiwan,TV Shows,0,0,21.43,17
+Taiwan,TV Thrillers,0,0,21.43,17
+Turkey,Action & Adventure,5,1,21.43,17
+Turkey,Anime Features,0,0,21.43,17
+Turkey,Anime Series,0,0,21.43,17
+Turkey,British TV Shows,0,0,21.43,17
+Turkey,Children & Family Movies,2,1,21.43,17
+Turkey,Classic & Cult TV,0,0,21.43,17
+Turkey,Classic Movies,0,0,21.43,17
+Turkey,Comedies,52,1,21.43,17
+Turkey,Crime TV Shows,10,1,21.43,17
+Turkey,Cult Movies,0,0,21.43,17
+Turkey,Documentaries,0,0,21.43,17
+Turkey,Docuseries,0,0,21.43,17
+Turkey,Dramas,19,1,21.43,17
+Turkey,Faith & Spirituality,0,0,21.43,17
+Turkey,Horror Movies,3,1,21.43,17
+Turkey,Independent Movies,1,1,21.43,17
+Turkey,International Movies,1,1,21.43,17
+Turkey,International TV Shows,20,1,21.43,17
+Turkey,Kids' TV,0,0,21.43,17
+Turkey,Korean TV Shows,0,0,21.43,17
+Turkey,LGBTQ Movies,0,0,21.43,17
+Turkey,Movies,0,0,21.43,17
+Turkey,Music & Musicals,0,0,21.43,17
+Turkey,Reality TV,0,0,21.43,17
+Turkey,Romantic Movies,0,0,21.43,17
+Turkey,Romantic TV Shows,0,0,21.43,17
+Turkey,Sci-Fi & Fantasy,0,0,21.43,17
+Turkey,Science & Nature TV,0,0,21.43,17
+Turkey,Spanish-Language TV Shows,0,0,21.43,17
+Turkey,Sports Movies,0,0,21.43,17
+Turkey,Stand-Up Comedy,0,0,21.43,17
+Turkey,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+Turkey,Teen TV Shows,0,0,21.43,17
+Turkey,Thrillers,0,0,21.43,17
+Turkey,TV Action & Adventure,0,0,21.43,17
+Turkey,TV Comedies,0,0,21.43,17
+Turkey,TV Dramas,0,0,21.43,17
+Turkey,TV Horror,0,0,21.43,17
+Turkey,TV Mysteries,0,0,21.43,17
+Turkey,TV Sci-Fi & Fantasy,0,0,21.43,17
+Turkey,TV Shows,0,0,21.43,17
+Turkey,TV Thrillers,0,0,21.43,17
+United Arab Emirates,Action & Adventure,2,1,21.43,17
+United Arab Emirates,Anime Features,0,0,21.43,17
+United Arab Emirates,Anime Series,0,0,21.43,17
+United Arab Emirates,British TV Shows,0,0,21.43,17
+United Arab Emirates,Children & Family Movies,2,1,21.43,17
+United Arab Emirates,Classic & Cult TV,0,0,21.43,17
+United Arab Emirates,Classic Movies,0,0,21.43,17
+United Arab Emirates,Comedies,8,1,21.43,17
+United Arab Emirates,Crime TV Shows,0,0,21.43,17
+United Arab Emirates,Cult Movies,0,0,21.43,17
+United Arab Emirates,Documentaries,3,1,21.43,17
+United Arab Emirates,Docuseries,0,0,21.43,17
+United Arab Emirates,Dramas,5,1,21.43,17
+United Arab Emirates,Faith & Spirituality,0,0,21.43,17
+United Arab Emirates,Horror Movies,0,0,21.43,17
+United Arab Emirates,Independent Movies,2,1,21.43,17
+United Arab Emirates,International Movies,5,1,21.43,17
+United Arab Emirates,International TV Shows,1,1,21.43,17
+United Arab Emirates,Kids' TV,0,0,21.43,17
+United Arab Emirates,Korean TV Shows,0,0,21.43,17
+United Arab Emirates,LGBTQ Movies,0,0,21.43,17
+United Arab Emirates,Movies,0,0,21.43,17
+United Arab Emirates,Music & Musicals,0,0,21.43,17
+United Arab Emirates,Reality TV,0,0,21.43,17
+United Arab Emirates,Romantic Movies,0,0,21.43,17
+United Arab Emirates,Romantic TV Shows,0,0,21.43,17
+United Arab Emirates,Sci-Fi & Fantasy,1,1,21.43,17
+United Arab Emirates,Science & Nature TV,0,0,21.43,17
+United Arab Emirates,Spanish-Language TV Shows,0,0,21.43,17
+United Arab Emirates,Sports Movies,0,0,21.43,17
+United Arab Emirates,Stand-Up Comedy,0,0,21.43,17
+United Arab Emirates,Stand-Up Comedy & Talk Shows,0,0,21.43,17
+United Arab Emirates,Teen TV Shows,0,0,21.43,17
+United Arab Emirates,Thrillers,0,0,21.43,17
+United Arab Emirates,TV Action & Adventure,0,0,21.43,17
+United Arab Emirates,TV Comedies,0,0,21.43,17
+United Arab Emirates,TV Dramas,0,0,21.43,17
+United Arab Emirates,TV Horror,0,0,21.43,17
+United Arab Emirates,TV Mysteries,0,0,21.43,17
+United Arab Emirates,TV Sci-Fi & Fantasy,0,0,21.43,17
+United Arab Emirates,TV Shows,0,0,21.43,17
+United Arab Emirates,TV Thrillers,0,0,21.43,17
+Lebanon,Action & Adventure,0,0,19.05,18
+Lebanon,Anime Features,0,0,19.05,18
+Lebanon,Anime Series,0,0,19.05,18
+Lebanon,British TV Shows,0,0,19.05,18
+Lebanon,Children & Family Movies,0,0,19.05,18
+Lebanon,Classic & Cult TV,0,0,19.05,18
+Lebanon,Classic Movies,1,1,19.05,18
+Lebanon,Comedies,4,1,19.05,18
+Lebanon,Crime TV Shows,2,1,19.05,18
+Lebanon,Cult Movies,0,0,19.05,18
+Lebanon,Documentaries,5,1,19.05,18
+Lebanon,Docuseries,0,0,19.05,18
+Lebanon,Dramas,8,1,19.05,18
+Lebanon,Faith & Spirituality,0,0,19.05,18
+Lebanon,Horror Movies,0,0,19.05,18
+Lebanon,Independent Movies,2,1,19.05,18
+Lebanon,International Movies,2,1,19.05,18
+Lebanon,International TV Shows,4,1,19.05,18
+Lebanon,Kids' TV,0,0,19.05,18
+Lebanon,Korean TV Shows,0,0,19.05,18
+Lebanon,LGBTQ Movies,0,0,19.05,18
+Lebanon,Movies,0,0,19.05,18
+Lebanon,Music & Musicals,0,0,19.05,18
+Lebanon,Reality TV,0,0,19.05,18
+Lebanon,Romantic Movies,0,0,19.05,18
+Lebanon,Romantic TV Shows,0,0,19.05,18
+Lebanon,Sci-Fi & Fantasy,0,0,19.05,18
+Lebanon,Science & Nature TV,0,0,19.05,18
+Lebanon,Spanish-Language TV Shows,0,0,19.05,18
+Lebanon,Sports Movies,0,0,19.05,18
+Lebanon,Stand-Up Comedy,0,0,19.05,18
+Lebanon,Stand-Up Comedy & Talk Shows,0,0,19.05,18
+Lebanon,Teen TV Shows,0,0,19.05,18
+Lebanon,Thrillers,0,0,19.05,18
+Lebanon,TV Action & Adventure,0,0,19.05,18
+Lebanon,TV Comedies,0,0,19.05,18
+Lebanon,TV Dramas,0,0,19.05,18
+Lebanon,TV Horror,0,0,19.05,18
+Lebanon,TV Mysteries,0,0,19.05,18
+Lebanon,TV Sci-Fi & Fantasy,0,0,19.05,18
+Lebanon,TV Shows,0,0,19.05,18
+Lebanon,TV Thrillers,0,0,19.05,18
+Pakistan,Action & Adventure,2,1,19.05,18
+Pakistan,Anime Features,0,0,19.05,18
+Pakistan,Anime Series,0,0,19.05,18
+Pakistan,British TV Shows,0,0,19.05,18
+Pakistan,Children & Family Movies,1,1,19.05,18
+Pakistan,Classic & Cult TV,0,0,19.05,18
+Pakistan,Classic Movies,0,0,19.05,18
+Pakistan,Comedies,5,1,19.05,18
+Pakistan,Crime TV Shows,1,1,19.05,18
+Pakistan,Cult Movies,0,0,19.05,18
+Pakistan,Documentaries,0,0,19.05,18
+Pakistan,Docuseries,0,0,19.05,18
+Pakistan,Dramas,9,1,19.05,18
+Pakistan,Faith & Spirituality,0,0,19.05,18
+Pakistan,Horror Movies,1,1,19.05,18
+Pakistan,Independent Movies,0,0,19.05,18
+Pakistan,International Movies,2,1,19.05,18
+Pakistan,International TV Shows,3,1,19.05,18
+Pakistan,Kids' TV,0,0,19.05,18
+Pakistan,Korean TV Shows,0,0,19.05,18
+Pakistan,LGBTQ Movies,0,0,19.05,18
+Pakistan,Movies,0,0,19.05,18
+Pakistan,Music & Musicals,0,0,19.05,18
+Pakistan,Reality TV,0,0,19.05,18
+Pakistan,Romantic Movies,0,0,19.05,18
+Pakistan,Romantic TV Shows,0,0,19.05,18
+Pakistan,Sci-Fi & Fantasy,0,0,19.05,18
+Pakistan,Science & Nature TV,0,0,19.05,18
+Pakistan,Spanish-Language TV Shows,0,0,19.05,18
+Pakistan,Sports Movies,0,0,19.05,18
+Pakistan,Stand-Up Comedy,0,0,19.05,18
+Pakistan,Stand-Up Comedy & Talk Shows,0,0,19.05,18
+Pakistan,Teen TV Shows,0,0,19.05,18
+Pakistan,Thrillers,0,0,19.05,18
+Pakistan,TV Action & Adventure,0,0,19.05,18
+Pakistan,TV Comedies,0,0,19.05,18
+Pakistan,TV Dramas,0,0,19.05,18
+Pakistan,TV Horror,0,0,19.05,18
+Pakistan,TV Mysteries,0,0,19.05,18
+Pakistan,TV Sci-Fi & Fantasy,0,0,19.05,18
+Pakistan,TV Shows,0,0,19.05,18
+Pakistan,TV Thrillers,0,0,19.05,18
+Philippines,Action & Adventure,5,1,19.05,18
+Philippines,Anime Features,0,0,19.05,18
+Philippines,Anime Series,1,1,19.05,18
+Philippines,British TV Shows,0,0,19.05,18
+Philippines,Children & Family Movies,1,1,19.05,18
+Philippines,Classic & Cult TV,0,0,19.05,18
+Philippines,Classic Movies,0,0,19.05,18
+Philippines,Comedies,24,1,19.05,18
+Philippines,Crime TV Shows,0,0,19.05,18
+Philippines,Cult Movies,0,0,19.05,18
+Philippines,Documentaries,0,0,19.05,18
+Philippines,Docuseries,0,0,19.05,18
+Philippines,Dramas,34,1,19.05,18
+Philippines,Faith & Spirituality,0,0,19.05,18
+Philippines,Horror Movies,4,1,19.05,18
+Philippines,Independent Movies,0,0,19.05,18
+Philippines,International Movies,10,1,19.05,18
+Philippines,International TV Shows,2,1,19.05,18
+Philippines,Kids' TV,0,0,19.05,18
+Philippines,Korean TV Shows,0,0,19.05,18
+Philippines,LGBTQ Movies,0,0,19.05,18
+Philippines,Movies,0,0,19.05,18
+Philippines,Music & Musicals,0,0,19.05,18
+Philippines,Reality TV,0,0,19.05,18
+Philippines,Romantic Movies,0,0,19.05,18
+Philippines,Romantic TV Shows,0,0,19.05,18
+Philippines,Sci-Fi & Fantasy,0,0,19.05,18
+Philippines,Science & Nature TV,0,0,19.05,18
+Philippines,Spanish-Language TV Shows,0,0,19.05,18
+Philippines,Sports Movies,0,0,19.05,18
+Philippines,Stand-Up Comedy,0,0,19.05,18
+Philippines,Stand-Up Comedy & Talk Shows,0,0,19.05,18
+Philippines,Teen TV Shows,0,0,19.05,18
+Philippines,Thrillers,0,0,19.05,18
+Philippines,TV Action & Adventure,0,0,19.05,18
+Philippines,TV Comedies,0,0,19.05,18
+Philippines,TV Dramas,0,0,19.05,18
+Philippines,TV Horror,0,0,19.05,18
+Philippines,TV Mysteries,0,0,19.05,18
+Philippines,TV Sci-Fi & Fantasy,0,0,19.05,18
+Philippines,TV Shows,0,0,19.05,18
+Philippines,TV Thrillers,0,0,19.05,18
+Switzerland,Action & Adventure,1,1,19.05,18
+Switzerland,Anime Features,0,0,19.05,18
+Switzerland,Anime Series,0,0,19.05,18
+Switzerland,British TV Shows,0,0,19.05,18
+Switzerland,Children & Family Movies,0,0,19.05,18
+Switzerland,Classic & Cult TV,0,0,19.05,18
+Switzerland,Classic Movies,0,0,19.05,18
+Switzerland,Comedies,3,1,19.05,18
+Switzerland,Crime TV Shows,0,0,19.05,18
+Switzerland,Cult Movies,0,0,19.05,18
+Switzerland,Documentaries,2,1,19.05,18
+Switzerland,Docuseries,0,0,19.05,18
+Switzerland,Dramas,2,1,19.05,18
+Switzerland,Faith & Spirituality,0,0,19.05,18
+Switzerland,Horror Movies,0,0,19.05,18
+Switzerland,Independent Movies,2,1,19.05,18
+Switzerland,International Movies,3,1,19.05,18
+Switzerland,International TV Shows,1,1,19.05,18
+Switzerland,Kids' TV,0,0,19.05,18
+Switzerland,Korean TV Shows,0,0,19.05,18
+Switzerland,LGBTQ Movies,0,0,19.05,18
+Switzerland,Movies,0,0,19.05,18
+Switzerland,Music & Musicals,0,0,19.05,18
+Switzerland,Reality TV,0,0,19.05,18
+Switzerland,Romantic Movies,0,0,19.05,18
+Switzerland,Romantic TV Shows,0,0,19.05,18
+Switzerland,Sci-Fi & Fantasy,0,0,19.05,18
+Switzerland,Science & Nature TV,0,0,19.05,18
+Switzerland,Spanish-Language TV Shows,0,0,19.05,18
+Switzerland,Sports Movies,0,0,19.05,18
+Switzerland,Stand-Up Comedy,0,0,19.05,18
+Switzerland,Stand-Up Comedy & Talk Shows,0,0,19.05,18
+Switzerland,Teen TV Shows,0,0,19.05,18
+Switzerland,Thrillers,1,1,19.05,18
+Switzerland,TV Action & Adventure,0,0,19.05,18
+Switzerland,TV Comedies,0,0,19.05,18
+Switzerland,TV Dramas,0,0,19.05,18
+Switzerland,TV Horror,0,0,19.05,18
+Switzerland,TV Mysteries,0,0,19.05,18
+Switzerland,TV Sci-Fi & Fantasy,0,0,19.05,18
+Switzerland,TV Shows,0,0,19.05,18
+Switzerland,TV Thrillers,0,0,19.05,18
+Finland,Action & Adventure,1,1,16.67,19
+Finland,Anime Features,0,0,16.67,19
+Finland,Anime Series,0,0,16.67,19
+Finland,British TV Shows,0,0,16.67,19
+Finland,Children & Family Movies,1,1,16.67,19
+Finland,Classic & Cult TV,0,0,16.67,19
+Finland,Classic Movies,0,0,16.67,19
+Finland,Comedies,0,0,16.67,19
+Finland,Crime TV Shows,2,1,16.67,19
+Finland,Cult Movies,0,0,16.67,19
+Finland,Documentaries,0,0,16.67,19
+Finland,Docuseries,0,0,16.67,19
+Finland,Dramas,1,1,16.67,19
+Finland,Faith & Spirituality,0,0,16.67,19
+Finland,Horror Movies,0,0,16.67,19
+Finland,Independent Movies,0,0,16.67,19
+Finland,International Movies,1,1,16.67,19
+Finland,International TV Shows,0,0,16.67,19
+Finland,Kids' TV,2,1,16.67,19
+Finland,Korean TV Shows,0,0,16.67,19
+Finland,LGBTQ Movies,0,0,16.67,19
+Finland,Movies,0,0,16.67,19
+Finland,Music & Musicals,1,1,16.67,19
+Finland,Reality TV,0,0,16.67,19
+Finland,Romantic Movies,0,0,16.67,19
+Finland,Romantic TV Shows,0,0,16.67,19
+Finland,Sci-Fi & Fantasy,0,0,16.67,19
+Finland,Science & Nature TV,0,0,16.67,19
+Finland,Spanish-Language TV Shows,0,0,16.67,19
+Finland,Sports Movies,0,0,16.67,19
+Finland,Stand-Up Comedy,0,0,16.67,19
+Finland,Stand-Up Comedy & Talk Shows,0,0,16.67,19
+Finland,Teen TV Shows,0,0,16.67,19
+Finland,Thrillers,0,0,16.67,19
+Finland,TV Action & Adventure,0,0,16.67,19
+Finland,TV Comedies,0,0,16.67,19
+Finland,TV Dramas,0,0,16.67,19
+Finland,TV Horror,0,0,16.67,19
+Finland,TV Mysteries,0,0,16.67,19
+Finland,TV Sci-Fi & Fantasy,0,0,16.67,19
+Finland,TV Shows,0,0,16.67,19
+Finland,TV Thrillers,0,0,16.67,19
+Iceland,Action & Adventure,0,0,16.67,19
+Iceland,Anime Features,0,0,16.67,19
+Iceland,Anime Series,0,0,16.67,19
+Iceland,British TV Shows,0,0,16.67,19
+Iceland,Children & Family Movies,0,0,16.67,19
+Iceland,Classic & Cult TV,0,0,16.67,19
+Iceland,Classic Movies,0,0,16.67,19
+Iceland,Comedies,0,0,16.67,19
+Iceland,Crime TV Shows,2,1,16.67,19
+Iceland,Cult Movies,0,0,16.67,19
+Iceland,Documentaries,0,0,16.67,19
+Iceland,Docuseries,0,0,16.67,19
+Iceland,Dramas,2,1,16.67,19
+Iceland,Faith & Spirituality,0,0,16.67,19
+Iceland,Horror Movies,1,1,16.67,19
+Iceland,Independent Movies,1,1,16.67,19
+Iceland,International Movies,0,0,16.67,19
+Iceland,International TV Shows,1,1,16.67,19
+Iceland,Kids' TV,0,0,16.67,19
+Iceland,Korean TV Shows,0,0,16.67,19
+Iceland,LGBTQ Movies,0,0,16.67,19
+Iceland,Movies,0,0,16.67,19
+Iceland,Music & Musicals,0,0,16.67,19
+Iceland,Reality TV,0,0,16.67,19
+Iceland,Romantic Movies,0,0,16.67,19
+Iceland,Romantic TV Shows,0,0,16.67,19
+Iceland,Sci-Fi & Fantasy,0,0,16.67,19
+Iceland,Science & Nature TV,0,0,16.67,19
+Iceland,Spanish-Language TV Shows,0,0,16.67,19
+Iceland,Sports Movies,0,0,16.67,19
+Iceland,Stand-Up Comedy,1,1,16.67,19
+Iceland,Stand-Up Comedy & Talk Shows,0,0,16.67,19
+Iceland,Teen TV Shows,0,0,16.67,19
+Iceland,Thrillers,2,1,16.67,19
+Iceland,TV Action & Adventure,0,0,16.67,19
+Iceland,TV Comedies,0,0,16.67,19
+Iceland,TV Dramas,0,0,16.67,19
+Iceland,TV Horror,0,0,16.67,19
+Iceland,TV Mysteries,0,0,16.67,19
+Iceland,TV Sci-Fi & Fantasy,0,0,16.67,19
+Iceland,TV Shows,0,0,16.67,19
+Iceland,TV Thrillers,0,0,16.67,19
+Austria,Action & Adventure,0,0,14.29,20
+Austria,Anime Features,0,0,14.29,20
+Austria,Anime Series,0,0,14.29,20
+Austria,British TV Shows,0,0,14.29,20
+Austria,Children & Family Movies,0,0,14.29,20
+Austria,Classic & Cult TV,0,0,14.29,20
+Austria,Classic Movies,0,0,14.29,20
+Austria,Comedies,0,0,14.29,20
+Austria,Crime TV Shows,1,1,14.29,20
+Austria,Cult Movies,0,0,14.29,20
+Austria,Documentaries,3,1,14.29,20
+Austria,Docuseries,0,0,14.29,20
+Austria,Dramas,3,1,14.29,20
+Austria,Faith & Spirituality,0,0,14.29,20
+Austria,Horror Movies,1,1,14.29,20
+Austria,Independent Movies,1,1,14.29,20
+Austria,International Movies,2,1,14.29,20
+Austria,International TV Shows,0,0,14.29,20
+Austria,Kids' TV,0,0,14.29,20
+Austria,Korean TV Shows,0,0,14.29,20
+Austria,LGBTQ Movies,0,0,14.29,20
+Austria,Movies,0,0,14.29,20
+Austria,Music & Musicals,0,0,14.29,20
+Austria,Reality TV,0,0,14.29,20
+Austria,Romantic Movies,0,0,14.29,20
+Austria,Romantic TV Shows,0,0,14.29,20
+Austria,Sci-Fi & Fantasy,0,0,14.29,20
+Austria,Science & Nature TV,0,0,14.29,20
+Austria,Spanish-Language TV Shows,0,0,14.29,20
+Austria,Sports Movies,0,0,14.29,20
+Austria,Stand-Up Comedy,0,0,14.29,20
+Austria,Stand-Up Comedy & Talk Shows,0,0,14.29,20
+Austria,Teen TV Shows,0,0,14.29,20
+Austria,Thrillers,0,0,14.29,20
+Austria,TV Action & Adventure,0,0,14.29,20
+Austria,TV Comedies,0,0,14.29,20
+Austria,TV Dramas,0,0,14.29,20
+Austria,TV Horror,0,0,14.29,20
+Austria,TV Mysteries,0,0,14.29,20
+Austria,TV Sci-Fi & Fantasy,0,0,14.29,20
+Austria,TV Shows,0,0,14.29,20
+Austria,TV Thrillers,0,0,14.29,20
+Peru,Action & Adventure,0,0,14.29,20
+Peru,Anime Features,0,0,14.29,20
+Peru,Anime Series,0,0,14.29,20
+Peru,British TV Shows,0,0,14.29,20
+Peru,Children & Family Movies,0,0,14.29,20
+Peru,Classic & Cult TV,0,0,14.29,20
+Peru,Classic Movies,0,0,14.29,20
+Peru,Comedies,2,1,14.29,20
+Peru,Crime TV Shows,0,0,14.29,20
+Peru,Cult Movies,0,0,14.29,20
+Peru,Documentaries,2,1,14.29,20
+Peru,Docuseries,0,0,14.29,20
+Peru,Dramas,1,1,14.29,20
+Peru,Faith & Spirituality,0,0,14.29,20
+Peru,Horror Movies,1,1,14.29,20
+Peru,Independent Movies,0,0,14.29,20
+Peru,International Movies,2,1,14.29,20
+Peru,International TV Shows,0,0,14.29,20
+Peru,Kids' TV,0,0,14.29,20
+Peru,Korean TV Shows,0,0,14.29,20
+Peru,LGBTQ Movies,0,0,14.29,20
+Peru,Movies,0,0,14.29,20
+Peru,Music & Musicals,0,0,14.29,20
+Peru,Reality TV,0,0,14.29,20
+Peru,Romantic Movies,0,0,14.29,20
+Peru,Romantic TV Shows,0,0,14.29,20
+Peru,Sci-Fi & Fantasy,0,0,14.29,20
+Peru,Science & Nature TV,0,0,14.29,20
+Peru,Spanish-Language TV Shows,0,0,14.29,20
+Peru,Sports Movies,1,1,14.29,20
+Peru,Stand-Up Comedy,0,0,14.29,20
+Peru,Stand-Up Comedy & Talk Shows,0,0,14.29,20
+Peru,Teen TV Shows,0,0,14.29,20
+Peru,Thrillers,0,0,14.29,20
+Peru,TV Action & Adventure,0,0,14.29,20
+Peru,TV Comedies,0,0,14.29,20
+Peru,TV Dramas,0,0,14.29,20
+Peru,TV Horror,0,0,14.29,20
+Peru,TV Mysteries,0,0,14.29,20
+Peru,TV Sci-Fi & Fantasy,0,0,14.29,20
+Peru,TV Shows,0,0,14.29,20
+Peru,TV Thrillers,0,0,14.29,20
+Hungary,Action & Adventure,2,1,11.90,21
+Hungary,Anime Features,0,0,11.90,21
+Hungary,Anime Series,0,0,11.90,21
+Hungary,British TV Shows,0,0,11.90,21
+Hungary,Children & Family Movies,1,1,11.90,21
+Hungary,Classic & Cult TV,0,0,11.90,21
+Hungary,Classic Movies,0,0,11.90,21
+Hungary,Comedies,0,0,11.90,21
+Hungary,Crime TV Shows,0,0,11.90,21
+Hungary,Cult Movies,0,0,11.90,21
+Hungary,Documentaries,0,0,11.90,21
+Hungary,Docuseries,0,0,11.90,21
+Hungary,Dramas,2,1,11.90,21
+Hungary,Faith & Spirituality,0,0,11.90,21
+Hungary,Horror Movies,0,0,11.90,21
+Hungary,Independent Movies,0,0,11.90,21
+Hungary,International Movies,0,0,11.90,21
+Hungary,International TV Shows,0,0,11.90,21
+Hungary,Kids' TV,0,0,11.90,21
+Hungary,Korean TV Shows,0,0,11.90,21
+Hungary,LGBTQ Movies,0,0,11.90,21
+Hungary,Movies,0,0,11.90,21
+Hungary,Music & Musicals,0,0,11.90,21
+Hungary,Reality TV,0,0,11.90,21
+Hungary,Romantic Movies,0,0,11.90,21
+Hungary,Romantic TV Shows,0,0,11.90,21
+Hungary,Sci-Fi & Fantasy,1,1,11.90,21
+Hungary,Science & Nature TV,0,0,11.90,21
+Hungary,Spanish-Language TV Shows,0,0,11.90,21
+Hungary,Sports Movies,0,0,11.90,21
+Hungary,Stand-Up Comedy,0,0,11.90,21
+Hungary,Stand-Up Comedy & Talk Shows,0,0,11.90,21
+Hungary,Teen TV Shows,0,0,11.90,21
+Hungary,Thrillers,1,1,11.90,21
+Hungary,TV Action & Adventure,0,0,11.90,21
+Hungary,TV Comedies,0,0,11.90,21
+Hungary,TV Dramas,0,0,11.90,21
+Hungary,TV Horror,0,0,11.90,21
+Hungary,TV Mysteries,0,0,11.90,21
+Hungary,TV Sci-Fi & Fantasy,0,0,11.90,21
+Hungary,TV Shows,0,0,11.90,21
+Hungary,TV Thrillers,0,0,11.90,21
+Romania,Action & Adventure,0,0,11.90,21
+Romania,Anime Features,0,0,11.90,21
+Romania,Anime Series,0,0,11.90,21
+Romania,British TV Shows,0,0,11.90,21
+Romania,Children & Family Movies,1,1,11.90,21
+Romania,Classic & Cult TV,0,0,11.90,21
+Romania,Classic Movies,0,0,11.90,21
+Romania,Comedies,4,1,11.90,21
+Romania,Crime TV Shows,0,0,11.90,21
+Romania,Cult Movies,0,0,11.90,21
+Romania,Documentaries,0,0,11.90,21
+Romania,Docuseries,0,0,11.90,21
+Romania,Dramas,4,1,11.90,21
+Romania,Faith & Spirituality,0,0,11.90,21
+Romania,Horror Movies,0,0,11.90,21
+Romania,Independent Movies,0,0,11.90,21
+Romania,International Movies,1,1,11.90,21
+Romania,International TV Shows,0,0,11.90,21
+Romania,Kids' TV,0,0,11.90,21
+Romania,Korean TV Shows,0,0,11.90,21
+Romania,LGBTQ Movies,0,0,11.90,21
+Romania,Movies,0,0,11.90,21
+Romania,Music & Musicals,0,0,11.90,21
+Romania,Reality TV,0,0,11.90,21
+Romania,Romantic Movies,0,0,11.90,21
+Romania,Romantic TV Shows,0,0,11.90,21
+Romania,Sci-Fi & Fantasy,1,1,11.90,21
+Romania,Science & Nature TV,0,0,11.90,21
+Romania,Spanish-Language TV Shows,0,0,11.90,21
+Romania,Sports Movies,0,0,11.90,21
+Romania,Stand-Up Comedy,0,0,11.90,21
+Romania,Stand-Up Comedy & Talk Shows,0,0,11.90,21
+Romania,Teen TV Shows,0,0,11.90,21
+Romania,Thrillers,0,0,11.90,21
+Romania,TV Action & Adventure,0,0,11.90,21
+Romania,TV Comedies,0,0,11.90,21
+Romania,TV Dramas,0,0,11.90,21
+Romania,TV Horror,0,0,11.90,21
+Romania,TV Mysteries,0,0,11.90,21
+Romania,TV Sci-Fi & Fantasy,0,0,11.90,21
+Romania,TV Shows,0,0,11.90,21
+Romania,TV Thrillers,0,0,11.90,21
+Saudi Arabia,Action & Adventure,0,0,11.90,21
+Saudi Arabia,Anime Features,0,0,11.90,21
+Saudi Arabia,Anime Series,0,0,11.90,21
+Saudi Arabia,British TV Shows,0,0,11.90,21
+Saudi Arabia,Children & Family Movies,0,0,11.90,21
+Saudi Arabia,Classic & Cult TV,0,0,11.90,21
+Saudi Arabia,Classic Movies,0,0,11.90,21
+Saudi Arabia,Comedies,5,1,11.90,21
+Saudi Arabia,Crime TV Shows,0,0,11.90,21
+Saudi Arabia,Cult Movies,0,0,11.90,21
+Saudi Arabia,Documentaries,0,0,11.90,21
+Saudi Arabia,Docuseries,0,0,11.90,21
+Saudi Arabia,Dramas,2,1,11.90,21
+Saudi Arabia,Faith & Spirituality,0,0,11.90,21
+Saudi Arabia,Horror Movies,0,0,11.90,21
+Saudi Arabia,Independent Movies,0,0,11.90,21
+Saudi Arabia,International Movies,1,1,11.90,21
+Saudi Arabia,International TV Shows,3,1,11.90,21
+Saudi Arabia,Kids' TV,0,0,11.90,21
+Saudi Arabia,Korean TV Shows,0,0,11.90,21
+Saudi Arabia,LGBTQ Movies,0,0,11.90,21
+Saudi Arabia,Movies,0,0,11.90,21
+Saudi Arabia,Music & Musicals,0,0,11.90,21
+Saudi Arabia,Reality TV,0,0,11.90,21
+Saudi Arabia,Romantic Movies,0,0,11.90,21
+Saudi Arabia,Romantic TV Shows,0,0,11.90,21
+Saudi Arabia,Sci-Fi & Fantasy,0,0,11.90,21
+Saudi Arabia,Science & Nature TV,0,0,11.90,21
+Saudi Arabia,Spanish-Language TV Shows,0,0,11.90,21
+Saudi Arabia,Sports Movies,0,0,11.90,21
+Saudi Arabia,Stand-Up Comedy,0,0,11.90,21
+Saudi Arabia,Stand-Up Comedy & Talk Shows,0,0,11.90,21
+Saudi Arabia,Teen TV Shows,0,0,11.90,21
+Saudi Arabia,Thrillers,0,0,11.90,21
+Saudi Arabia,TV Action & Adventure,0,0,11.90,21
+Saudi Arabia,TV Comedies,0,0,11.90,21
+Saudi Arabia,TV Dramas,0,0,11.90,21
+Saudi Arabia,TV Horror,0,0,11.90,21
+Saudi Arabia,TV Mysteries,0,0,11.90,21
+Saudi Arabia,TV Sci-Fi & Fantasy,0,0,11.90,21
+Saudi Arabia,TV Shows,1,1,11.90,21
+Saudi Arabia,TV Thrillers,0,0,11.90,21
+Uruguay,Action & Adventure,0,0,11.90,21
+Uruguay,Anime Features,0,0,11.90,21
+Uruguay,Anime Series,0,0,11.90,21
+Uruguay,British TV Shows,0,0,11.90,21
+Uruguay,Children & Family Movies,0,0,11.90,21
+Uruguay,Classic & Cult TV,0,0,11.90,21
+Uruguay,Classic Movies,0,0,11.90,21
+Uruguay,Comedies,2,1,11.90,21
+Uruguay,Crime TV Shows,0,0,11.90,21
+Uruguay,Cult Movies,0,0,11.90,21
+Uruguay,Documentaries,4,1,11.90,21
+Uruguay,Docuseries,1,1,11.90,21
+Uruguay,Dramas,2,1,11.90,21
+Uruguay,Faith & Spirituality,0,0,11.90,21
+Uruguay,Horror Movies,0,0,11.90,21
+Uruguay,Independent Movies,0,0,11.90,21
+Uruguay,International Movies,3,1,11.90,21
+Uruguay,International TV Shows,0,0,11.90,21
+Uruguay,Kids' TV,0,0,11.90,21
+Uruguay,Korean TV Shows,0,0,11.90,21
+Uruguay,LGBTQ Movies,0,0,11.90,21
+Uruguay,Movies,0,0,11.90,21
+Uruguay,Music & Musicals,0,0,11.90,21
+Uruguay,Reality TV,0,0,11.90,21
+Uruguay,Romantic Movies,0,0,11.90,21
+Uruguay,Romantic TV Shows,0,0,11.90,21
+Uruguay,Sci-Fi & Fantasy,0,0,11.90,21
+Uruguay,Science & Nature TV,0,0,11.90,21
+Uruguay,Spanish-Language TV Shows,0,0,11.90,21
+Uruguay,Sports Movies,0,0,11.90,21
+Uruguay,Stand-Up Comedy,0,0,11.90,21
+Uruguay,Stand-Up Comedy & Talk Shows,0,0,11.90,21
+Uruguay,Teen TV Shows,0,0,11.90,21
+Uruguay,Thrillers,0,0,11.90,21
+Uruguay,TV Action & Adventure,0,0,11.90,21
+Uruguay,TV Comedies,0,0,11.90,21
+Uruguay,TV Dramas,0,0,11.90,21
+Uruguay,TV Horror,0,0,11.90,21
+Uruguay,TV Mysteries,0,0,11.90,21
+Uruguay,TV Sci-Fi & Fantasy,0,0,11.90,21
+Uruguay,TV Shows,0,0,11.90,21
+Uruguay,TV Thrillers,0,0,11.90,21
+Vietnam,Action & Adventure,2,1,11.90,21
+Vietnam,Anime Features,0,0,11.90,21
+Vietnam,Anime Series,0,0,11.90,21
+Vietnam,British TV Shows,0,0,11.90,21
+Vietnam,Children & Family Movies,0,0,11.90,21
+Vietnam,Classic & Cult TV,0,0,11.90,21
+Vietnam,Classic Movies,0,0,11.90,21
+Vietnam,Comedies,1,1,11.90,21
+Vietnam,Crime TV Shows,0,0,11.90,21
+Vietnam,Cult Movies,0,0,11.90,21
+Vietnam,Documentaries,1,1,11.90,21
+Vietnam,Docuseries,0,0,11.90,21
+Vietnam,Dramas,2,1,11.90,21
+Vietnam,Faith & Spirituality,0,0,11.90,21
+Vietnam,Horror Movies,1,1,11.90,21
+Vietnam,Independent Movies,0,0,11.90,21
+Vietnam,International Movies,0,0,11.90,21
+Vietnam,International TV Shows,0,0,11.90,21
+Vietnam,Kids' TV,0,0,11.90,21
+Vietnam,Korean TV Shows,0,0,11.90,21
+Vietnam,LGBTQ Movies,0,0,11.90,21
+Vietnam,Movies,0,0,11.90,21
+Vietnam,Music & Musicals,0,0,11.90,21
+Vietnam,Reality TV,0,0,11.90,21
+Vietnam,Romantic Movies,0,0,11.90,21
+Vietnam,Romantic TV Shows,0,0,11.90,21
+Vietnam,Sci-Fi & Fantasy,0,0,11.90,21
+Vietnam,Science & Nature TV,0,0,11.90,21
+Vietnam,Spanish-Language TV Shows,0,0,11.90,21
+Vietnam,Sports Movies,0,0,11.90,21
+Vietnam,Stand-Up Comedy,0,0,11.90,21
+Vietnam,Stand-Up Comedy & Talk Shows,0,0,11.90,21
+Vietnam,Teen TV Shows,0,0,11.90,21
+Vietnam,Thrillers,0,0,11.90,21
+Vietnam,TV Action & Adventure,0,0,11.90,21
+Vietnam,TV Comedies,0,0,11.90,21
+Vietnam,TV Dramas,0,0,11.90,21
+Vietnam,TV Horror,0,0,11.90,21
+Vietnam,TV Mysteries,0,0,11.90,21
+Vietnam,TV Sci-Fi & Fantasy,0,0,11.90,21
+Vietnam,TV Shows,0,0,11.90,21
+Vietnam,TV Thrillers,0,0,11.90,21
+Bulgaria,Action & Adventure,2,1,9.52,22
+Bulgaria,Anime Features,0,0,9.52,22
+Bulgaria,Anime Series,0,0,9.52,22
+Bulgaria,British TV Shows,0,0,9.52,22
+Bulgaria,Children & Family Movies,0,0,9.52,22
+Bulgaria,Classic & Cult TV,0,0,9.52,22
+Bulgaria,Classic Movies,0,0,9.52,22
+Bulgaria,Comedies,0,0,9.52,22
+Bulgaria,Crime TV Shows,0,0,9.52,22
+Bulgaria,Cult Movies,0,0,9.52,22
+Bulgaria,Documentaries,0,0,9.52,22
+Bulgaria,Docuseries,0,0,9.52,22
+Bulgaria,Dramas,1,1,9.52,22
+Bulgaria,Faith & Spirituality,0,0,9.52,22
+Bulgaria,Horror Movies,1,1,9.52,22
+Bulgaria,Independent Movies,0,0,9.52,22
+Bulgaria,International Movies,3,1,9.52,22
+Bulgaria,International TV Shows,0,0,9.52,22
+Bulgaria,Kids' TV,0,0,9.52,22
+Bulgaria,Korean TV Shows,0,0,9.52,22
+Bulgaria,LGBTQ Movies,0,0,9.52,22
+Bulgaria,Movies,0,0,9.52,22
+Bulgaria,Music & Musicals,0,0,9.52,22
+Bulgaria,Reality TV,0,0,9.52,22
+Bulgaria,Romantic Movies,0,0,9.52,22
+Bulgaria,Romantic TV Shows,0,0,9.52,22
+Bulgaria,Sci-Fi & Fantasy,0,0,9.52,22
+Bulgaria,Science & Nature TV,0,0,9.52,22
+Bulgaria,Spanish-Language TV Shows,0,0,9.52,22
+Bulgaria,Sports Movies,0,0,9.52,22
+Bulgaria,Stand-Up Comedy,0,0,9.52,22
+Bulgaria,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+Bulgaria,Teen TV Shows,0,0,9.52,22
+Bulgaria,Thrillers,0,0,9.52,22
+Bulgaria,TV Action & Adventure,0,0,9.52,22
+Bulgaria,TV Comedies,0,0,9.52,22
+Bulgaria,TV Dramas,0,0,9.52,22
+Bulgaria,TV Horror,0,0,9.52,22
+Bulgaria,TV Mysteries,0,0,9.52,22
+Bulgaria,TV Sci-Fi & Fantasy,0,0,9.52,22
+Bulgaria,TV Shows,0,0,9.52,22
+Bulgaria,TV Thrillers,0,0,9.52,22
+Greece,Action & Adventure,0,0,9.52,22
+Greece,Anime Features,0,0,9.52,22
+Greece,Anime Series,0,0,9.52,22
+Greece,British TV Shows,0,0,9.52,22
+Greece,Children & Family Movies,0,0,9.52,22
+Greece,Classic & Cult TV,0,0,9.52,22
+Greece,Classic Movies,0,0,9.52,22
+Greece,Comedies,0,0,9.52,22
+Greece,Crime TV Shows,0,0,9.52,22
+Greece,Cult Movies,0,0,9.52,22
+Greece,Documentaries,1,1,9.52,22
+Greece,Docuseries,0,0,9.52,22
+Greece,Dramas,0,0,9.52,22
+Greece,Faith & Spirituality,0,0,9.52,22
+Greece,Horror Movies,0,0,9.52,22
+Greece,Independent Movies,2,1,9.52,22
+Greece,International Movies,0,0,9.52,22
+Greece,International TV Shows,0,0,9.52,22
+Greece,Kids' TV,0,0,9.52,22
+Greece,Korean TV Shows,0,0,9.52,22
+Greece,LGBTQ Movies,0,0,9.52,22
+Greece,Movies,0,0,9.52,22
+Greece,Music & Musicals,0,0,9.52,22
+Greece,Reality TV,0,0,9.52,22
+Greece,Romantic Movies,1,1,9.52,22
+Greece,Romantic TV Shows,0,0,9.52,22
+Greece,Sci-Fi & Fantasy,1,1,9.52,22
+Greece,Science & Nature TV,0,0,9.52,22
+Greece,Spanish-Language TV Shows,0,0,9.52,22
+Greece,Sports Movies,0,0,9.52,22
+Greece,Stand-Up Comedy,0,0,9.52,22
+Greece,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+Greece,Teen TV Shows,0,0,9.52,22
+Greece,Thrillers,0,0,9.52,22
+Greece,TV Action & Adventure,0,0,9.52,22
+Greece,TV Comedies,0,0,9.52,22
+Greece,TV Dramas,0,0,9.52,22
+Greece,TV Horror,0,0,9.52,22
+Greece,TV Mysteries,0,0,9.52,22
+Greece,TV Sci-Fi & Fantasy,0,0,9.52,22
+Greece,TV Shows,0,0,9.52,22
+Greece,TV Thrillers,0,0,9.52,22
+Kuwait,Action & Adventure,1,1,9.52,22
+Kuwait,Anime Features,0,0,9.52,22
+Kuwait,Anime Series,0,0,9.52,22
+Kuwait,British TV Shows,0,0,9.52,22
+Kuwait,Children & Family Movies,0,0,9.52,22
+Kuwait,Classic & Cult TV,0,0,9.52,22
+Kuwait,Classic Movies,0,0,9.52,22
+Kuwait,Comedies,3,1,9.52,22
+Kuwait,Crime TV Shows,0,0,9.52,22
+Kuwait,Cult Movies,0,0,9.52,22
+Kuwait,Documentaries,0,0,9.52,22
+Kuwait,Docuseries,0,0,9.52,22
+Kuwait,Dramas,0,0,9.52,22
+Kuwait,Faith & Spirituality,0,0,9.52,22
+Kuwait,Horror Movies,0,0,9.52,22
+Kuwait,Independent Movies,0,0,9.52,22
+Kuwait,International Movies,1,1,9.52,22
+Kuwait,International TV Shows,2,1,9.52,22
+Kuwait,Kids' TV,0,0,9.52,22
+Kuwait,Korean TV Shows,0,0,9.52,22
+Kuwait,LGBTQ Movies,0,0,9.52,22
+Kuwait,Movies,0,0,9.52,22
+Kuwait,Music & Musicals,0,0,9.52,22
+Kuwait,Reality TV,0,0,9.52,22
+Kuwait,Romantic Movies,0,0,9.52,22
+Kuwait,Romantic TV Shows,0,0,9.52,22
+Kuwait,Sci-Fi & Fantasy,0,0,9.52,22
+Kuwait,Science & Nature TV,0,0,9.52,22
+Kuwait,Spanish-Language TV Shows,0,0,9.52,22
+Kuwait,Sports Movies,0,0,9.52,22
+Kuwait,Stand-Up Comedy,0,0,9.52,22
+Kuwait,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+Kuwait,Teen TV Shows,0,0,9.52,22
+Kuwait,Thrillers,0,0,9.52,22
+Kuwait,TV Action & Adventure,0,0,9.52,22
+Kuwait,TV Comedies,0,0,9.52,22
+Kuwait,TV Dramas,0,0,9.52,22
+Kuwait,TV Horror,0,0,9.52,22
+Kuwait,TV Mysteries,0,0,9.52,22
+Kuwait,TV Sci-Fi & Fantasy,0,0,9.52,22
+Kuwait,TV Shows,0,0,9.52,22
+Kuwait,TV Thrillers,0,0,9.52,22
+Luxembourg,Action & Adventure,0,0,9.52,22
+Luxembourg,Anime Features,0,0,9.52,22
+Luxembourg,Anime Series,0,0,9.52,22
+Luxembourg,British TV Shows,0,0,9.52,22
+Luxembourg,Children & Family Movies,0,0,9.52,22
+Luxembourg,Classic & Cult TV,0,0,9.52,22
+Luxembourg,Classic Movies,0,0,9.52,22
+Luxembourg,Comedies,0,0,9.52,22
+Luxembourg,Crime TV Shows,1,1,9.52,22
+Luxembourg,Cult Movies,0,0,9.52,22
+Luxembourg,Documentaries,0,0,9.52,22
+Luxembourg,Docuseries,0,0,9.52,22
+Luxembourg,Dramas,3,1,9.52,22
+Luxembourg,Faith & Spirituality,0,0,9.52,22
+Luxembourg,Horror Movies,0,0,9.52,22
+Luxembourg,Independent Movies,0,0,9.52,22
+Luxembourg,International Movies,2,1,9.52,22
+Luxembourg,International TV Shows,0,0,9.52,22
+Luxembourg,Kids' TV,0,0,9.52,22
+Luxembourg,Korean TV Shows,0,0,9.52,22
+Luxembourg,LGBTQ Movies,0,0,9.52,22
+Luxembourg,Movies,0,0,9.52,22
+Luxembourg,Music & Musicals,0,0,9.52,22
+Luxembourg,Reality TV,0,0,9.52,22
+Luxembourg,Romantic Movies,0,0,9.52,22
+Luxembourg,Romantic TV Shows,0,0,9.52,22
+Luxembourg,Sci-Fi & Fantasy,0,0,9.52,22
+Luxembourg,Science & Nature TV,0,0,9.52,22
+Luxembourg,Spanish-Language TV Shows,0,0,9.52,22
+Luxembourg,Sports Movies,0,0,9.52,22
+Luxembourg,Stand-Up Comedy,0,0,9.52,22
+Luxembourg,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+Luxembourg,Teen TV Shows,0,0,9.52,22
+Luxembourg,Thrillers,1,1,9.52,22
+Luxembourg,TV Action & Adventure,0,0,9.52,22
+Luxembourg,TV Comedies,0,0,9.52,22
+Luxembourg,TV Dramas,0,0,9.52,22
+Luxembourg,TV Horror,0,0,9.52,22
+Luxembourg,TV Mysteries,0,0,9.52,22
+Luxembourg,TV Sci-Fi & Fantasy,0,0,9.52,22
+Luxembourg,TV Shows,0,0,9.52,22
+Luxembourg,TV Thrillers,0,0,9.52,22
+Qatar,Action & Adventure,0,0,9.52,22
+Qatar,Anime Features,0,0,9.52,22
+Qatar,Anime Series,0,0,9.52,22
+Qatar,British TV Shows,0,0,9.52,22
+Qatar,Children & Family Movies,0,0,9.52,22
+Qatar,Classic & Cult TV,0,0,9.52,22
+Qatar,Classic Movies,0,0,9.52,22
+Qatar,Comedies,0,0,9.52,22
+Qatar,Crime TV Shows,0,0,9.52,22
+Qatar,Cult Movies,0,0,9.52,22
+Qatar,Documentaries,0,0,9.52,22
+Qatar,Docuseries,0,0,9.52,22
+Qatar,Dramas,1,1,9.52,22
+Qatar,Faith & Spirituality,0,0,9.52,22
+Qatar,Horror Movies,0,0,9.52,22
+Qatar,Independent Movies,1,1,9.52,22
+Qatar,International Movies,1,1,9.52,22
+Qatar,International TV Shows,0,0,9.52,22
+Qatar,Kids' TV,0,0,9.52,22
+Qatar,Korean TV Shows,0,0,9.52,22
+Qatar,LGBTQ Movies,0,0,9.52,22
+Qatar,Movies,0,0,9.52,22
+Qatar,Music & Musicals,0,0,9.52,22
+Qatar,Reality TV,0,0,9.52,22
+Qatar,Romantic Movies,0,0,9.52,22
+Qatar,Romantic TV Shows,0,0,9.52,22
+Qatar,Sci-Fi & Fantasy,0,0,9.52,22
+Qatar,Science & Nature TV,0,0,9.52,22
+Qatar,Spanish-Language TV Shows,0,0,9.52,22
+Qatar,Sports Movies,0,0,9.52,22
+Qatar,Stand-Up Comedy,0,0,9.52,22
+Qatar,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+Qatar,Teen TV Shows,0,0,9.52,22
+Qatar,Thrillers,1,1,9.52,22
+Qatar,TV Action & Adventure,0,0,9.52,22
+Qatar,TV Comedies,0,0,9.52,22
+Qatar,TV Dramas,0,0,9.52,22
+Qatar,TV Horror,0,0,9.52,22
+Qatar,TV Mysteries,0,0,9.52,22
+Qatar,TV Sci-Fi & Fantasy,0,0,9.52,22
+Qatar,TV Shows,0,0,9.52,22
+Qatar,TV Thrillers,0,0,9.52,22
+West Germany,Action & Adventure,0,0,9.52,22
+West Germany,Anime Features,0,0,9.52,22
+West Germany,Anime Series,0,0,9.52,22
+West Germany,British TV Shows,0,0,9.52,22
+West Germany,Children & Family Movies,0,0,9.52,22
+West Germany,Classic & Cult TV,0,0,9.52,22
+West Germany,Classic Movies,0,0,9.52,22
+West Germany,Comedies,1,1,9.52,22
+West Germany,Crime TV Shows,0,0,9.52,22
+West Germany,Cult Movies,0,0,9.52,22
+West Germany,Documentaries,1,1,9.52,22
+West Germany,Docuseries,0,0,9.52,22
+West Germany,Dramas,0,0,9.52,22
+West Germany,Faith & Spirituality,0,0,9.52,22
+West Germany,Horror Movies,0,0,9.52,22
+West Germany,Independent Movies,0,0,9.52,22
+West Germany,International Movies,1,1,9.52,22
+West Germany,International TV Shows,0,0,9.52,22
+West Germany,Kids' TV,0,0,9.52,22
+West Germany,Korean TV Shows,0,0,9.52,22
+West Germany,LGBTQ Movies,0,0,9.52,22
+West Germany,Movies,0,0,9.52,22
+West Germany,Music & Musicals,0,0,9.52,22
+West Germany,Reality TV,0,0,9.52,22
+West Germany,Romantic Movies,0,0,9.52,22
+West Germany,Romantic TV Shows,0,0,9.52,22
+West Germany,Sci-Fi & Fantasy,0,0,9.52,22
+West Germany,Science & Nature TV,0,0,9.52,22
+West Germany,Spanish-Language TV Shows,0,0,9.52,22
+West Germany,Sports Movies,0,0,9.52,22
+West Germany,Stand-Up Comedy,0,0,9.52,22
+West Germany,Stand-Up Comedy & Talk Shows,0,0,9.52,22
+West Germany,Teen TV Shows,0,0,9.52,22
+West Germany,Thrillers,0,0,9.52,22
+West Germany,TV Action & Adventure,0,0,9.52,22
+West Germany,TV Comedies,1,1,9.52,22
+West Germany,TV Dramas,0,0,9.52,22
+West Germany,TV Horror,0,0,9.52,22
+West Germany,TV Mysteries,0,0,9.52,22
+West Germany,TV Sci-Fi & Fantasy,0,0,9.52,22
+West Germany,TV Shows,0,0,9.52,22
+West Germany,TV Thrillers,0,0,9.52,22
+"",Action & Adventure,0,0,7.14,23
+"",Anime Features,0,0,7.14,23
+"",Anime Series,0,0,7.14,23
+"",British TV Shows,0,0,7.14,23
+"",Children & Family Movies,0,0,7.14,23
+"",Classic & Cult TV,0,0,7.14,23
+"",Classic Movies,0,0,7.14,23
+"",Comedies,0,0,7.14,23
+"",Crime TV Shows,0,0,7.14,23
+"",Cult Movies,0,0,7.14,23
+"",Documentaries,0,0,7.14,23
+"",Docuseries,0,0,7.14,23
+"",Dramas,2,1,7.14,23
+"",Faith & Spirituality,0,0,7.14,23
+"",Horror Movies,0,0,7.14,23
+"",Independent Movies,0,0,7.14,23
+"",International Movies,2,1,7.14,23
+"",International TV Shows,1,1,7.14,23
+"",Kids' TV,0,0,7.14,23
+"",Korean TV Shows,0,0,7.14,23
+"",LGBTQ Movies,0,0,7.14,23
+"",Movies,0,0,7.14,23
+"",Music & Musicals,0,0,7.14,23
+"",Reality TV,0,0,7.14,23
+"",Romantic Movies,0,0,7.14,23
+"",Romantic TV Shows,0,0,7.14,23
+"",Sci-Fi & Fantasy,0,0,7.14,23
+"",Science & Nature TV,0,0,7.14,23
+"",Spanish-Language TV Shows,0,0,7.14,23
+"",Sports Movies,0,0,7.14,23
+"",Stand-Up Comedy,0,0,7.14,23
+"",Stand-Up Comedy & Talk Shows,0,0,7.14,23
+"",Teen TV Shows,0,0,7.14,23
+"",Thrillers,0,0,7.14,23
+"",TV Action & Adventure,0,0,7.14,23
+"",TV Comedies,0,0,7.14,23
+"",TV Dramas,0,0,7.14,23
+"",TV Horror,0,0,7.14,23
+"",TV Mysteries,0,0,7.14,23
+"",TV Sci-Fi & Fantasy,0,0,7.14,23
+"",TV Shows,0,0,7.14,23
+"",TV Thrillers,0,0,7.14,23
+Bangladesh,Action & Adventure,0,0,7.14,23
+Bangladesh,Anime Features,0,0,7.14,23
+Bangladesh,Anime Series,0,0,7.14,23
+Bangladesh,British TV Shows,0,0,7.14,23
+Bangladesh,Children & Family Movies,0,0,7.14,23
+Bangladesh,Classic & Cult TV,0,0,7.14,23
+Bangladesh,Classic Movies,0,0,7.14,23
+Bangladesh,Comedies,1,1,7.14,23
+Bangladesh,Crime TV Shows,0,0,7.14,23
+Bangladesh,Cult Movies,0,0,7.14,23
+Bangladesh,Documentaries,0,0,7.14,23
+Bangladesh,Docuseries,0,0,7.14,23
+Bangladesh,Dramas,2,1,7.14,23
+Bangladesh,Faith & Spirituality,0,0,7.14,23
+Bangladesh,Horror Movies,0,0,7.14,23
+Bangladesh,Independent Movies,0,0,7.14,23
+Bangladesh,International Movies,1,1,7.14,23
+Bangladesh,International TV Shows,0,0,7.14,23
+Bangladesh,Kids' TV,0,0,7.14,23
+Bangladesh,Korean TV Shows,0,0,7.14,23
+Bangladesh,LGBTQ Movies,0,0,7.14,23
+Bangladesh,Movies,0,0,7.14,23
+Bangladesh,Music & Musicals,0,0,7.14,23
+Bangladesh,Reality TV,0,0,7.14,23
+Bangladesh,Romantic Movies,0,0,7.14,23
+Bangladesh,Romantic TV Shows,0,0,7.14,23
+Bangladesh,Sci-Fi & Fantasy,0,0,7.14,23
+Bangladesh,Science & Nature TV,0,0,7.14,23
+Bangladesh,Spanish-Language TV Shows,0,0,7.14,23
+Bangladesh,Sports Movies,0,0,7.14,23
+Bangladesh,Stand-Up Comedy,0,0,7.14,23
+Bangladesh,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Bangladesh,Teen TV Shows,0,0,7.14,23
+Bangladesh,Thrillers,0,0,7.14,23
+Bangladesh,TV Action & Adventure,0,0,7.14,23
+Bangladesh,TV Comedies,0,0,7.14,23
+Bangladesh,TV Dramas,0,0,7.14,23
+Bangladesh,TV Horror,0,0,7.14,23
+Bangladesh,TV Mysteries,0,0,7.14,23
+Bangladesh,TV Sci-Fi & Fantasy,0,0,7.14,23
+Bangladesh,TV Shows,0,0,7.14,23
+Bangladesh,TV Thrillers,0,0,7.14,23
+Cambodia,Action & Adventure,1,1,7.14,23
+Cambodia,Anime Features,0,0,7.14,23
+Cambodia,Anime Series,0,0,7.14,23
+Cambodia,British TV Shows,0,0,7.14,23
+Cambodia,Children & Family Movies,0,0,7.14,23
+Cambodia,Classic & Cult TV,0,0,7.14,23
+Cambodia,Classic Movies,0,0,7.14,23
+Cambodia,Comedies,1,1,7.14,23
+Cambodia,Crime TV Shows,0,0,7.14,23
+Cambodia,Cult Movies,0,0,7.14,23
+Cambodia,Documentaries,0,0,7.14,23
+Cambodia,Docuseries,0,0,7.14,23
+Cambodia,Dramas,2,1,7.14,23
+Cambodia,Faith & Spirituality,0,0,7.14,23
+Cambodia,Horror Movies,0,0,7.14,23
+Cambodia,Independent Movies,0,0,7.14,23
+Cambodia,International Movies,0,0,7.14,23
+Cambodia,International TV Shows,0,0,7.14,23
+Cambodia,Kids' TV,0,0,7.14,23
+Cambodia,Korean TV Shows,0,0,7.14,23
+Cambodia,LGBTQ Movies,0,0,7.14,23
+Cambodia,Movies,0,0,7.14,23
+Cambodia,Music & Musicals,0,0,7.14,23
+Cambodia,Reality TV,0,0,7.14,23
+Cambodia,Romantic Movies,0,0,7.14,23
+Cambodia,Romantic TV Shows,0,0,7.14,23
+Cambodia,Sci-Fi & Fantasy,0,0,7.14,23
+Cambodia,Science & Nature TV,0,0,7.14,23
+Cambodia,Spanish-Language TV Shows,0,0,7.14,23
+Cambodia,Sports Movies,0,0,7.14,23
+Cambodia,Stand-Up Comedy,0,0,7.14,23
+Cambodia,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Cambodia,Teen TV Shows,0,0,7.14,23
+Cambodia,Thrillers,0,0,7.14,23
+Cambodia,TV Action & Adventure,0,0,7.14,23
+Cambodia,TV Comedies,0,0,7.14,23
+Cambodia,TV Dramas,0,0,7.14,23
+Cambodia,TV Horror,0,0,7.14,23
+Cambodia,TV Mysteries,0,0,7.14,23
+Cambodia,TV Sci-Fi & Fantasy,0,0,7.14,23
+Cambodia,TV Shows,0,0,7.14,23
+Cambodia,TV Thrillers,0,0,7.14,23
+Croatia,Action & Adventure,0,0,7.14,23
+Croatia,Anime Features,0,0,7.14,23
+Croatia,Anime Series,0,0,7.14,23
+Croatia,British TV Shows,0,0,7.14,23
+Croatia,Children & Family Movies,0,0,7.14,23
+Croatia,Classic & Cult TV,0,0,7.14,23
+Croatia,Classic Movies,0,0,7.14,23
+Croatia,Comedies,0,0,7.14,23
+Croatia,Crime TV Shows,0,0,7.14,23
+Croatia,Cult Movies,0,0,7.14,23
+Croatia,Documentaries,0,0,7.14,23
+Croatia,Docuseries,0,0,7.14,23
+Croatia,Dramas,1,1,7.14,23
+Croatia,Faith & Spirituality,0,0,7.14,23
+Croatia,Horror Movies,0,0,7.14,23
+Croatia,Independent Movies,1,1,7.14,23
+Croatia,International Movies,0,0,7.14,23
+Croatia,International TV Shows,1,1,7.14,23
+Croatia,Kids' TV,0,0,7.14,23
+Croatia,Korean TV Shows,0,0,7.14,23
+Croatia,LGBTQ Movies,0,0,7.14,23
+Croatia,Movies,0,0,7.14,23
+Croatia,Music & Musicals,0,0,7.14,23
+Croatia,Reality TV,0,0,7.14,23
+Croatia,Romantic Movies,0,0,7.14,23
+Croatia,Romantic TV Shows,0,0,7.14,23
+Croatia,Sci-Fi & Fantasy,0,0,7.14,23
+Croatia,Science & Nature TV,0,0,7.14,23
+Croatia,Spanish-Language TV Shows,0,0,7.14,23
+Croatia,Sports Movies,0,0,7.14,23
+Croatia,Stand-Up Comedy,0,0,7.14,23
+Croatia,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Croatia,Teen TV Shows,0,0,7.14,23
+Croatia,Thrillers,0,0,7.14,23
+Croatia,TV Action & Adventure,0,0,7.14,23
+Croatia,TV Comedies,0,0,7.14,23
+Croatia,TV Dramas,0,0,7.14,23
+Croatia,TV Horror,0,0,7.14,23
+Croatia,TV Mysteries,0,0,7.14,23
+Croatia,TV Sci-Fi & Fantasy,0,0,7.14,23
+Croatia,TV Shows,0,0,7.14,23
+Croatia,TV Thrillers,0,0,7.14,23
+Ghana,Action & Adventure,0,0,7.14,23
+Ghana,Anime Features,0,0,7.14,23
+Ghana,Anime Series,0,0,7.14,23
+Ghana,British TV Shows,0,0,7.14,23
+Ghana,Children & Family Movies,0,0,7.14,23
+Ghana,Classic & Cult TV,0,0,7.14,23
+Ghana,Classic Movies,0,0,7.14,23
+Ghana,Comedies,2,1,7.14,23
+Ghana,Crime TV Shows,0,0,7.14,23
+Ghana,Cult Movies,0,0,7.14,23
+Ghana,Documentaries,0,0,7.14,23
+Ghana,Docuseries,0,0,7.14,23
+Ghana,Dramas,2,1,7.14,23
+Ghana,Faith & Spirituality,0,0,7.14,23
+Ghana,Horror Movies,0,0,7.14,23
+Ghana,Independent Movies,1,1,7.14,23
+Ghana,International Movies,0,0,7.14,23
+Ghana,International TV Shows,0,0,7.14,23
+Ghana,Kids' TV,0,0,7.14,23
+Ghana,Korean TV Shows,0,0,7.14,23
+Ghana,LGBTQ Movies,0,0,7.14,23
+Ghana,Movies,0,0,7.14,23
+Ghana,Music & Musicals,0,0,7.14,23
+Ghana,Reality TV,0,0,7.14,23
+Ghana,Romantic Movies,0,0,7.14,23
+Ghana,Romantic TV Shows,0,0,7.14,23
+Ghana,Sci-Fi & Fantasy,0,0,7.14,23
+Ghana,Science & Nature TV,0,0,7.14,23
+Ghana,Spanish-Language TV Shows,0,0,7.14,23
+Ghana,Sports Movies,0,0,7.14,23
+Ghana,Stand-Up Comedy,0,0,7.14,23
+Ghana,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Ghana,Teen TV Shows,0,0,7.14,23
+Ghana,Thrillers,0,0,7.14,23
+Ghana,TV Action & Adventure,0,0,7.14,23
+Ghana,TV Comedies,0,0,7.14,23
+Ghana,TV Dramas,0,0,7.14,23
+Ghana,TV Horror,0,0,7.14,23
+Ghana,TV Mysteries,0,0,7.14,23
+Ghana,TV Sci-Fi & Fantasy,0,0,7.14,23
+Ghana,TV Shows,0,0,7.14,23
+Ghana,TV Thrillers,0,0,7.14,23
+Jordan,Action & Adventure,0,0,7.14,23
+Jordan,Anime Features,0,0,7.14,23
+Jordan,Anime Series,0,0,7.14,23
+Jordan,British TV Shows,0,0,7.14,23
+Jordan,Children & Family Movies,0,0,7.14,23
+Jordan,Classic & Cult TV,0,0,7.14,23
+Jordan,Classic Movies,0,0,7.14,23
+Jordan,Comedies,0,0,7.14,23
+Jordan,Crime TV Shows,0,0,7.14,23
+Jordan,Cult Movies,0,0,7.14,23
+Jordan,Documentaries,0,0,7.14,23
+Jordan,Docuseries,0,0,7.14,23
+Jordan,Dramas,2,1,7.14,23
+Jordan,Faith & Spirituality,0,0,7.14,23
+Jordan,Horror Movies,0,0,7.14,23
+Jordan,Independent Movies,0,0,7.14,23
+Jordan,International Movies,2,1,7.14,23
+Jordan,International TV Shows,2,1,7.14,23
+Jordan,Kids' TV,0,0,7.14,23
+Jordan,Korean TV Shows,0,0,7.14,23
+Jordan,LGBTQ Movies,0,0,7.14,23
+Jordan,Movies,0,0,7.14,23
+Jordan,Music & Musicals,0,0,7.14,23
+Jordan,Reality TV,0,0,7.14,23
+Jordan,Romantic Movies,0,0,7.14,23
+Jordan,Romantic TV Shows,0,0,7.14,23
+Jordan,Sci-Fi & Fantasy,0,0,7.14,23
+Jordan,Science & Nature TV,0,0,7.14,23
+Jordan,Spanish-Language TV Shows,0,0,7.14,23
+Jordan,Sports Movies,0,0,7.14,23
+Jordan,Stand-Up Comedy,0,0,7.14,23
+Jordan,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Jordan,Teen TV Shows,0,0,7.14,23
+Jordan,Thrillers,0,0,7.14,23
+Jordan,TV Action & Adventure,0,0,7.14,23
+Jordan,TV Comedies,0,0,7.14,23
+Jordan,TV Dramas,0,0,7.14,23
+Jordan,TV Horror,0,0,7.14,23
+Jordan,TV Mysteries,0,0,7.14,23
+Jordan,TV Sci-Fi & Fantasy,0,0,7.14,23
+Jordan,TV Shows,0,0,7.14,23
+Jordan,TV Thrillers,0,0,7.14,23
+Kenya,Action & Adventure,0,0,7.14,23
+Kenya,Anime Features,0,0,7.14,23
+Kenya,Anime Series,0,0,7.14,23
+Kenya,British TV Shows,0,0,7.14,23
+Kenya,Children & Family Movies,0,0,7.14,23
+Kenya,Classic & Cult TV,0,0,7.14,23
+Kenya,Classic Movies,0,0,7.14,23
+Kenya,Comedies,2,1,7.14,23
+Kenya,Crime TV Shows,0,0,7.14,23
+Kenya,Cult Movies,0,0,7.14,23
+Kenya,Documentaries,1,1,7.14,23
+Kenya,Docuseries,0,0,7.14,23
+Kenya,Dramas,0,0,7.14,23
+Kenya,Faith & Spirituality,0,0,7.14,23
+Kenya,Horror Movies,0,0,7.14,23
+Kenya,Independent Movies,0,0,7.14,23
+Kenya,International Movies,2,1,7.14,23
+Kenya,International TV Shows,0,0,7.14,23
+Kenya,Kids' TV,0,0,7.14,23
+Kenya,Korean TV Shows,0,0,7.14,23
+Kenya,LGBTQ Movies,0,0,7.14,23
+Kenya,Movies,0,0,7.14,23
+Kenya,Music & Musicals,0,0,7.14,23
+Kenya,Reality TV,0,0,7.14,23
+Kenya,Romantic Movies,0,0,7.14,23
+Kenya,Romantic TV Shows,0,0,7.14,23
+Kenya,Sci-Fi & Fantasy,0,0,7.14,23
+Kenya,Science & Nature TV,0,0,7.14,23
+Kenya,Spanish-Language TV Shows,0,0,7.14,23
+Kenya,Sports Movies,0,0,7.14,23
+Kenya,Stand-Up Comedy,0,0,7.14,23
+Kenya,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Kenya,Teen TV Shows,0,0,7.14,23
+Kenya,Thrillers,0,0,7.14,23
+Kenya,TV Action & Adventure,0,0,7.14,23
+Kenya,TV Comedies,0,0,7.14,23
+Kenya,TV Dramas,0,0,7.14,23
+Kenya,TV Horror,0,0,7.14,23
+Kenya,TV Mysteries,0,0,7.14,23
+Kenya,TV Sci-Fi & Fantasy,0,0,7.14,23
+Kenya,TV Shows,0,0,7.14,23
+Kenya,TV Thrillers,0,0,7.14,23
+Serbia,Action & Adventure,1,1,7.14,23
+Serbia,Anime Features,0,0,7.14,23
+Serbia,Anime Series,0,0,7.14,23
+Serbia,British TV Shows,0,0,7.14,23
+Serbia,Children & Family Movies,0,0,7.14,23
+Serbia,Classic & Cult TV,0,0,7.14,23
+Serbia,Classic Movies,0,0,7.14,23
+Serbia,Comedies,0,0,7.14,23
+Serbia,Crime TV Shows,0,0,7.14,23
+Serbia,Cult Movies,0,0,7.14,23
+Serbia,Documentaries,0,0,7.14,23
+Serbia,Docuseries,0,0,7.14,23
+Serbia,Dramas,1,1,7.14,23
+Serbia,Faith & Spirituality,0,0,7.14,23
+Serbia,Horror Movies,1,1,7.14,23
+Serbia,Independent Movies,0,0,7.14,23
+Serbia,International Movies,0,0,7.14,23
+Serbia,International TV Shows,0,0,7.14,23
+Serbia,Kids' TV,0,0,7.14,23
+Serbia,Korean TV Shows,0,0,7.14,23
+Serbia,LGBTQ Movies,0,0,7.14,23
+Serbia,Movies,0,0,7.14,23
+Serbia,Music & Musicals,0,0,7.14,23
+Serbia,Reality TV,0,0,7.14,23
+Serbia,Romantic Movies,0,0,7.14,23
+Serbia,Romantic TV Shows,0,0,7.14,23
+Serbia,Sci-Fi & Fantasy,0,0,7.14,23
+Serbia,Science & Nature TV,0,0,7.14,23
+Serbia,Spanish-Language TV Shows,0,0,7.14,23
+Serbia,Sports Movies,0,0,7.14,23
+Serbia,Stand-Up Comedy,0,0,7.14,23
+Serbia,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Serbia,Teen TV Shows,0,0,7.14,23
+Serbia,Thrillers,0,0,7.14,23
+Serbia,TV Action & Adventure,0,0,7.14,23
+Serbia,TV Comedies,0,0,7.14,23
+Serbia,TV Dramas,0,0,7.14,23
+Serbia,TV Horror,0,0,7.14,23
+Serbia,TV Mysteries,0,0,7.14,23
+Serbia,TV Sci-Fi & Fantasy,0,0,7.14,23
+Serbia,TV Shows,0,0,7.14,23
+Serbia,TV Thrillers,0,0,7.14,23
+Slovenia,Action & Adventure,0,0,7.14,23
+Slovenia,Anime Features,0,0,7.14,23
+Slovenia,Anime Series,0,0,7.14,23
+Slovenia,British TV Shows,0,0,7.14,23
+Slovenia,Children & Family Movies,0,0,7.14,23
+Slovenia,Classic & Cult TV,0,0,7.14,23
+Slovenia,Classic Movies,0,0,7.14,23
+Slovenia,Comedies,1,1,7.14,23
+Slovenia,Crime TV Shows,0,0,7.14,23
+Slovenia,Cult Movies,0,0,7.14,23
+Slovenia,Documentaries,0,0,7.14,23
+Slovenia,Docuseries,0,0,7.14,23
+Slovenia,Dramas,0,0,7.14,23
+Slovenia,Faith & Spirituality,0,0,7.14,23
+Slovenia,Horror Movies,0,0,7.14,23
+Slovenia,Independent Movies,0,0,7.14,23
+Slovenia,International Movies,1,1,7.14,23
+Slovenia,International TV Shows,0,0,7.14,23
+Slovenia,Kids' TV,0,0,7.14,23
+Slovenia,Korean TV Shows,0,0,7.14,23
+Slovenia,LGBTQ Movies,0,0,7.14,23
+Slovenia,Movies,0,0,7.14,23
+Slovenia,Music & Musicals,0,0,7.14,23
+Slovenia,Reality TV,0,0,7.14,23
+Slovenia,Romantic Movies,0,0,7.14,23
+Slovenia,Romantic TV Shows,0,0,7.14,23
+Slovenia,Sci-Fi & Fantasy,1,1,7.14,23
+Slovenia,Science & Nature TV,0,0,7.14,23
+Slovenia,Spanish-Language TV Shows,0,0,7.14,23
+Slovenia,Sports Movies,0,0,7.14,23
+Slovenia,Stand-Up Comedy,0,0,7.14,23
+Slovenia,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Slovenia,Teen TV Shows,0,0,7.14,23
+Slovenia,Thrillers,0,0,7.14,23
+Slovenia,TV Action & Adventure,0,0,7.14,23
+Slovenia,TV Comedies,0,0,7.14,23
+Slovenia,TV Dramas,0,0,7.14,23
+Slovenia,TV Horror,0,0,7.14,23
+Slovenia,TV Mysteries,0,0,7.14,23
+Slovenia,TV Sci-Fi & Fantasy,0,0,7.14,23
+Slovenia,TV Shows,0,0,7.14,23
+Slovenia,TV Thrillers,0,0,7.14,23
+Ukraine,Action & Adventure,0,0,7.14,23
+Ukraine,Anime Features,0,0,7.14,23
+Ukraine,Anime Series,0,0,7.14,23
+Ukraine,British TV Shows,0,0,7.14,23
+Ukraine,Children & Family Movies,0,0,7.14,23
+Ukraine,Classic & Cult TV,0,0,7.14,23
+Ukraine,Classic Movies,0,0,7.14,23
+Ukraine,Comedies,0,0,7.14,23
+Ukraine,Crime TV Shows,1,1,7.14,23
+Ukraine,Cult Movies,0,0,7.14,23
+Ukraine,Documentaries,0,0,7.14,23
+Ukraine,Docuseries,0,0,7.14,23
+Ukraine,Dramas,0,0,7.14,23
+Ukraine,Faith & Spirituality,0,0,7.14,23
+Ukraine,Horror Movies,0,0,7.14,23
+Ukraine,Independent Movies,0,0,7.14,23
+Ukraine,International Movies,1,1,7.14,23
+Ukraine,International TV Shows,1,1,7.14,23
+Ukraine,Kids' TV,0,0,7.14,23
+Ukraine,Korean TV Shows,0,0,7.14,23
+Ukraine,LGBTQ Movies,0,0,7.14,23
+Ukraine,Movies,0,0,7.14,23
+Ukraine,Music & Musicals,0,0,7.14,23
+Ukraine,Reality TV,0,0,7.14,23
+Ukraine,Romantic Movies,0,0,7.14,23
+Ukraine,Romantic TV Shows,0,0,7.14,23
+Ukraine,Sci-Fi & Fantasy,0,0,7.14,23
+Ukraine,Science & Nature TV,0,0,7.14,23
+Ukraine,Spanish-Language TV Shows,0,0,7.14,23
+Ukraine,Sports Movies,0,0,7.14,23
+Ukraine,Stand-Up Comedy,0,0,7.14,23
+Ukraine,Stand-Up Comedy & Talk Shows,0,0,7.14,23
+Ukraine,Teen TV Shows,0,0,7.14,23
+Ukraine,Thrillers,0,0,7.14,23
+Ukraine,TV Action & Adventure,0,0,7.14,23
+Ukraine,TV Comedies,0,0,7.14,23
+Ukraine,TV Dramas,0,0,7.14,23
+Ukraine,TV Horror,0,0,7.14,23
+Ukraine,TV Mysteries,0,0,7.14,23
+Ukraine,TV Sci-Fi & Fantasy,0,0,7.14,23
+Ukraine,TV Shows,0,0,7.14,23
+Ukraine,TV Thrillers,0,0,7.14,23
+Algeria,Action & Adventure,0,0,4.76,24
+Algeria,Anime Features,0,0,4.76,24
+Algeria,Anime Series,0,0,4.76,24
+Algeria,British TV Shows,0,0,4.76,24
+Algeria,Children & Family Movies,0,0,4.76,24
+Algeria,Classic & Cult TV,0,0,4.76,24
+Algeria,Classic Movies,0,0,4.76,24
+Algeria,Comedies,0,0,4.76,24
+Algeria,Crime TV Shows,0,0,4.76,24
+Algeria,Cult Movies,0,0,4.76,24
+Algeria,Documentaries,0,0,4.76,24
+Algeria,Docuseries,0,0,4.76,24
+Algeria,Dramas,1,1,4.76,24
+Algeria,Faith & Spirituality,0,0,4.76,24
+Algeria,Horror Movies,0,0,4.76,24
+Algeria,Independent Movies,0,0,4.76,24
+Algeria,International Movies,2,1,4.76,24
+Algeria,International TV Shows,0,0,4.76,24
+Algeria,Kids' TV,0,0,4.76,24
+Algeria,Korean TV Shows,0,0,4.76,24
+Algeria,LGBTQ Movies,0,0,4.76,24
+Algeria,Movies,0,0,4.76,24
+Algeria,Music & Musicals,0,0,4.76,24
+Algeria,Reality TV,0,0,4.76,24
+Algeria,Romantic Movies,0,0,4.76,24
+Algeria,Romantic TV Shows,0,0,4.76,24
+Algeria,Sci-Fi & Fantasy,0,0,4.76,24
+Algeria,Science & Nature TV,0,0,4.76,24
+Algeria,Spanish-Language TV Shows,0,0,4.76,24
+Algeria,Sports Movies,0,0,4.76,24
+Algeria,Stand-Up Comedy,0,0,4.76,24
+Algeria,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Algeria,Teen TV Shows,0,0,4.76,24
+Algeria,Thrillers,0,0,4.76,24
+Algeria,TV Action & Adventure,0,0,4.76,24
+Algeria,TV Comedies,0,0,4.76,24
+Algeria,TV Dramas,0,0,4.76,24
+Algeria,TV Horror,0,0,4.76,24
+Algeria,TV Mysteries,0,0,4.76,24
+Algeria,TV Sci-Fi & Fantasy,0,0,4.76,24
+Algeria,TV Shows,0,0,4.76,24
+Algeria,TV Thrillers,0,0,4.76,24
+Georgia,Action & Adventure,0,0,4.76,24
+Georgia,Anime Features,0,0,4.76,24
+Georgia,Anime Series,0,0,4.76,24
+Georgia,British TV Shows,0,0,4.76,24
+Georgia,Children & Family Movies,0,0,4.76,24
+Georgia,Classic & Cult TV,0,0,4.76,24
+Georgia,Classic Movies,0,0,4.76,24
+Georgia,Comedies,0,0,4.76,24
+Georgia,Crime TV Shows,0,0,4.76,24
+Georgia,Cult Movies,0,0,4.76,24
+Georgia,Documentaries,1,1,4.76,24
+Georgia,Docuseries,0,0,4.76,24
+Georgia,Dramas,1,1,4.76,24
+Georgia,Faith & Spirituality,0,0,4.76,24
+Georgia,Horror Movies,0,0,4.76,24
+Georgia,Independent Movies,0,0,4.76,24
+Georgia,International Movies,0,0,4.76,24
+Georgia,International TV Shows,0,0,4.76,24
+Georgia,Kids' TV,0,0,4.76,24
+Georgia,Korean TV Shows,0,0,4.76,24
+Georgia,LGBTQ Movies,0,0,4.76,24
+Georgia,Movies,0,0,4.76,24
+Georgia,Music & Musicals,0,0,4.76,24
+Georgia,Reality TV,0,0,4.76,24
+Georgia,Romantic Movies,0,0,4.76,24
+Georgia,Romantic TV Shows,0,0,4.76,24
+Georgia,Sci-Fi & Fantasy,0,0,4.76,24
+Georgia,Science & Nature TV,0,0,4.76,24
+Georgia,Spanish-Language TV Shows,0,0,4.76,24
+Georgia,Sports Movies,0,0,4.76,24
+Georgia,Stand-Up Comedy,0,0,4.76,24
+Georgia,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Georgia,Teen TV Shows,0,0,4.76,24
+Georgia,Thrillers,0,0,4.76,24
+Georgia,TV Action & Adventure,0,0,4.76,24
+Georgia,TV Comedies,0,0,4.76,24
+Georgia,TV Dramas,0,0,4.76,24
+Georgia,TV Horror,0,0,4.76,24
+Georgia,TV Mysteries,0,0,4.76,24
+Georgia,TV Sci-Fi & Fantasy,0,0,4.76,24
+Georgia,TV Shows,0,0,4.76,24
+Georgia,TV Thrillers,0,0,4.76,24
+Guatemala,Action & Adventure,0,0,4.76,24
+Guatemala,Anime Features,0,0,4.76,24
+Guatemala,Anime Series,0,0,4.76,24
+Guatemala,British TV Shows,0,0,4.76,24
+Guatemala,Children & Family Movies,0,0,4.76,24
+Guatemala,Classic & Cult TV,0,0,4.76,24
+Guatemala,Classic Movies,0,0,4.76,24
+Guatemala,Comedies,0,0,4.76,24
+Guatemala,Crime TV Shows,0,0,4.76,24
+Guatemala,Cult Movies,0,0,4.76,24
+Guatemala,Documentaries,0,0,4.76,24
+Guatemala,Docuseries,0,0,4.76,24
+Guatemala,Dramas,1,1,4.76,24
+Guatemala,Faith & Spirituality,0,0,4.76,24
+Guatemala,Horror Movies,0,0,4.76,24
+Guatemala,Independent Movies,0,0,4.76,24
+Guatemala,International Movies,1,1,4.76,24
+Guatemala,International TV Shows,0,0,4.76,24
+Guatemala,Kids' TV,0,0,4.76,24
+Guatemala,Korean TV Shows,0,0,4.76,24
+Guatemala,LGBTQ Movies,0,0,4.76,24
+Guatemala,Movies,0,0,4.76,24
+Guatemala,Music & Musicals,0,0,4.76,24
+Guatemala,Reality TV,0,0,4.76,24
+Guatemala,Romantic Movies,0,0,4.76,24
+Guatemala,Romantic TV Shows,0,0,4.76,24
+Guatemala,Sci-Fi & Fantasy,0,0,4.76,24
+Guatemala,Science & Nature TV,0,0,4.76,24
+Guatemala,Spanish-Language TV Shows,0,0,4.76,24
+Guatemala,Sports Movies,0,0,4.76,24
+Guatemala,Stand-Up Comedy,0,0,4.76,24
+Guatemala,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Guatemala,Teen TV Shows,0,0,4.76,24
+Guatemala,Thrillers,0,0,4.76,24
+Guatemala,TV Action & Adventure,0,0,4.76,24
+Guatemala,TV Comedies,0,0,4.76,24
+Guatemala,TV Dramas,0,0,4.76,24
+Guatemala,TV Horror,0,0,4.76,24
+Guatemala,TV Mysteries,0,0,4.76,24
+Guatemala,TV Sci-Fi & Fantasy,0,0,4.76,24
+Guatemala,TV Shows,0,0,4.76,24
+Guatemala,TV Thrillers,0,0,4.76,24
+Iran,Action & Adventure,0,0,4.76,24
+Iran,Anime Features,0,0,4.76,24
+Iran,Anime Series,0,0,4.76,24
+Iran,British TV Shows,0,0,4.76,24
+Iran,Children & Family Movies,0,0,4.76,24
+Iran,Classic & Cult TV,0,0,4.76,24
+Iran,Classic Movies,0,0,4.76,24
+Iran,Comedies,0,0,4.76,24
+Iran,Crime TV Shows,0,0,4.76,24
+Iran,Cult Movies,0,0,4.76,24
+Iran,Documentaries,0,0,4.76,24
+Iran,Docuseries,0,0,4.76,24
+Iran,Dramas,2,1,4.76,24
+Iran,Faith & Spirituality,0,0,4.76,24
+Iran,Horror Movies,0,0,4.76,24
+Iran,Independent Movies,1,1,4.76,24
+Iran,International Movies,0,0,4.76,24
+Iran,International TV Shows,0,0,4.76,24
+Iran,Kids' TV,0,0,4.76,24
+Iran,Korean TV Shows,0,0,4.76,24
+Iran,LGBTQ Movies,0,0,4.76,24
+Iran,Movies,0,0,4.76,24
+Iran,Music & Musicals,0,0,4.76,24
+Iran,Reality TV,0,0,4.76,24
+Iran,Romantic Movies,0,0,4.76,24
+Iran,Romantic TV Shows,0,0,4.76,24
+Iran,Sci-Fi & Fantasy,0,0,4.76,24
+Iran,Science & Nature TV,0,0,4.76,24
+Iran,Spanish-Language TV Shows,0,0,4.76,24
+Iran,Sports Movies,0,0,4.76,24
+Iran,Stand-Up Comedy,0,0,4.76,24
+Iran,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Iran,Teen TV Shows,0,0,4.76,24
+Iran,Thrillers,0,0,4.76,24
+Iran,TV Action & Adventure,0,0,4.76,24
+Iran,TV Comedies,0,0,4.76,24
+Iran,TV Dramas,0,0,4.76,24
+Iran,TV Horror,0,0,4.76,24
+Iran,TV Mysteries,0,0,4.76,24
+Iran,TV Sci-Fi & Fantasy,0,0,4.76,24
+Iran,TV Shows,0,0,4.76,24
+Iran,TV Thrillers,0,0,4.76,24
+Mauritius,Action & Adventure,0,0,4.76,24
+Mauritius,Anime Features,0,0,4.76,24
+Mauritius,Anime Series,0,0,4.76,24
+Mauritius,British TV Shows,0,0,4.76,24
+Mauritius,Children & Family Movies,1,1,4.76,24
+Mauritius,Classic & Cult TV,0,0,4.76,24
+Mauritius,Classic Movies,0,0,4.76,24
+Mauritius,Comedies,0,0,4.76,24
+Mauritius,Crime TV Shows,0,0,4.76,24
+Mauritius,Cult Movies,0,0,4.76,24
+Mauritius,Documentaries,0,0,4.76,24
+Mauritius,Docuseries,0,0,4.76,24
+Mauritius,Dramas,0,0,4.76,24
+Mauritius,Faith & Spirituality,0,0,4.76,24
+Mauritius,Horror Movies,0,0,4.76,24
+Mauritius,Independent Movies,0,0,4.76,24
+Mauritius,International Movies,0,0,4.76,24
+Mauritius,International TV Shows,1,1,4.76,24
+Mauritius,Kids' TV,0,0,4.76,24
+Mauritius,Korean TV Shows,0,0,4.76,24
+Mauritius,LGBTQ Movies,0,0,4.76,24
+Mauritius,Movies,0,0,4.76,24
+Mauritius,Music & Musicals,0,0,4.76,24
+Mauritius,Reality TV,0,0,4.76,24
+Mauritius,Romantic Movies,0,0,4.76,24
+Mauritius,Romantic TV Shows,0,0,4.76,24
+Mauritius,Sci-Fi & Fantasy,0,0,4.76,24
+Mauritius,Science & Nature TV,0,0,4.76,24
+Mauritius,Spanish-Language TV Shows,0,0,4.76,24
+Mauritius,Sports Movies,0,0,4.76,24
+Mauritius,Stand-Up Comedy,0,0,4.76,24
+Mauritius,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Mauritius,Teen TV Shows,0,0,4.76,24
+Mauritius,Thrillers,0,0,4.76,24
+Mauritius,TV Action & Adventure,0,0,4.76,24
+Mauritius,TV Comedies,0,0,4.76,24
+Mauritius,TV Dramas,0,0,4.76,24
+Mauritius,TV Horror,0,0,4.76,24
+Mauritius,TV Mysteries,0,0,4.76,24
+Mauritius,TV Sci-Fi & Fantasy,0,0,4.76,24
+Mauritius,TV Shows,0,0,4.76,24
+Mauritius,TV Thrillers,0,0,4.76,24
+Morocco,Action & Adventure,0,0,4.76,24
+Morocco,Anime Features,0,0,4.76,24
+Morocco,Anime Series,0,0,4.76,24
+Morocco,British TV Shows,0,0,4.76,24
+Morocco,Children & Family Movies,0,0,4.76,24
+Morocco,Classic & Cult TV,0,0,4.76,24
+Morocco,Classic Movies,0,0,4.76,24
+Morocco,Comedies,0,0,4.76,24
+Morocco,Crime TV Shows,0,0,4.76,24
+Morocco,Cult Movies,0,0,4.76,24
+Morocco,Documentaries,0,0,4.76,24
+Morocco,Docuseries,0,0,4.76,24
+Morocco,Dramas,0,0,4.76,24
+Morocco,Faith & Spirituality,0,0,4.76,24
+Morocco,Horror Movies,0,0,4.76,24
+Morocco,Independent Movies,1,1,4.76,24
+Morocco,International Movies,1,1,4.76,24
+Morocco,International TV Shows,0,0,4.76,24
+Morocco,Kids' TV,0,0,4.76,24
+Morocco,Korean TV Shows,0,0,4.76,24
+Morocco,LGBTQ Movies,0,0,4.76,24
+Morocco,Movies,0,0,4.76,24
+Morocco,Music & Musicals,0,0,4.76,24
+Morocco,Reality TV,0,0,4.76,24
+Morocco,Romantic Movies,0,0,4.76,24
+Morocco,Romantic TV Shows,0,0,4.76,24
+Morocco,Sci-Fi & Fantasy,0,0,4.76,24
+Morocco,Science & Nature TV,0,0,4.76,24
+Morocco,Spanish-Language TV Shows,0,0,4.76,24
+Morocco,Sports Movies,0,0,4.76,24
+Morocco,Stand-Up Comedy,0,0,4.76,24
+Morocco,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Morocco,Teen TV Shows,0,0,4.76,24
+Morocco,Thrillers,0,0,4.76,24
+Morocco,TV Action & Adventure,0,0,4.76,24
+Morocco,TV Comedies,0,0,4.76,24
+Morocco,TV Dramas,0,0,4.76,24
+Morocco,TV Horror,0,0,4.76,24
+Morocco,TV Mysteries,0,0,4.76,24
+Morocco,TV Sci-Fi & Fantasy,0,0,4.76,24
+Morocco,TV Shows,0,0,4.76,24
+Morocco,TV Thrillers,0,0,4.76,24
+Namibia,Action & Adventure,0,0,4.76,24
+Namibia,Anime Features,0,0,4.76,24
+Namibia,Anime Series,0,0,4.76,24
+Namibia,British TV Shows,0,0,4.76,24
+Namibia,Children & Family Movies,0,0,4.76,24
+Namibia,Classic & Cult TV,0,0,4.76,24
+Namibia,Classic Movies,0,0,4.76,24
+Namibia,Comedies,0,0,4.76,24
+Namibia,Crime TV Shows,0,0,4.76,24
+Namibia,Cult Movies,0,0,4.76,24
+Namibia,Documentaries,0,0,4.76,24
+Namibia,Docuseries,0,0,4.76,24
+Namibia,Dramas,1,1,4.76,24
+Namibia,Faith & Spirituality,0,0,4.76,24
+Namibia,Horror Movies,0,0,4.76,24
+Namibia,Independent Movies,0,0,4.76,24
+Namibia,International Movies,1,1,4.76,24
+Namibia,International TV Shows,0,0,4.76,24
+Namibia,Kids' TV,0,0,4.76,24
+Namibia,Korean TV Shows,0,0,4.76,24
+Namibia,LGBTQ Movies,0,0,4.76,24
+Namibia,Movies,0,0,4.76,24
+Namibia,Music & Musicals,0,0,4.76,24
+Namibia,Reality TV,0,0,4.76,24
+Namibia,Romantic Movies,0,0,4.76,24
+Namibia,Romantic TV Shows,0,0,4.76,24
+Namibia,Sci-Fi & Fantasy,0,0,4.76,24
+Namibia,Science & Nature TV,0,0,4.76,24
+Namibia,Spanish-Language TV Shows,0,0,4.76,24
+Namibia,Sports Movies,0,0,4.76,24
+Namibia,Stand-Up Comedy,0,0,4.76,24
+Namibia,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Namibia,Teen TV Shows,0,0,4.76,24
+Namibia,Thrillers,0,0,4.76,24
+Namibia,TV Action & Adventure,0,0,4.76,24
+Namibia,TV Comedies,0,0,4.76,24
+Namibia,TV Dramas,0,0,4.76,24
+Namibia,TV Horror,0,0,4.76,24
+Namibia,TV Mysteries,0,0,4.76,24
+Namibia,TV Sci-Fi & Fantasy,0,0,4.76,24
+Namibia,TV Shows,0,0,4.76,24
+Namibia,TV Thrillers,0,0,4.76,24
+Nepal,Action & Adventure,0,0,4.76,24
+Nepal,Anime Features,0,0,4.76,24
+Nepal,Anime Series,0,0,4.76,24
+Nepal,British TV Shows,0,0,4.76,24
+Nepal,Children & Family Movies,0,0,4.76,24
+Nepal,Classic & Cult TV,0,0,4.76,24
+Nepal,Classic Movies,0,0,4.76,24
+Nepal,Comedies,0,0,4.76,24
+Nepal,Crime TV Shows,0,0,4.76,24
+Nepal,Cult Movies,0,0,4.76,24
+Nepal,Documentaries,0,0,4.76,24
+Nepal,Docuseries,0,0,4.76,24
+Nepal,Dramas,1,1,4.76,24
+Nepal,Faith & Spirituality,0,0,4.76,24
+Nepal,Horror Movies,0,0,4.76,24
+Nepal,Independent Movies,0,0,4.76,24
+Nepal,International Movies,1,1,4.76,24
+Nepal,International TV Shows,0,0,4.76,24
+Nepal,Kids' TV,0,0,4.76,24
+Nepal,Korean TV Shows,0,0,4.76,24
+Nepal,LGBTQ Movies,0,0,4.76,24
+Nepal,Movies,0,0,4.76,24
+Nepal,Music & Musicals,0,0,4.76,24
+Nepal,Reality TV,0,0,4.76,24
+Nepal,Romantic Movies,0,0,4.76,24
+Nepal,Romantic TV Shows,0,0,4.76,24
+Nepal,Sci-Fi & Fantasy,0,0,4.76,24
+Nepal,Science & Nature TV,0,0,4.76,24
+Nepal,Spanish-Language TV Shows,0,0,4.76,24
+Nepal,Sports Movies,0,0,4.76,24
+Nepal,Stand-Up Comedy,0,0,4.76,24
+Nepal,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Nepal,Teen TV Shows,0,0,4.76,24
+Nepal,Thrillers,0,0,4.76,24
+Nepal,TV Action & Adventure,0,0,4.76,24
+Nepal,TV Comedies,0,0,4.76,24
+Nepal,TV Dramas,0,0,4.76,24
+Nepal,TV Horror,0,0,4.76,24
+Nepal,TV Mysteries,0,0,4.76,24
+Nepal,TV Sci-Fi & Fantasy,0,0,4.76,24
+Nepal,TV Shows,0,0,4.76,24
+Nepal,TV Thrillers,0,0,4.76,24
+Portugal,Action & Adventure,0,0,4.76,24
+Portugal,Anime Features,0,0,4.76,24
+Portugal,Anime Series,0,0,4.76,24
+Portugal,British TV Shows,0,0,4.76,24
+Portugal,Children & Family Movies,0,0,4.76,24
+Portugal,Classic & Cult TV,0,0,4.76,24
+Portugal,Classic Movies,0,0,4.76,24
+Portugal,Comedies,1,1,4.76,24
+Portugal,Crime TV Shows,0,0,4.76,24
+Portugal,Cult Movies,0,0,4.76,24
+Portugal,Documentaries,0,0,4.76,24
+Portugal,Docuseries,0,0,4.76,24
+Portugal,Dramas,4,1,4.76,24
+Portugal,Faith & Spirituality,0,0,4.76,24
+Portugal,Horror Movies,0,0,4.76,24
+Portugal,Independent Movies,0,0,4.76,24
+Portugal,International Movies,0,0,4.76,24
+Portugal,International TV Shows,0,0,4.76,24
+Portugal,Kids' TV,0,0,4.76,24
+Portugal,Korean TV Shows,0,0,4.76,24
+Portugal,LGBTQ Movies,0,0,4.76,24
+Portugal,Movies,0,0,4.76,24
+Portugal,Music & Musicals,0,0,4.76,24
+Portugal,Reality TV,0,0,4.76,24
+Portugal,Romantic Movies,0,0,4.76,24
+Portugal,Romantic TV Shows,0,0,4.76,24
+Portugal,Sci-Fi & Fantasy,0,0,4.76,24
+Portugal,Science & Nature TV,0,0,4.76,24
+Portugal,Spanish-Language TV Shows,0,0,4.76,24
+Portugal,Sports Movies,0,0,4.76,24
+Portugal,Stand-Up Comedy,0,0,4.76,24
+Portugal,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Portugal,Teen TV Shows,0,0,4.76,24
+Portugal,Thrillers,0,0,4.76,24
+Portugal,TV Action & Adventure,0,0,4.76,24
+Portugal,TV Comedies,0,0,4.76,24
+Portugal,TV Dramas,0,0,4.76,24
+Portugal,TV Horror,0,0,4.76,24
+Portugal,TV Mysteries,0,0,4.76,24
+Portugal,TV Sci-Fi & Fantasy,0,0,4.76,24
+Portugal,TV Shows,0,0,4.76,24
+Portugal,TV Thrillers,0,0,4.76,24
+Senegal,Action & Adventure,0,0,4.76,24
+Senegal,Anime Features,0,0,4.76,24
+Senegal,Anime Series,0,0,4.76,24
+Senegal,British TV Shows,0,0,4.76,24
+Senegal,Children & Family Movies,0,0,4.76,24
+Senegal,Classic & Cult TV,0,0,4.76,24
+Senegal,Classic Movies,0,0,4.76,24
+Senegal,Comedies,0,0,4.76,24
+Senegal,Crime TV Shows,1,1,4.76,24
+Senegal,Cult Movies,0,0,4.76,24
+Senegal,Documentaries,0,0,4.76,24
+Senegal,Docuseries,0,0,4.76,24
+Senegal,Dramas,0,0,4.76,24
+Senegal,Faith & Spirituality,0,0,4.76,24
+Senegal,Horror Movies,0,0,4.76,24
+Senegal,Independent Movies,1,1,4.76,24
+Senegal,International Movies,0,0,4.76,24
+Senegal,International TV Shows,0,0,4.76,24
+Senegal,Kids' TV,0,0,4.76,24
+Senegal,Korean TV Shows,0,0,4.76,24
+Senegal,LGBTQ Movies,0,0,4.76,24
+Senegal,Movies,0,0,4.76,24
+Senegal,Music & Musicals,0,0,4.76,24
+Senegal,Reality TV,0,0,4.76,24
+Senegal,Romantic Movies,0,0,4.76,24
+Senegal,Romantic TV Shows,0,0,4.76,24
+Senegal,Sci-Fi & Fantasy,0,0,4.76,24
+Senegal,Science & Nature TV,0,0,4.76,24
+Senegal,Spanish-Language TV Shows,0,0,4.76,24
+Senegal,Sports Movies,0,0,4.76,24
+Senegal,Stand-Up Comedy,0,0,4.76,24
+Senegal,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Senegal,Teen TV Shows,0,0,4.76,24
+Senegal,Thrillers,0,0,4.76,24
+Senegal,TV Action & Adventure,0,0,4.76,24
+Senegal,TV Comedies,0,0,4.76,24
+Senegal,TV Dramas,0,0,4.76,24
+Senegal,TV Horror,0,0,4.76,24
+Senegal,TV Mysteries,0,0,4.76,24
+Senegal,TV Sci-Fi & Fantasy,0,0,4.76,24
+Senegal,TV Shows,0,0,4.76,24
+Senegal,TV Thrillers,0,0,4.76,24
+Soviet Union,Action & Adventure,1,1,4.76,24
+Soviet Union,Anime Features,0,0,4.76,24
+Soviet Union,Anime Series,0,0,4.76,24
+Soviet Union,British TV Shows,0,0,4.76,24
+Soviet Union,Children & Family Movies,0,0,4.76,24
+Soviet Union,Classic & Cult TV,0,0,4.76,24
+Soviet Union,Classic Movies,0,0,4.76,24
+Soviet Union,Comedies,0,0,4.76,24
+Soviet Union,Crime TV Shows,0,0,4.76,24
+Soviet Union,Cult Movies,0,0,4.76,24
+Soviet Union,Documentaries,0,0,4.76,24
+Soviet Union,Docuseries,0,0,4.76,24
+Soviet Union,Dramas,0,0,4.76,24
+Soviet Union,Faith & Spirituality,0,0,4.76,24
+Soviet Union,Horror Movies,0,0,4.76,24
+Soviet Union,Independent Movies,0,0,4.76,24
+Soviet Union,International Movies,2,1,4.76,24
+Soviet Union,International TV Shows,0,0,4.76,24
+Soviet Union,Kids' TV,0,0,4.76,24
+Soviet Union,Korean TV Shows,0,0,4.76,24
+Soviet Union,LGBTQ Movies,0,0,4.76,24
+Soviet Union,Movies,0,0,4.76,24
+Soviet Union,Music & Musicals,0,0,4.76,24
+Soviet Union,Reality TV,0,0,4.76,24
+Soviet Union,Romantic Movies,0,0,4.76,24
+Soviet Union,Romantic TV Shows,0,0,4.76,24
+Soviet Union,Sci-Fi & Fantasy,0,0,4.76,24
+Soviet Union,Science & Nature TV,0,0,4.76,24
+Soviet Union,Spanish-Language TV Shows,0,0,4.76,24
+Soviet Union,Sports Movies,0,0,4.76,24
+Soviet Union,Stand-Up Comedy,0,0,4.76,24
+Soviet Union,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Soviet Union,Teen TV Shows,0,0,4.76,24
+Soviet Union,Thrillers,0,0,4.76,24
+Soviet Union,TV Action & Adventure,0,0,4.76,24
+Soviet Union,TV Comedies,0,0,4.76,24
+Soviet Union,TV Dramas,0,0,4.76,24
+Soviet Union,TV Horror,0,0,4.76,24
+Soviet Union,TV Mysteries,0,0,4.76,24
+Soviet Union,TV Sci-Fi & Fantasy,0,0,4.76,24
+Soviet Union,TV Shows,0,0,4.76,24
+Soviet Union,TV Thrillers,0,0,4.76,24
+Syria,Action & Adventure,0,0,4.76,24
+Syria,Anime Features,0,0,4.76,24
+Syria,Anime Series,0,0,4.76,24
+Syria,British TV Shows,0,0,4.76,24
+Syria,Children & Family Movies,0,0,4.76,24
+Syria,Classic & Cult TV,0,0,4.76,24
+Syria,Classic Movies,0,0,4.76,24
+Syria,Comedies,0,0,4.76,24
+Syria,Crime TV Shows,0,0,4.76,24
+Syria,Cult Movies,0,0,4.76,24
+Syria,Documentaries,0,0,4.76,24
+Syria,Docuseries,0,0,4.76,24
+Syria,Dramas,2,1,4.76,24
+Syria,Faith & Spirituality,0,0,4.76,24
+Syria,Horror Movies,0,0,4.76,24
+Syria,Independent Movies,0,0,4.76,24
+Syria,International Movies,0,0,4.76,24
+Syria,International TV Shows,0,0,4.76,24
+Syria,Kids' TV,0,0,4.76,24
+Syria,Korean TV Shows,0,0,4.76,24
+Syria,LGBTQ Movies,0,0,4.76,24
+Syria,Movies,0,0,4.76,24
+Syria,Music & Musicals,0,0,4.76,24
+Syria,Reality TV,0,0,4.76,24
+Syria,Romantic Movies,0,0,4.76,24
+Syria,Romantic TV Shows,0,0,4.76,24
+Syria,Sci-Fi & Fantasy,0,0,4.76,24
+Syria,Science & Nature TV,0,0,4.76,24
+Syria,Spanish-Language TV Shows,0,0,4.76,24
+Syria,Sports Movies,0,0,4.76,24
+Syria,Stand-Up Comedy,0,0,4.76,24
+Syria,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Syria,Teen TV Shows,0,0,4.76,24
+Syria,Thrillers,0,0,4.76,24
+Syria,TV Action & Adventure,0,0,4.76,24
+Syria,TV Comedies,0,0,4.76,24
+Syria,TV Dramas,1,1,4.76,24
+Syria,TV Horror,0,0,4.76,24
+Syria,TV Mysteries,0,0,4.76,24
+Syria,TV Sci-Fi & Fantasy,0,0,4.76,24
+Syria,TV Shows,0,0,4.76,24
+Syria,TV Thrillers,0,0,4.76,24
+Venezuela,Action & Adventure,0,0,4.76,24
+Venezuela,Anime Features,0,0,4.76,24
+Venezuela,Anime Series,0,0,4.76,24
+Venezuela,British TV Shows,0,0,4.76,24
+Venezuela,Children & Family Movies,0,0,4.76,24
+Venezuela,Classic & Cult TV,0,0,4.76,24
+Venezuela,Classic Movies,0,0,4.76,24
+Venezuela,Comedies,0,0,4.76,24
+Venezuela,Crime TV Shows,0,0,4.76,24
+Venezuela,Cult Movies,0,0,4.76,24
+Venezuela,Documentaries,2,1,4.76,24
+Venezuela,Docuseries,0,0,4.76,24
+Venezuela,Dramas,0,0,4.76,24
+Venezuela,Faith & Spirituality,0,0,4.76,24
+Venezuela,Horror Movies,0,0,4.76,24
+Venezuela,Independent Movies,0,0,4.76,24
+Venezuela,International Movies,1,1,4.76,24
+Venezuela,International TV Shows,0,0,4.76,24
+Venezuela,Kids' TV,0,0,4.76,24
+Venezuela,Korean TV Shows,0,0,4.76,24
+Venezuela,LGBTQ Movies,0,0,4.76,24
+Venezuela,Movies,0,0,4.76,24
+Venezuela,Music & Musicals,0,0,4.76,24
+Venezuela,Reality TV,0,0,4.76,24
+Venezuela,Romantic Movies,0,0,4.76,24
+Venezuela,Romantic TV Shows,0,0,4.76,24
+Venezuela,Sci-Fi & Fantasy,0,0,4.76,24
+Venezuela,Science & Nature TV,0,0,4.76,24
+Venezuela,Spanish-Language TV Shows,0,0,4.76,24
+Venezuela,Sports Movies,0,0,4.76,24
+Venezuela,Stand-Up Comedy,0,0,4.76,24
+Venezuela,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Venezuela,Teen TV Shows,0,0,4.76,24
+Venezuela,Thrillers,0,0,4.76,24
+Venezuela,TV Action & Adventure,0,0,4.76,24
+Venezuela,TV Comedies,0,0,4.76,24
+Venezuela,TV Dramas,0,0,4.76,24
+Venezuela,TV Horror,0,0,4.76,24
+Venezuela,TV Mysteries,0,0,4.76,24
+Venezuela,TV Sci-Fi & Fantasy,0,0,4.76,24
+Venezuela,TV Shows,0,0,4.76,24
+Venezuela,TV Thrillers,0,0,4.76,24
+Zimbabwe,Action & Adventure,0,0,4.76,24
+Zimbabwe,Anime Features,0,0,4.76,24
+Zimbabwe,Anime Series,0,0,4.76,24
+Zimbabwe,British TV Shows,0,0,4.76,24
+Zimbabwe,Children & Family Movies,0,0,4.76,24
+Zimbabwe,Classic & Cult TV,0,0,4.76,24
+Zimbabwe,Classic Movies,0,0,4.76,24
+Zimbabwe,Comedies,1,1,4.76,24
+Zimbabwe,Crime TV Shows,0,0,4.76,24
+Zimbabwe,Cult Movies,0,0,4.76,24
+Zimbabwe,Documentaries,0,0,4.76,24
+Zimbabwe,Docuseries,0,0,4.76,24
+Zimbabwe,Dramas,0,0,4.76,24
+Zimbabwe,Faith & Spirituality,0,0,4.76,24
+Zimbabwe,Horror Movies,0,0,4.76,24
+Zimbabwe,Independent Movies,0,0,4.76,24
+Zimbabwe,International Movies,1,1,4.76,24
+Zimbabwe,International TV Shows,0,0,4.76,24
+Zimbabwe,Kids' TV,0,0,4.76,24
+Zimbabwe,Korean TV Shows,0,0,4.76,24
+Zimbabwe,LGBTQ Movies,0,0,4.76,24
+Zimbabwe,Movies,0,0,4.76,24
+Zimbabwe,Music & Musicals,0,0,4.76,24
+Zimbabwe,Reality TV,0,0,4.76,24
+Zimbabwe,Romantic Movies,0,0,4.76,24
+Zimbabwe,Romantic TV Shows,0,0,4.76,24
+Zimbabwe,Sci-Fi & Fantasy,0,0,4.76,24
+Zimbabwe,Science & Nature TV,0,0,4.76,24
+Zimbabwe,Spanish-Language TV Shows,0,0,4.76,24
+Zimbabwe,Sports Movies,0,0,4.76,24
+Zimbabwe,Stand-Up Comedy,0,0,4.76,24
+Zimbabwe,Stand-Up Comedy & Talk Shows,0,0,4.76,24
+Zimbabwe,Teen TV Shows,0,0,4.76,24
+Zimbabwe,Thrillers,0,0,4.76,24
+Zimbabwe,TV Action & Adventure,0,0,4.76,24
+Zimbabwe,TV Comedies,0,0,4.76,24
+Zimbabwe,TV Dramas,0,0,4.76,24
+Zimbabwe,TV Horror,0,0,4.76,24
+Zimbabwe,TV Mysteries,0,0,4.76,24
+Zimbabwe,TV Sci-Fi & Fantasy,0,0,4.76,24
+Zimbabwe,TV Shows,0,0,4.76,24
+Zimbabwe,TV Thrillers,0,0,4.76,24
+Angola,Action & Adventure,0,0,2.38,25
+Angola,Anime Features,0,0,2.38,25
+Angola,Anime Series,0,0,2.38,25
+Angola,British TV Shows,0,0,2.38,25
+Angola,Children & Family Movies,0,0,2.38,25
+Angola,Classic & Cult TV,0,0,2.38,25
+Angola,Classic Movies,0,0,2.38,25
+Angola,Comedies,0,0,2.38,25
+Angola,Crime TV Shows,0,0,2.38,25
+Angola,Cult Movies,0,0,2.38,25
+Angola,Documentaries,0,0,2.38,25
+Angola,Docuseries,0,0,2.38,25
+Angola,Dramas,0,0,2.38,25
+Angola,Faith & Spirituality,0,0,2.38,25
+Angola,Horror Movies,0,0,2.38,25
+Angola,Independent Movies,0,0,2.38,25
+Angola,International Movies,1,1,2.38,25
+Angola,International TV Shows,0,0,2.38,25
+Angola,Kids' TV,0,0,2.38,25
+Angola,Korean TV Shows,0,0,2.38,25
+Angola,LGBTQ Movies,0,0,2.38,25
+Angola,Movies,0,0,2.38,25
+Angola,Music & Musicals,0,0,2.38,25
+Angola,Reality TV,0,0,2.38,25
+Angola,Romantic Movies,0,0,2.38,25
+Angola,Romantic TV Shows,0,0,2.38,25
+Angola,Sci-Fi & Fantasy,0,0,2.38,25
+Angola,Science & Nature TV,0,0,2.38,25
+Angola,Spanish-Language TV Shows,0,0,2.38,25
+Angola,Sports Movies,0,0,2.38,25
+Angola,Stand-Up Comedy,0,0,2.38,25
+Angola,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Angola,Teen TV Shows,0,0,2.38,25
+Angola,Thrillers,0,0,2.38,25
+Angola,TV Action & Adventure,0,0,2.38,25
+Angola,TV Comedies,0,0,2.38,25
+Angola,TV Dramas,0,0,2.38,25
+Angola,TV Horror,0,0,2.38,25
+Angola,TV Mysteries,0,0,2.38,25
+Angola,TV Sci-Fi & Fantasy,0,0,2.38,25
+Angola,TV Shows,0,0,2.38,25
+Angola,TV Thrillers,0,0,2.38,25
+Armenia,Action & Adventure,0,0,2.38,25
+Armenia,Anime Features,0,0,2.38,25
+Armenia,Anime Series,0,0,2.38,25
+Armenia,British TV Shows,0,0,2.38,25
+Armenia,Children & Family Movies,0,0,2.38,25
+Armenia,Classic & Cult TV,0,0,2.38,25
+Armenia,Classic Movies,0,0,2.38,25
+Armenia,Comedies,0,0,2.38,25
+Armenia,Crime TV Shows,0,0,2.38,25
+Armenia,Cult Movies,0,0,2.38,25
+Armenia,Documentaries,0,0,2.38,25
+Armenia,Docuseries,0,0,2.38,25
+Armenia,Dramas,0,0,2.38,25
+Armenia,Faith & Spirituality,0,0,2.38,25
+Armenia,Horror Movies,0,0,2.38,25
+Armenia,Independent Movies,0,0,2.38,25
+Armenia,International Movies,1,1,2.38,25
+Armenia,International TV Shows,0,0,2.38,25
+Armenia,Kids' TV,0,0,2.38,25
+Armenia,Korean TV Shows,0,0,2.38,25
+Armenia,LGBTQ Movies,0,0,2.38,25
+Armenia,Movies,0,0,2.38,25
+Armenia,Music & Musicals,0,0,2.38,25
+Armenia,Reality TV,0,0,2.38,25
+Armenia,Romantic Movies,0,0,2.38,25
+Armenia,Romantic TV Shows,0,0,2.38,25
+Armenia,Sci-Fi & Fantasy,0,0,2.38,25
+Armenia,Science & Nature TV,0,0,2.38,25
+Armenia,Spanish-Language TV Shows,0,0,2.38,25
+Armenia,Sports Movies,0,0,2.38,25
+Armenia,Stand-Up Comedy,0,0,2.38,25
+Armenia,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Armenia,Teen TV Shows,0,0,2.38,25
+Armenia,Thrillers,0,0,2.38,25
+Armenia,TV Action & Adventure,0,0,2.38,25
+Armenia,TV Comedies,0,0,2.38,25
+Armenia,TV Dramas,0,0,2.38,25
+Armenia,TV Horror,0,0,2.38,25
+Armenia,TV Mysteries,0,0,2.38,25
+Armenia,TV Sci-Fi & Fantasy,0,0,2.38,25
+Armenia,TV Shows,0,0,2.38,25
+Armenia,TV Thrillers,0,0,2.38,25
+Azerbaijan,Action & Adventure,0,0,2.38,25
+Azerbaijan,Anime Features,0,0,2.38,25
+Azerbaijan,Anime Series,0,0,2.38,25
+Azerbaijan,British TV Shows,0,0,2.38,25
+Azerbaijan,Children & Family Movies,0,0,2.38,25
+Azerbaijan,Classic & Cult TV,0,0,2.38,25
+Azerbaijan,Classic Movies,0,0,2.38,25
+Azerbaijan,Comedies,0,0,2.38,25
+Azerbaijan,Crime TV Shows,0,0,2.38,25
+Azerbaijan,Cult Movies,0,0,2.38,25
+Azerbaijan,Documentaries,0,0,2.38,25
+Azerbaijan,Docuseries,0,0,2.38,25
+Azerbaijan,Dramas,0,0,2.38,25
+Azerbaijan,Faith & Spirituality,0,0,2.38,25
+Azerbaijan,Horror Movies,0,0,2.38,25
+Azerbaijan,Independent Movies,0,0,2.38,25
+Azerbaijan,International Movies,0,0,2.38,25
+Azerbaijan,International TV Shows,0,0,2.38,25
+Azerbaijan,Kids' TV,0,0,2.38,25
+Azerbaijan,Korean TV Shows,0,0,2.38,25
+Azerbaijan,LGBTQ Movies,0,0,2.38,25
+Azerbaijan,Movies,0,0,2.38,25
+Azerbaijan,Music & Musicals,0,0,2.38,25
+Azerbaijan,Reality TV,0,0,2.38,25
+Azerbaijan,Romantic Movies,0,0,2.38,25
+Azerbaijan,Romantic TV Shows,1,1,2.38,25
+Azerbaijan,Sci-Fi & Fantasy,0,0,2.38,25
+Azerbaijan,Science & Nature TV,0,0,2.38,25
+Azerbaijan,Spanish-Language TV Shows,0,0,2.38,25
+Azerbaijan,Sports Movies,0,0,2.38,25
+Azerbaijan,Stand-Up Comedy,0,0,2.38,25
+Azerbaijan,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Azerbaijan,Teen TV Shows,0,0,2.38,25
+Azerbaijan,Thrillers,0,0,2.38,25
+Azerbaijan,TV Action & Adventure,0,0,2.38,25
+Azerbaijan,TV Comedies,0,0,2.38,25
+Azerbaijan,TV Dramas,0,0,2.38,25
+Azerbaijan,TV Horror,0,0,2.38,25
+Azerbaijan,TV Mysteries,0,0,2.38,25
+Azerbaijan,TV Sci-Fi & Fantasy,0,0,2.38,25
+Azerbaijan,TV Shows,0,0,2.38,25
+Azerbaijan,TV Thrillers,0,0,2.38,25
+Belarus,Action & Adventure,0,0,2.38,25
+Belarus,Anime Features,0,0,2.38,25
+Belarus,Anime Series,0,0,2.38,25
+Belarus,British TV Shows,1,1,2.38,25
+Belarus,Children & Family Movies,0,0,2.38,25
+Belarus,Classic & Cult TV,0,0,2.38,25
+Belarus,Classic Movies,0,0,2.38,25
+Belarus,Comedies,0,0,2.38,25
+Belarus,Crime TV Shows,0,0,2.38,25
+Belarus,Cult Movies,0,0,2.38,25
+Belarus,Documentaries,0,0,2.38,25
+Belarus,Docuseries,0,0,2.38,25
+Belarus,Dramas,0,0,2.38,25
+Belarus,Faith & Spirituality,0,0,2.38,25
+Belarus,Horror Movies,0,0,2.38,25
+Belarus,Independent Movies,0,0,2.38,25
+Belarus,International Movies,0,0,2.38,25
+Belarus,International TV Shows,0,0,2.38,25
+Belarus,Kids' TV,0,0,2.38,25
+Belarus,Korean TV Shows,0,0,2.38,25
+Belarus,LGBTQ Movies,0,0,2.38,25
+Belarus,Movies,0,0,2.38,25
+Belarus,Music & Musicals,0,0,2.38,25
+Belarus,Reality TV,0,0,2.38,25
+Belarus,Romantic Movies,0,0,2.38,25
+Belarus,Romantic TV Shows,0,0,2.38,25
+Belarus,Sci-Fi & Fantasy,0,0,2.38,25
+Belarus,Science & Nature TV,0,0,2.38,25
+Belarus,Spanish-Language TV Shows,0,0,2.38,25
+Belarus,Sports Movies,0,0,2.38,25
+Belarus,Stand-Up Comedy,0,0,2.38,25
+Belarus,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Belarus,Teen TV Shows,0,0,2.38,25
+Belarus,Thrillers,0,0,2.38,25
+Belarus,TV Action & Adventure,0,0,2.38,25
+Belarus,TV Comedies,0,0,2.38,25
+Belarus,TV Dramas,0,0,2.38,25
+Belarus,TV Horror,0,0,2.38,25
+Belarus,TV Mysteries,0,0,2.38,25
+Belarus,TV Sci-Fi & Fantasy,0,0,2.38,25
+Belarus,TV Shows,0,0,2.38,25
+Belarus,TV Thrillers,0,0,2.38,25
+Burkina Faso,Action & Adventure,0,0,2.38,25
+Burkina Faso,Anime Features,0,0,2.38,25
+Burkina Faso,Anime Series,0,0,2.38,25
+Burkina Faso,British TV Shows,0,0,2.38,25
+Burkina Faso,Children & Family Movies,0,0,2.38,25
+Burkina Faso,Classic & Cult TV,0,0,2.38,25
+Burkina Faso,Classic Movies,0,0,2.38,25
+Burkina Faso,Comedies,0,0,2.38,25
+Burkina Faso,Crime TV Shows,0,0,2.38,25
+Burkina Faso,Cult Movies,0,0,2.38,25
+Burkina Faso,Documentaries,0,0,2.38,25
+Burkina Faso,Docuseries,0,0,2.38,25
+Burkina Faso,Dramas,0,0,2.38,25
+Burkina Faso,Faith & Spirituality,0,0,2.38,25
+Burkina Faso,Horror Movies,0,0,2.38,25
+Burkina Faso,Independent Movies,0,0,2.38,25
+Burkina Faso,International Movies,1,1,2.38,25
+Burkina Faso,International TV Shows,0,0,2.38,25
+Burkina Faso,Kids' TV,0,0,2.38,25
+Burkina Faso,Korean TV Shows,0,0,2.38,25
+Burkina Faso,LGBTQ Movies,0,0,2.38,25
+Burkina Faso,Movies,0,0,2.38,25
+Burkina Faso,Music & Musicals,0,0,2.38,25
+Burkina Faso,Reality TV,0,0,2.38,25
+Burkina Faso,Romantic Movies,0,0,2.38,25
+Burkina Faso,Romantic TV Shows,0,0,2.38,25
+Burkina Faso,Sci-Fi & Fantasy,0,0,2.38,25
+Burkina Faso,Science & Nature TV,0,0,2.38,25
+Burkina Faso,Spanish-Language TV Shows,0,0,2.38,25
+Burkina Faso,Sports Movies,0,0,2.38,25
+Burkina Faso,Stand-Up Comedy,0,0,2.38,25
+Burkina Faso,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Burkina Faso,Teen TV Shows,0,0,2.38,25
+Burkina Faso,Thrillers,0,0,2.38,25
+Burkina Faso,TV Action & Adventure,0,0,2.38,25
+Burkina Faso,TV Comedies,0,0,2.38,25
+Burkina Faso,TV Dramas,0,0,2.38,25
+Burkina Faso,TV Horror,0,0,2.38,25
+Burkina Faso,TV Mysteries,0,0,2.38,25
+Burkina Faso,TV Sci-Fi & Fantasy,0,0,2.38,25
+Burkina Faso,TV Shows,0,0,2.38,25
+Burkina Faso,TV Thrillers,0,0,2.38,25
+Cameroon,Action & Adventure,0,0,2.38,25
+Cameroon,Anime Features,0,0,2.38,25
+Cameroon,Anime Series,0,0,2.38,25
+Cameroon,British TV Shows,0,0,2.38,25
+Cameroon,Children & Family Movies,0,0,2.38,25
+Cameroon,Classic & Cult TV,0,0,2.38,25
+Cameroon,Classic Movies,0,0,2.38,25
+Cameroon,Comedies,0,0,2.38,25
+Cameroon,Crime TV Shows,0,0,2.38,25
+Cameroon,Cult Movies,0,0,2.38,25
+Cameroon,Documentaries,0,0,2.38,25
+Cameroon,Docuseries,0,0,2.38,25
+Cameroon,Dramas,1,1,2.38,25
+Cameroon,Faith & Spirituality,0,0,2.38,25
+Cameroon,Horror Movies,0,0,2.38,25
+Cameroon,Independent Movies,0,0,2.38,25
+Cameroon,International Movies,0,0,2.38,25
+Cameroon,International TV Shows,0,0,2.38,25
+Cameroon,Kids' TV,0,0,2.38,25
+Cameroon,Korean TV Shows,0,0,2.38,25
+Cameroon,LGBTQ Movies,0,0,2.38,25
+Cameroon,Movies,0,0,2.38,25
+Cameroon,Music & Musicals,0,0,2.38,25
+Cameroon,Reality TV,0,0,2.38,25
+Cameroon,Romantic Movies,0,0,2.38,25
+Cameroon,Romantic TV Shows,0,0,2.38,25
+Cameroon,Sci-Fi & Fantasy,0,0,2.38,25
+Cameroon,Science & Nature TV,0,0,2.38,25
+Cameroon,Spanish-Language TV Shows,0,0,2.38,25
+Cameroon,Sports Movies,0,0,2.38,25
+Cameroon,Stand-Up Comedy,0,0,2.38,25
+Cameroon,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Cameroon,Teen TV Shows,0,0,2.38,25
+Cameroon,Thrillers,0,0,2.38,25
+Cameroon,TV Action & Adventure,0,0,2.38,25
+Cameroon,TV Comedies,0,0,2.38,25
+Cameroon,TV Dramas,0,0,2.38,25
+Cameroon,TV Horror,0,0,2.38,25
+Cameroon,TV Mysteries,0,0,2.38,25
+Cameroon,TV Sci-Fi & Fantasy,0,0,2.38,25
+Cameroon,TV Shows,0,0,2.38,25
+Cameroon,TV Thrillers,0,0,2.38,25
+Cuba,Action & Adventure,0,0,2.38,25
+Cuba,Anime Features,0,0,2.38,25
+Cuba,Anime Series,0,0,2.38,25
+Cuba,British TV Shows,0,0,2.38,25
+Cuba,Children & Family Movies,0,0,2.38,25
+Cuba,Classic & Cult TV,0,0,2.38,25
+Cuba,Classic Movies,0,0,2.38,25
+Cuba,Comedies,0,0,2.38,25
+Cuba,Crime TV Shows,0,0,2.38,25
+Cuba,Cult Movies,0,0,2.38,25
+Cuba,Documentaries,0,0,2.38,25
+Cuba,Docuseries,0,0,2.38,25
+Cuba,Dramas,0,0,2.38,25
+Cuba,Faith & Spirituality,0,0,2.38,25
+Cuba,Horror Movies,0,0,2.38,25
+Cuba,Independent Movies,0,0,2.38,25
+Cuba,International Movies,0,0,2.38,25
+Cuba,International TV Shows,1,1,2.38,25
+Cuba,Kids' TV,0,0,2.38,25
+Cuba,Korean TV Shows,0,0,2.38,25
+Cuba,LGBTQ Movies,0,0,2.38,25
+Cuba,Movies,0,0,2.38,25
+Cuba,Music & Musicals,0,0,2.38,25
+Cuba,Reality TV,0,0,2.38,25
+Cuba,Romantic Movies,0,0,2.38,25
+Cuba,Romantic TV Shows,0,0,2.38,25
+Cuba,Sci-Fi & Fantasy,0,0,2.38,25
+Cuba,Science & Nature TV,0,0,2.38,25
+Cuba,Spanish-Language TV Shows,0,0,2.38,25
+Cuba,Sports Movies,0,0,2.38,25
+Cuba,Stand-Up Comedy,0,0,2.38,25
+Cuba,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Cuba,Teen TV Shows,0,0,2.38,25
+Cuba,Thrillers,0,0,2.38,25
+Cuba,TV Action & Adventure,0,0,2.38,25
+Cuba,TV Comedies,0,0,2.38,25
+Cuba,TV Dramas,0,0,2.38,25
+Cuba,TV Horror,0,0,2.38,25
+Cuba,TV Mysteries,0,0,2.38,25
+Cuba,TV Sci-Fi & Fantasy,0,0,2.38,25
+Cuba,TV Shows,0,0,2.38,25
+Cuba,TV Thrillers,0,0,2.38,25
+Cyprus,Action & Adventure,0,0,2.38,25
+Cyprus,Anime Features,0,0,2.38,25
+Cyprus,Anime Series,0,0,2.38,25
+Cyprus,British TV Shows,0,0,2.38,25
+Cyprus,Children & Family Movies,0,0,2.38,25
+Cyprus,Classic & Cult TV,0,0,2.38,25
+Cyprus,Classic Movies,0,0,2.38,25
+Cyprus,Comedies,0,0,2.38,25
+Cyprus,Crime TV Shows,0,0,2.38,25
+Cyprus,Cult Movies,0,0,2.38,25
+Cyprus,Documentaries,0,0,2.38,25
+Cyprus,Docuseries,0,0,2.38,25
+Cyprus,Dramas,0,0,2.38,25
+Cyprus,Faith & Spirituality,0,0,2.38,25
+Cyprus,Horror Movies,0,0,2.38,25
+Cyprus,Independent Movies,0,0,2.38,25
+Cyprus,International Movies,0,0,2.38,25
+Cyprus,International TV Shows,0,0,2.38,25
+Cyprus,Kids' TV,1,1,2.38,25
+Cyprus,Korean TV Shows,0,0,2.38,25
+Cyprus,LGBTQ Movies,0,0,2.38,25
+Cyprus,Movies,0,0,2.38,25
+Cyprus,Music & Musicals,0,0,2.38,25
+Cyprus,Reality TV,0,0,2.38,25
+Cyprus,Romantic Movies,0,0,2.38,25
+Cyprus,Romantic TV Shows,0,0,2.38,25
+Cyprus,Sci-Fi & Fantasy,0,0,2.38,25
+Cyprus,Science & Nature TV,0,0,2.38,25
+Cyprus,Spanish-Language TV Shows,0,0,2.38,25
+Cyprus,Sports Movies,0,0,2.38,25
+Cyprus,Stand-Up Comedy,0,0,2.38,25
+Cyprus,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Cyprus,Teen TV Shows,0,0,2.38,25
+Cyprus,Thrillers,0,0,2.38,25
+Cyprus,TV Action & Adventure,0,0,2.38,25
+Cyprus,TV Comedies,0,0,2.38,25
+Cyprus,TV Dramas,0,0,2.38,25
+Cyprus,TV Horror,0,0,2.38,25
+Cyprus,TV Mysteries,0,0,2.38,25
+Cyprus,TV Sci-Fi & Fantasy,0,0,2.38,25
+Cyprus,TV Shows,0,0,2.38,25
+Cyprus,TV Thrillers,0,0,2.38,25
+Dominican Republic,Action & Adventure,0,0,2.38,25
+Dominican Republic,Anime Features,0,0,2.38,25
+Dominican Republic,Anime Series,0,0,2.38,25
+Dominican Republic,British TV Shows,0,0,2.38,25
+Dominican Republic,Children & Family Movies,0,0,2.38,25
+Dominican Republic,Classic & Cult TV,0,0,2.38,25
+Dominican Republic,Classic Movies,0,0,2.38,25
+Dominican Republic,Comedies,0,0,2.38,25
+Dominican Republic,Crime TV Shows,0,0,2.38,25
+Dominican Republic,Cult Movies,0,0,2.38,25
+Dominican Republic,Documentaries,0,0,2.38,25
+Dominican Republic,Docuseries,0,0,2.38,25
+Dominican Republic,Dramas,0,0,2.38,25
+Dominican Republic,Faith & Spirituality,0,0,2.38,25
+Dominican Republic,Horror Movies,0,0,2.38,25
+Dominican Republic,Independent Movies,0,0,2.38,25
+Dominican Republic,International Movies,0,0,2.38,25
+Dominican Republic,International TV Shows,0,0,2.38,25
+Dominican Republic,Kids' TV,0,0,2.38,25
+Dominican Republic,Korean TV Shows,0,0,2.38,25
+Dominican Republic,LGBTQ Movies,0,0,2.38,25
+Dominican Republic,Movies,0,0,2.38,25
+Dominican Republic,Music & Musicals,0,0,2.38,25
+Dominican Republic,Reality TV,0,0,2.38,25
+Dominican Republic,Romantic Movies,0,0,2.38,25
+Dominican Republic,Romantic TV Shows,0,0,2.38,25
+Dominican Republic,Sci-Fi & Fantasy,0,0,2.38,25
+Dominican Republic,Science & Nature TV,0,0,2.38,25
+Dominican Republic,Spanish-Language TV Shows,0,0,2.38,25
+Dominican Republic,Sports Movies,0,0,2.38,25
+Dominican Republic,Stand-Up Comedy,0,0,2.38,25
+Dominican Republic,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Dominican Republic,Teen TV Shows,0,0,2.38,25
+Dominican Republic,Thrillers,1,1,2.38,25
+Dominican Republic,TV Action & Adventure,0,0,2.38,25
+Dominican Republic,TV Comedies,0,0,2.38,25
+Dominican Republic,TV Dramas,0,0,2.38,25
+Dominican Republic,TV Horror,0,0,2.38,25
+Dominican Republic,TV Mysteries,0,0,2.38,25
+Dominican Republic,TV Sci-Fi & Fantasy,0,0,2.38,25
+Dominican Republic,TV Shows,0,0,2.38,25
+Dominican Republic,TV Thrillers,0,0,2.38,25
+East Germany,Action & Adventure,0,0,2.38,25
+East Germany,Anime Features,0,0,2.38,25
+East Germany,Anime Series,0,0,2.38,25
+East Germany,British TV Shows,0,0,2.38,25
+East Germany,Children & Family Movies,0,0,2.38,25
+East Germany,Classic & Cult TV,0,0,2.38,25
+East Germany,Classic Movies,1,1,2.38,25
+East Germany,Comedies,0,0,2.38,25
+East Germany,Crime TV Shows,0,0,2.38,25
+East Germany,Cult Movies,0,0,2.38,25
+East Germany,Documentaries,0,0,2.38,25
+East Germany,Docuseries,0,0,2.38,25
+East Germany,Dramas,0,0,2.38,25
+East Germany,Faith & Spirituality,0,0,2.38,25
+East Germany,Horror Movies,0,0,2.38,25
+East Germany,Independent Movies,0,0,2.38,25
+East Germany,International Movies,0,0,2.38,25
+East Germany,International TV Shows,0,0,2.38,25
+East Germany,Kids' TV,0,0,2.38,25
+East Germany,Korean TV Shows,0,0,2.38,25
+East Germany,LGBTQ Movies,0,0,2.38,25
+East Germany,Movies,0,0,2.38,25
+East Germany,Music & Musicals,0,0,2.38,25
+East Germany,Reality TV,0,0,2.38,25
+East Germany,Romantic Movies,0,0,2.38,25
+East Germany,Romantic TV Shows,0,0,2.38,25
+East Germany,Sci-Fi & Fantasy,0,0,2.38,25
+East Germany,Science & Nature TV,0,0,2.38,25
+East Germany,Spanish-Language TV Shows,0,0,2.38,25
+East Germany,Sports Movies,0,0,2.38,25
+East Germany,Stand-Up Comedy,0,0,2.38,25
+East Germany,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+East Germany,Teen TV Shows,0,0,2.38,25
+East Germany,Thrillers,0,0,2.38,25
+East Germany,TV Action & Adventure,0,0,2.38,25
+East Germany,TV Comedies,0,0,2.38,25
+East Germany,TV Dramas,0,0,2.38,25
+East Germany,TV Horror,0,0,2.38,25
+East Germany,TV Mysteries,0,0,2.38,25
+East Germany,TV Sci-Fi & Fantasy,0,0,2.38,25
+East Germany,TV Shows,0,0,2.38,25
+East Germany,TV Thrillers,0,0,2.38,25
+Iraq,Action & Adventure,0,0,2.38,25
+Iraq,Anime Features,0,0,2.38,25
+Iraq,Anime Series,0,0,2.38,25
+Iraq,British TV Shows,0,0,2.38,25
+Iraq,Children & Family Movies,0,0,2.38,25
+Iraq,Classic & Cult TV,0,0,2.38,25
+Iraq,Classic Movies,0,0,2.38,25
+Iraq,Comedies,0,0,2.38,25
+Iraq,Crime TV Shows,0,0,2.38,25
+Iraq,Cult Movies,0,0,2.38,25
+Iraq,Documentaries,0,0,2.38,25
+Iraq,Docuseries,0,0,2.38,25
+Iraq,Dramas,0,0,2.38,25
+Iraq,Faith & Spirituality,0,0,2.38,25
+Iraq,Horror Movies,0,0,2.38,25
+Iraq,Independent Movies,0,0,2.38,25
+Iraq,International Movies,2,1,2.38,25
+Iraq,International TV Shows,0,0,2.38,25
+Iraq,Kids' TV,0,0,2.38,25
+Iraq,Korean TV Shows,0,0,2.38,25
+Iraq,LGBTQ Movies,0,0,2.38,25
+Iraq,Movies,0,0,2.38,25
+Iraq,Music & Musicals,0,0,2.38,25
+Iraq,Reality TV,0,0,2.38,25
+Iraq,Romantic Movies,0,0,2.38,25
+Iraq,Romantic TV Shows,0,0,2.38,25
+Iraq,Sci-Fi & Fantasy,0,0,2.38,25
+Iraq,Science & Nature TV,0,0,2.38,25
+Iraq,Spanish-Language TV Shows,0,0,2.38,25
+Iraq,Sports Movies,0,0,2.38,25
+Iraq,Stand-Up Comedy,0,0,2.38,25
+Iraq,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Iraq,Teen TV Shows,0,0,2.38,25
+Iraq,Thrillers,0,0,2.38,25
+Iraq,TV Action & Adventure,0,0,2.38,25
+Iraq,TV Comedies,0,0,2.38,25
+Iraq,TV Dramas,0,0,2.38,25
+Iraq,TV Horror,0,0,2.38,25
+Iraq,TV Mysteries,0,0,2.38,25
+Iraq,TV Sci-Fi & Fantasy,0,0,2.38,25
+Iraq,TV Shows,0,0,2.38,25
+Iraq,TV Thrillers,0,0,2.38,25
+Jamaica,Action & Adventure,0,0,2.38,25
+Jamaica,Anime Features,0,0,2.38,25
+Jamaica,Anime Series,0,0,2.38,25
+Jamaica,British TV Shows,0,0,2.38,25
+Jamaica,Children & Family Movies,0,0,2.38,25
+Jamaica,Classic & Cult TV,0,0,2.38,25
+Jamaica,Classic Movies,0,0,2.38,25
+Jamaica,Comedies,0,0,2.38,25
+Jamaica,Crime TV Shows,0,0,2.38,25
+Jamaica,Cult Movies,0,0,2.38,25
+Jamaica,Documentaries,0,0,2.38,25
+Jamaica,Docuseries,0,0,2.38,25
+Jamaica,Dramas,1,1,2.38,25
+Jamaica,Faith & Spirituality,0,0,2.38,25
+Jamaica,Horror Movies,0,0,2.38,25
+Jamaica,Independent Movies,0,0,2.38,25
+Jamaica,International Movies,0,0,2.38,25
+Jamaica,International TV Shows,0,0,2.38,25
+Jamaica,Kids' TV,0,0,2.38,25
+Jamaica,Korean TV Shows,0,0,2.38,25
+Jamaica,LGBTQ Movies,0,0,2.38,25
+Jamaica,Movies,0,0,2.38,25
+Jamaica,Music & Musicals,0,0,2.38,25
+Jamaica,Reality TV,0,0,2.38,25
+Jamaica,Romantic Movies,0,0,2.38,25
+Jamaica,Romantic TV Shows,0,0,2.38,25
+Jamaica,Sci-Fi & Fantasy,0,0,2.38,25
+Jamaica,Science & Nature TV,0,0,2.38,25
+Jamaica,Spanish-Language TV Shows,0,0,2.38,25
+Jamaica,Sports Movies,0,0,2.38,25
+Jamaica,Stand-Up Comedy,0,0,2.38,25
+Jamaica,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Jamaica,Teen TV Shows,0,0,2.38,25
+Jamaica,Thrillers,0,0,2.38,25
+Jamaica,TV Action & Adventure,0,0,2.38,25
+Jamaica,TV Comedies,0,0,2.38,25
+Jamaica,TV Dramas,0,0,2.38,25
+Jamaica,TV Horror,0,0,2.38,25
+Jamaica,TV Mysteries,0,0,2.38,25
+Jamaica,TV Sci-Fi & Fantasy,0,0,2.38,25
+Jamaica,TV Shows,0,0,2.38,25
+Jamaica,TV Thrillers,0,0,2.38,25
+Lithuania,Action & Adventure,0,0,2.38,25
+Lithuania,Anime Features,0,0,2.38,25
+Lithuania,Anime Series,0,0,2.38,25
+Lithuania,British TV Shows,0,0,2.38,25
+Lithuania,Children & Family Movies,0,0,2.38,25
+Lithuania,Classic & Cult TV,0,0,2.38,25
+Lithuania,Classic Movies,0,0,2.38,25
+Lithuania,Comedies,0,0,2.38,25
+Lithuania,Crime TV Shows,0,0,2.38,25
+Lithuania,Cult Movies,0,0,2.38,25
+Lithuania,Documentaries,0,0,2.38,25
+Lithuania,Docuseries,0,0,2.38,25
+Lithuania,Dramas,0,0,2.38,25
+Lithuania,Faith & Spirituality,0,0,2.38,25
+Lithuania,Horror Movies,0,0,2.38,25
+Lithuania,Independent Movies,0,0,2.38,25
+Lithuania,International Movies,1,1,2.38,25
+Lithuania,International TV Shows,0,0,2.38,25
+Lithuania,Kids' TV,0,0,2.38,25
+Lithuania,Korean TV Shows,0,0,2.38,25
+Lithuania,LGBTQ Movies,0,0,2.38,25
+Lithuania,Movies,0,0,2.38,25
+Lithuania,Music & Musicals,0,0,2.38,25
+Lithuania,Reality TV,0,0,2.38,25
+Lithuania,Romantic Movies,0,0,2.38,25
+Lithuania,Romantic TV Shows,0,0,2.38,25
+Lithuania,Sci-Fi & Fantasy,0,0,2.38,25
+Lithuania,Science & Nature TV,0,0,2.38,25
+Lithuania,Spanish-Language TV Shows,0,0,2.38,25
+Lithuania,Sports Movies,0,0,2.38,25
+Lithuania,Stand-Up Comedy,0,0,2.38,25
+Lithuania,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Lithuania,Teen TV Shows,0,0,2.38,25
+Lithuania,Thrillers,0,0,2.38,25
+Lithuania,TV Action & Adventure,0,0,2.38,25
+Lithuania,TV Comedies,0,0,2.38,25
+Lithuania,TV Dramas,0,0,2.38,25
+Lithuania,TV Horror,0,0,2.38,25
+Lithuania,TV Mysteries,0,0,2.38,25
+Lithuania,TV Sci-Fi & Fantasy,0,0,2.38,25
+Lithuania,TV Shows,0,0,2.38,25
+Lithuania,TV Thrillers,0,0,2.38,25
+Malawi,Action & Adventure,0,0,2.38,25
+Malawi,Anime Features,0,0,2.38,25
+Malawi,Anime Series,0,0,2.38,25
+Malawi,British TV Shows,0,0,2.38,25
+Malawi,Children & Family Movies,0,0,2.38,25
+Malawi,Classic & Cult TV,0,0,2.38,25
+Malawi,Classic Movies,0,0,2.38,25
+Malawi,Comedies,0,0,2.38,25
+Malawi,Crime TV Shows,0,0,2.38,25
+Malawi,Cult Movies,0,0,2.38,25
+Malawi,Documentaries,0,0,2.38,25
+Malawi,Docuseries,0,0,2.38,25
+Malawi,Dramas,1,1,2.38,25
+Malawi,Faith & Spirituality,0,0,2.38,25
+Malawi,Horror Movies,0,0,2.38,25
+Malawi,Independent Movies,0,0,2.38,25
+Malawi,International Movies,0,0,2.38,25
+Malawi,International TV Shows,0,0,2.38,25
+Malawi,Kids' TV,0,0,2.38,25
+Malawi,Korean TV Shows,0,0,2.38,25
+Malawi,LGBTQ Movies,0,0,2.38,25
+Malawi,Movies,0,0,2.38,25
+Malawi,Music & Musicals,0,0,2.38,25
+Malawi,Reality TV,0,0,2.38,25
+Malawi,Romantic Movies,0,0,2.38,25
+Malawi,Romantic TV Shows,0,0,2.38,25
+Malawi,Sci-Fi & Fantasy,0,0,2.38,25
+Malawi,Science & Nature TV,0,0,2.38,25
+Malawi,Spanish-Language TV Shows,0,0,2.38,25
+Malawi,Sports Movies,0,0,2.38,25
+Malawi,Stand-Up Comedy,0,0,2.38,25
+Malawi,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Malawi,Teen TV Shows,0,0,2.38,25
+Malawi,Thrillers,0,0,2.38,25
+Malawi,TV Action & Adventure,0,0,2.38,25
+Malawi,TV Comedies,0,0,2.38,25
+Malawi,TV Dramas,0,0,2.38,25
+Malawi,TV Horror,0,0,2.38,25
+Malawi,TV Mysteries,0,0,2.38,25
+Malawi,TV Sci-Fi & Fantasy,0,0,2.38,25
+Malawi,TV Shows,0,0,2.38,25
+Malawi,TV Thrillers,0,0,2.38,25
+Malta,Action & Adventure,0,0,2.38,25
+Malta,Anime Features,0,0,2.38,25
+Malta,Anime Series,0,0,2.38,25
+Malta,British TV Shows,0,0,2.38,25
+Malta,Children & Family Movies,0,0,2.38,25
+Malta,Classic & Cult TV,0,0,2.38,25
+Malta,Classic Movies,0,0,2.38,25
+Malta,Comedies,0,0,2.38,25
+Malta,Crime TV Shows,0,0,2.38,25
+Malta,Cult Movies,0,0,2.38,25
+Malta,Documentaries,0,0,2.38,25
+Malta,Docuseries,0,0,2.38,25
+Malta,Dramas,0,0,2.38,25
+Malta,Faith & Spirituality,0,0,2.38,25
+Malta,Horror Movies,0,0,2.38,25
+Malta,Independent Movies,0,0,2.38,25
+Malta,International Movies,0,0,2.38,25
+Malta,International TV Shows,0,0,2.38,25
+Malta,Kids' TV,0,0,2.38,25
+Malta,Korean TV Shows,0,0,2.38,25
+Malta,LGBTQ Movies,0,0,2.38,25
+Malta,Movies,0,0,2.38,25
+Malta,Music & Musicals,0,0,2.38,25
+Malta,Reality TV,0,0,2.38,25
+Malta,Romantic Movies,1,1,2.38,25
+Malta,Romantic TV Shows,0,0,2.38,25
+Malta,Sci-Fi & Fantasy,0,0,2.38,25
+Malta,Science & Nature TV,0,0,2.38,25
+Malta,Spanish-Language TV Shows,0,0,2.38,25
+Malta,Sports Movies,0,0,2.38,25
+Malta,Stand-Up Comedy,0,0,2.38,25
+Malta,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Malta,Teen TV Shows,0,0,2.38,25
+Malta,Thrillers,0,0,2.38,25
+Malta,TV Action & Adventure,0,0,2.38,25
+Malta,TV Comedies,0,0,2.38,25
+Malta,TV Dramas,0,0,2.38,25
+Malta,TV Horror,0,0,2.38,25
+Malta,TV Mysteries,0,0,2.38,25
+Malta,TV Sci-Fi & Fantasy,0,0,2.38,25
+Malta,TV Shows,0,0,2.38,25
+Malta,TV Thrillers,0,0,2.38,25
+Mozambique,Action & Adventure,0,0,2.38,25
+Mozambique,Anime Features,0,0,2.38,25
+Mozambique,Anime Series,0,0,2.38,25
+Mozambique,British TV Shows,0,0,2.38,25
+Mozambique,Children & Family Movies,0,0,2.38,25
+Mozambique,Classic & Cult TV,0,0,2.38,25
+Mozambique,Classic Movies,0,0,2.38,25
+Mozambique,Comedies,0,0,2.38,25
+Mozambique,Crime TV Shows,0,0,2.38,25
+Mozambique,Cult Movies,0,0,2.38,25
+Mozambique,Documentaries,0,0,2.38,25
+Mozambique,Docuseries,0,0,2.38,25
+Mozambique,Dramas,1,1,2.38,25
+Mozambique,Faith & Spirituality,0,0,2.38,25
+Mozambique,Horror Movies,0,0,2.38,25
+Mozambique,Independent Movies,0,0,2.38,25
+Mozambique,International Movies,0,0,2.38,25
+Mozambique,International TV Shows,0,0,2.38,25
+Mozambique,Kids' TV,0,0,2.38,25
+Mozambique,Korean TV Shows,0,0,2.38,25
+Mozambique,LGBTQ Movies,0,0,2.38,25
+Mozambique,Movies,0,0,2.38,25
+Mozambique,Music & Musicals,0,0,2.38,25
+Mozambique,Reality TV,0,0,2.38,25
+Mozambique,Romantic Movies,0,0,2.38,25
+Mozambique,Romantic TV Shows,0,0,2.38,25
+Mozambique,Sci-Fi & Fantasy,0,0,2.38,25
+Mozambique,Science & Nature TV,0,0,2.38,25
+Mozambique,Spanish-Language TV Shows,0,0,2.38,25
+Mozambique,Sports Movies,0,0,2.38,25
+Mozambique,Stand-Up Comedy,0,0,2.38,25
+Mozambique,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Mozambique,Teen TV Shows,0,0,2.38,25
+Mozambique,Thrillers,0,0,2.38,25
+Mozambique,TV Action & Adventure,0,0,2.38,25
+Mozambique,TV Comedies,0,0,2.38,25
+Mozambique,TV Dramas,0,0,2.38,25
+Mozambique,TV Horror,0,0,2.38,25
+Mozambique,TV Mysteries,0,0,2.38,25
+Mozambique,TV Sci-Fi & Fantasy,0,0,2.38,25
+Mozambique,TV Shows,0,0,2.38,25
+Mozambique,TV Thrillers,0,0,2.38,25
+Palestine,Action & Adventure,0,0,2.38,25
+Palestine,Anime Features,0,0,2.38,25
+Palestine,Anime Series,0,0,2.38,25
+Palestine,British TV Shows,0,0,2.38,25
+Palestine,Children & Family Movies,0,0,2.38,25
+Palestine,Classic & Cult TV,0,0,2.38,25
+Palestine,Classic Movies,0,0,2.38,25
+Palestine,Comedies,0,0,2.38,25
+Palestine,Crime TV Shows,0,0,2.38,25
+Palestine,Cult Movies,0,0,2.38,25
+Palestine,Documentaries,0,0,2.38,25
+Palestine,Docuseries,0,0,2.38,25
+Palestine,Dramas,0,0,2.38,25
+Palestine,Faith & Spirituality,0,0,2.38,25
+Palestine,Horror Movies,0,0,2.38,25
+Palestine,Independent Movies,0,0,2.38,25
+Palestine,International Movies,1,1,2.38,25
+Palestine,International TV Shows,0,0,2.38,25
+Palestine,Kids' TV,0,0,2.38,25
+Palestine,Korean TV Shows,0,0,2.38,25
+Palestine,LGBTQ Movies,0,0,2.38,25
+Palestine,Movies,0,0,2.38,25
+Palestine,Music & Musicals,0,0,2.38,25
+Palestine,Reality TV,0,0,2.38,25
+Palestine,Romantic Movies,0,0,2.38,25
+Palestine,Romantic TV Shows,0,0,2.38,25
+Palestine,Sci-Fi & Fantasy,0,0,2.38,25
+Palestine,Science & Nature TV,0,0,2.38,25
+Palestine,Spanish-Language TV Shows,0,0,2.38,25
+Palestine,Sports Movies,0,0,2.38,25
+Palestine,Stand-Up Comedy,0,0,2.38,25
+Palestine,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Palestine,Teen TV Shows,0,0,2.38,25
+Palestine,Thrillers,0,0,2.38,25
+Palestine,TV Action & Adventure,0,0,2.38,25
+Palestine,TV Comedies,0,0,2.38,25
+Palestine,TV Dramas,0,0,2.38,25
+Palestine,TV Horror,0,0,2.38,25
+Palestine,TV Mysteries,0,0,2.38,25
+Palestine,TV Sci-Fi & Fantasy,0,0,2.38,25
+Palestine,TV Shows,0,0,2.38,25
+Palestine,TV Thrillers,0,0,2.38,25
+Paraguay,Action & Adventure,1,1,2.38,25
+Paraguay,Anime Features,0,0,2.38,25
+Paraguay,Anime Series,0,0,2.38,25
+Paraguay,British TV Shows,0,0,2.38,25
+Paraguay,Children & Family Movies,0,0,2.38,25
+Paraguay,Classic & Cult TV,0,0,2.38,25
+Paraguay,Classic Movies,0,0,2.38,25
+Paraguay,Comedies,0,0,2.38,25
+Paraguay,Crime TV Shows,0,0,2.38,25
+Paraguay,Cult Movies,0,0,2.38,25
+Paraguay,Documentaries,0,0,2.38,25
+Paraguay,Docuseries,0,0,2.38,25
+Paraguay,Dramas,0,0,2.38,25
+Paraguay,Faith & Spirituality,0,0,2.38,25
+Paraguay,Horror Movies,0,0,2.38,25
+Paraguay,Independent Movies,0,0,2.38,25
+Paraguay,International Movies,0,0,2.38,25
+Paraguay,International TV Shows,0,0,2.38,25
+Paraguay,Kids' TV,0,0,2.38,25
+Paraguay,Korean TV Shows,0,0,2.38,25
+Paraguay,LGBTQ Movies,0,0,2.38,25
+Paraguay,Movies,0,0,2.38,25
+Paraguay,Music & Musicals,0,0,2.38,25
+Paraguay,Reality TV,0,0,2.38,25
+Paraguay,Romantic Movies,0,0,2.38,25
+Paraguay,Romantic TV Shows,0,0,2.38,25
+Paraguay,Sci-Fi & Fantasy,0,0,2.38,25
+Paraguay,Science & Nature TV,0,0,2.38,25
+Paraguay,Spanish-Language TV Shows,0,0,2.38,25
+Paraguay,Sports Movies,0,0,2.38,25
+Paraguay,Stand-Up Comedy,0,0,2.38,25
+Paraguay,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Paraguay,Teen TV Shows,0,0,2.38,25
+Paraguay,Thrillers,0,0,2.38,25
+Paraguay,TV Action & Adventure,0,0,2.38,25
+Paraguay,TV Comedies,0,0,2.38,25
+Paraguay,TV Dramas,0,0,2.38,25
+Paraguay,TV Horror,0,0,2.38,25
+Paraguay,TV Mysteries,0,0,2.38,25
+Paraguay,TV Sci-Fi & Fantasy,0,0,2.38,25
+Paraguay,TV Shows,0,0,2.38,25
+Paraguay,TV Thrillers,0,0,2.38,25
+Puerto Rico,Action & Adventure,0,0,2.38,25
+Puerto Rico,Anime Features,0,0,2.38,25
+Puerto Rico,Anime Series,0,0,2.38,25
+Puerto Rico,British TV Shows,0,0,2.38,25
+Puerto Rico,Children & Family Movies,0,0,2.38,25
+Puerto Rico,Classic & Cult TV,0,0,2.38,25
+Puerto Rico,Classic Movies,0,0,2.38,25
+Puerto Rico,Comedies,0,0,2.38,25
+Puerto Rico,Crime TV Shows,1,1,2.38,25
+Puerto Rico,Cult Movies,0,0,2.38,25
+Puerto Rico,Documentaries,0,0,2.38,25
+Puerto Rico,Docuseries,0,0,2.38,25
+Puerto Rico,Dramas,0,0,2.38,25
+Puerto Rico,Faith & Spirituality,0,0,2.38,25
+Puerto Rico,Horror Movies,0,0,2.38,25
+Puerto Rico,Independent Movies,0,0,2.38,25
+Puerto Rico,International Movies,0,0,2.38,25
+Puerto Rico,International TV Shows,0,0,2.38,25
+Puerto Rico,Kids' TV,0,0,2.38,25
+Puerto Rico,Korean TV Shows,0,0,2.38,25
+Puerto Rico,LGBTQ Movies,0,0,2.38,25
+Puerto Rico,Movies,0,0,2.38,25
+Puerto Rico,Music & Musicals,0,0,2.38,25
+Puerto Rico,Reality TV,0,0,2.38,25
+Puerto Rico,Romantic Movies,0,0,2.38,25
+Puerto Rico,Romantic TV Shows,0,0,2.38,25
+Puerto Rico,Sci-Fi & Fantasy,0,0,2.38,25
+Puerto Rico,Science & Nature TV,0,0,2.38,25
+Puerto Rico,Spanish-Language TV Shows,0,0,2.38,25
+Puerto Rico,Sports Movies,0,0,2.38,25
+Puerto Rico,Stand-Up Comedy,0,0,2.38,25
+Puerto Rico,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Puerto Rico,Teen TV Shows,0,0,2.38,25
+Puerto Rico,Thrillers,0,0,2.38,25
+Puerto Rico,TV Action & Adventure,0,0,2.38,25
+Puerto Rico,TV Comedies,0,0,2.38,25
+Puerto Rico,TV Dramas,0,0,2.38,25
+Puerto Rico,TV Horror,0,0,2.38,25
+Puerto Rico,TV Mysteries,0,0,2.38,25
+Puerto Rico,TV Sci-Fi & Fantasy,0,0,2.38,25
+Puerto Rico,TV Shows,0,0,2.38,25
+Puerto Rico,TV Thrillers,0,0,2.38,25
+Slovakia,Action & Adventure,0,0,2.38,25
+Slovakia,Anime Features,0,0,2.38,25
+Slovakia,Anime Series,0,0,2.38,25
+Slovakia,British TV Shows,0,0,2.38,25
+Slovakia,Children & Family Movies,0,0,2.38,25
+Slovakia,Classic & Cult TV,0,0,2.38,25
+Slovakia,Classic Movies,0,0,2.38,25
+Slovakia,Comedies,0,0,2.38,25
+Slovakia,Crime TV Shows,0,0,2.38,25
+Slovakia,Cult Movies,0,0,2.38,25
+Slovakia,Documentaries,0,0,2.38,25
+Slovakia,Docuseries,0,0,2.38,25
+Slovakia,Dramas,0,0,2.38,25
+Slovakia,Faith & Spirituality,0,0,2.38,25
+Slovakia,Horror Movies,0,0,2.38,25
+Slovakia,Independent Movies,0,0,2.38,25
+Slovakia,International Movies,1,1,2.38,25
+Slovakia,International TV Shows,0,0,2.38,25
+Slovakia,Kids' TV,0,0,2.38,25
+Slovakia,Korean TV Shows,0,0,2.38,25
+Slovakia,LGBTQ Movies,0,0,2.38,25
+Slovakia,Movies,0,0,2.38,25
+Slovakia,Music & Musicals,0,0,2.38,25
+Slovakia,Reality TV,0,0,2.38,25
+Slovakia,Romantic Movies,0,0,2.38,25
+Slovakia,Romantic TV Shows,0,0,2.38,25
+Slovakia,Sci-Fi & Fantasy,0,0,2.38,25
+Slovakia,Science & Nature TV,0,0,2.38,25
+Slovakia,Spanish-Language TV Shows,0,0,2.38,25
+Slovakia,Sports Movies,0,0,2.38,25
+Slovakia,Stand-Up Comedy,0,0,2.38,25
+Slovakia,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Slovakia,Teen TV Shows,0,0,2.38,25
+Slovakia,Thrillers,0,0,2.38,25
+Slovakia,TV Action & Adventure,0,0,2.38,25
+Slovakia,TV Comedies,0,0,2.38,25
+Slovakia,TV Dramas,0,0,2.38,25
+Slovakia,TV Horror,0,0,2.38,25
+Slovakia,TV Mysteries,0,0,2.38,25
+Slovakia,TV Sci-Fi & Fantasy,0,0,2.38,25
+Slovakia,TV Shows,0,0,2.38,25
+Slovakia,TV Thrillers,0,0,2.38,25
+Somalia,Action & Adventure,0,0,2.38,25
+Somalia,Anime Features,0,0,2.38,25
+Somalia,Anime Series,0,0,2.38,25
+Somalia,British TV Shows,0,0,2.38,25
+Somalia,Children & Family Movies,0,0,2.38,25
+Somalia,Classic & Cult TV,0,0,2.38,25
+Somalia,Classic Movies,0,0,2.38,25
+Somalia,Comedies,0,0,2.38,25
+Somalia,Crime TV Shows,0,0,2.38,25
+Somalia,Cult Movies,0,0,2.38,25
+Somalia,Documentaries,0,0,2.38,25
+Somalia,Docuseries,0,0,2.38,25
+Somalia,Dramas,1,1,2.38,25
+Somalia,Faith & Spirituality,0,0,2.38,25
+Somalia,Horror Movies,0,0,2.38,25
+Somalia,Independent Movies,0,0,2.38,25
+Somalia,International Movies,0,0,2.38,25
+Somalia,International TV Shows,0,0,2.38,25
+Somalia,Kids' TV,0,0,2.38,25
+Somalia,Korean TV Shows,0,0,2.38,25
+Somalia,LGBTQ Movies,0,0,2.38,25
+Somalia,Movies,0,0,2.38,25
+Somalia,Music & Musicals,0,0,2.38,25
+Somalia,Reality TV,0,0,2.38,25
+Somalia,Romantic Movies,0,0,2.38,25
+Somalia,Romantic TV Shows,0,0,2.38,25
+Somalia,Sci-Fi & Fantasy,0,0,2.38,25
+Somalia,Science & Nature TV,0,0,2.38,25
+Somalia,Spanish-Language TV Shows,0,0,2.38,25
+Somalia,Sports Movies,0,0,2.38,25
+Somalia,Stand-Up Comedy,0,0,2.38,25
+Somalia,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Somalia,Teen TV Shows,0,0,2.38,25
+Somalia,Thrillers,0,0,2.38,25
+Somalia,TV Action & Adventure,0,0,2.38,25
+Somalia,TV Comedies,0,0,2.38,25
+Somalia,TV Dramas,0,0,2.38,25
+Somalia,TV Horror,0,0,2.38,25
+Somalia,TV Mysteries,0,0,2.38,25
+Somalia,TV Sci-Fi & Fantasy,0,0,2.38,25
+Somalia,TV Shows,0,0,2.38,25
+Somalia,TV Thrillers,0,0,2.38,25
+Sri Lanka,Action & Adventure,0,0,2.38,25
+Sri Lanka,Anime Features,0,0,2.38,25
+Sri Lanka,Anime Series,0,0,2.38,25
+Sri Lanka,British TV Shows,0,0,2.38,25
+Sri Lanka,Children & Family Movies,0,0,2.38,25
+Sri Lanka,Classic & Cult TV,0,0,2.38,25
+Sri Lanka,Classic Movies,0,0,2.38,25
+Sri Lanka,Comedies,0,0,2.38,25
+Sri Lanka,Crime TV Shows,0,0,2.38,25
+Sri Lanka,Cult Movies,0,0,2.38,25
+Sri Lanka,Documentaries,0,0,2.38,25
+Sri Lanka,Docuseries,0,0,2.38,25
+Sri Lanka,Dramas,0,0,2.38,25
+Sri Lanka,Faith & Spirituality,0,0,2.38,25
+Sri Lanka,Horror Movies,0,0,2.38,25
+Sri Lanka,Independent Movies,0,0,2.38,25
+Sri Lanka,International Movies,1,1,2.38,25
+Sri Lanka,International TV Shows,0,0,2.38,25
+Sri Lanka,Kids' TV,0,0,2.38,25
+Sri Lanka,Korean TV Shows,0,0,2.38,25
+Sri Lanka,LGBTQ Movies,0,0,2.38,25
+Sri Lanka,Movies,0,0,2.38,25
+Sri Lanka,Music & Musicals,0,0,2.38,25
+Sri Lanka,Reality TV,0,0,2.38,25
+Sri Lanka,Romantic Movies,0,0,2.38,25
+Sri Lanka,Romantic TV Shows,0,0,2.38,25
+Sri Lanka,Sci-Fi & Fantasy,0,0,2.38,25
+Sri Lanka,Science & Nature TV,0,0,2.38,25
+Sri Lanka,Spanish-Language TV Shows,0,0,2.38,25
+Sri Lanka,Sports Movies,0,0,2.38,25
+Sri Lanka,Stand-Up Comedy,0,0,2.38,25
+Sri Lanka,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Sri Lanka,Teen TV Shows,0,0,2.38,25
+Sri Lanka,Thrillers,0,0,2.38,25
+Sri Lanka,TV Action & Adventure,0,0,2.38,25
+Sri Lanka,TV Comedies,0,0,2.38,25
+Sri Lanka,TV Dramas,0,0,2.38,25
+Sri Lanka,TV Horror,0,0,2.38,25
+Sri Lanka,TV Mysteries,0,0,2.38,25
+Sri Lanka,TV Sci-Fi & Fantasy,0,0,2.38,25
+Sri Lanka,TV Shows,0,0,2.38,25
+Sri Lanka,TV Thrillers,0,0,2.38,25
+Vatican City,Action & Adventure,0,0,2.38,25
+Vatican City,Anime Features,0,0,2.38,25
+Vatican City,Anime Series,0,0,2.38,25
+Vatican City,British TV Shows,0,0,2.38,25
+Vatican City,Children & Family Movies,0,0,2.38,25
+Vatican City,Classic & Cult TV,0,0,2.38,25
+Vatican City,Classic Movies,0,0,2.38,25
+Vatican City,Comedies,0,0,2.38,25
+Vatican City,Crime TV Shows,0,0,2.38,25
+Vatican City,Cult Movies,0,0,2.38,25
+Vatican City,Documentaries,0,0,2.38,25
+Vatican City,Docuseries,0,0,2.38,25
+Vatican City,Dramas,0,0,2.38,25
+Vatican City,Faith & Spirituality,1,1,2.38,25
+Vatican City,Horror Movies,0,0,2.38,25
+Vatican City,Independent Movies,0,0,2.38,25
+Vatican City,International Movies,0,0,2.38,25
+Vatican City,International TV Shows,0,0,2.38,25
+Vatican City,Kids' TV,0,0,2.38,25
+Vatican City,Korean TV Shows,0,0,2.38,25
+Vatican City,LGBTQ Movies,0,0,2.38,25
+Vatican City,Movies,0,0,2.38,25
+Vatican City,Music & Musicals,0,0,2.38,25
+Vatican City,Reality TV,0,0,2.38,25
+Vatican City,Romantic Movies,0,0,2.38,25
+Vatican City,Romantic TV Shows,0,0,2.38,25
+Vatican City,Sci-Fi & Fantasy,0,0,2.38,25
+Vatican City,Science & Nature TV,0,0,2.38,25
+Vatican City,Spanish-Language TV Shows,0,0,2.38,25
+Vatican City,Sports Movies,0,0,2.38,25
+Vatican City,Stand-Up Comedy,0,0,2.38,25
+Vatican City,Stand-Up Comedy & Talk Shows,0,0,2.38,25
+Vatican City,Teen TV Shows,0,0,2.38,25
+Vatican City,Thrillers,0,0,2.38,25
+Vatican City,TV Action & Adventure,0,0,2.38,25
+Vatican City,TV Comedies,0,0,2.38,25
+Vatican City,TV Dramas,0,0,2.38,25
+Vatican City,TV Horror,0,0,2.38,25
+Vatican City,TV Mysteries,0,0,2.38,25
+Vatican City,TV Sci-Fi & Fantasy,0,0,2.38,25
+Vatican City,TV Shows,0,0,2.38,25
+Vatican City,TV Thrillers,0,0,2.38,25
+Afghanistan,Action & Adventure,0,0,0.00,26
+Afghanistan,Anime Features,0,0,0.00,26
+Afghanistan,Anime Series,0,0,0.00,26
+Afghanistan,British TV Shows,0,0,0.00,26
+Afghanistan,Children & Family Movies,0,0,0.00,26
+Afghanistan,Classic & Cult TV,0,0,0.00,26
+Afghanistan,Classic Movies,0,0,0.00,26
+Afghanistan,Comedies,0,0,0.00,26
+Afghanistan,Crime TV Shows,0,0,0.00,26
+Afghanistan,Cult Movies,0,0,0.00,26
+Afghanistan,Documentaries,0,0,0.00,26
+Afghanistan,Docuseries,0,0,0.00,26
+Afghanistan,Dramas,0,0,0.00,26
+Afghanistan,Faith & Spirituality,0,0,0.00,26
+Afghanistan,Horror Movies,0,0,0.00,26
+Afghanistan,Independent Movies,0,0,0.00,26
+Afghanistan,International Movies,0,0,0.00,26
+Afghanistan,International TV Shows,0,0,0.00,26
+Afghanistan,Kids' TV,0,0,0.00,26
+Afghanistan,Korean TV Shows,0,0,0.00,26
+Afghanistan,LGBTQ Movies,0,0,0.00,26
+Afghanistan,Movies,0,0,0.00,26
+Afghanistan,Music & Musicals,0,0,0.00,26
+Afghanistan,Reality TV,0,0,0.00,26
+Afghanistan,Romantic Movies,0,0,0.00,26
+Afghanistan,Romantic TV Shows,0,0,0.00,26
+Afghanistan,Sci-Fi & Fantasy,0,0,0.00,26
+Afghanistan,Science & Nature TV,0,0,0.00,26
+Afghanistan,Spanish-Language TV Shows,0,0,0.00,26
+Afghanistan,Sports Movies,0,0,0.00,26
+Afghanistan,Stand-Up Comedy,0,0,0.00,26
+Afghanistan,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Afghanistan,Teen TV Shows,0,0,0.00,26
+Afghanistan,Thrillers,0,0,0.00,26
+Afghanistan,TV Action & Adventure,0,0,0.00,26
+Afghanistan,TV Comedies,0,0,0.00,26
+Afghanistan,TV Dramas,0,0,0.00,26
+Afghanistan,TV Horror,0,0,0.00,26
+Afghanistan,TV Mysteries,0,0,0.00,26
+Afghanistan,TV Sci-Fi & Fantasy,0,0,0.00,26
+Afghanistan,TV Shows,0,0,0.00,26
+Afghanistan,TV Thrillers,0,0,0.00,26
+Albania,Action & Adventure,0,0,0.00,26
+Albania,Anime Features,0,0,0.00,26
+Albania,Anime Series,0,0,0.00,26
+Albania,British TV Shows,0,0,0.00,26
+Albania,Children & Family Movies,0,0,0.00,26
+Albania,Classic & Cult TV,0,0,0.00,26
+Albania,Classic Movies,0,0,0.00,26
+Albania,Comedies,0,0,0.00,26
+Albania,Crime TV Shows,0,0,0.00,26
+Albania,Cult Movies,0,0,0.00,26
+Albania,Documentaries,0,0,0.00,26
+Albania,Docuseries,0,0,0.00,26
+Albania,Dramas,0,0,0.00,26
+Albania,Faith & Spirituality,0,0,0.00,26
+Albania,Horror Movies,0,0,0.00,26
+Albania,Independent Movies,0,0,0.00,26
+Albania,International Movies,0,0,0.00,26
+Albania,International TV Shows,0,0,0.00,26
+Albania,Kids' TV,0,0,0.00,26
+Albania,Korean TV Shows,0,0,0.00,26
+Albania,LGBTQ Movies,0,0,0.00,26
+Albania,Movies,0,0,0.00,26
+Albania,Music & Musicals,0,0,0.00,26
+Albania,Reality TV,0,0,0.00,26
+Albania,Romantic Movies,0,0,0.00,26
+Albania,Romantic TV Shows,0,0,0.00,26
+Albania,Sci-Fi & Fantasy,0,0,0.00,26
+Albania,Science & Nature TV,0,0,0.00,26
+Albania,Spanish-Language TV Shows,0,0,0.00,26
+Albania,Sports Movies,0,0,0.00,26
+Albania,Stand-Up Comedy,0,0,0.00,26
+Albania,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Albania,Teen TV Shows,0,0,0.00,26
+Albania,Thrillers,0,0,0.00,26
+Albania,TV Action & Adventure,0,0,0.00,26
+Albania,TV Comedies,0,0,0.00,26
+Albania,TV Dramas,0,0,0.00,26
+Albania,TV Horror,0,0,0.00,26
+Albania,TV Mysteries,0,0,0.00,26
+Albania,TV Sci-Fi & Fantasy,0,0,0.00,26
+Albania,TV Shows,0,0,0.00,26
+Albania,TV Thrillers,0,0,0.00,26
+Bahamas,Action & Adventure,0,0,0.00,26
+Bahamas,Anime Features,0,0,0.00,26
+Bahamas,Anime Series,0,0,0.00,26
+Bahamas,British TV Shows,0,0,0.00,26
+Bahamas,Children & Family Movies,0,0,0.00,26
+Bahamas,Classic & Cult TV,0,0,0.00,26
+Bahamas,Classic Movies,0,0,0.00,26
+Bahamas,Comedies,0,0,0.00,26
+Bahamas,Crime TV Shows,0,0,0.00,26
+Bahamas,Cult Movies,0,0,0.00,26
+Bahamas,Documentaries,0,0,0.00,26
+Bahamas,Docuseries,0,0,0.00,26
+Bahamas,Dramas,0,0,0.00,26
+Bahamas,Faith & Spirituality,0,0,0.00,26
+Bahamas,Horror Movies,0,0,0.00,26
+Bahamas,Independent Movies,0,0,0.00,26
+Bahamas,International Movies,0,0,0.00,26
+Bahamas,International TV Shows,0,0,0.00,26
+Bahamas,Kids' TV,0,0,0.00,26
+Bahamas,Korean TV Shows,0,0,0.00,26
+Bahamas,LGBTQ Movies,0,0,0.00,26
+Bahamas,Movies,0,0,0.00,26
+Bahamas,Music & Musicals,0,0,0.00,26
+Bahamas,Reality TV,0,0,0.00,26
+Bahamas,Romantic Movies,0,0,0.00,26
+Bahamas,Romantic TV Shows,0,0,0.00,26
+Bahamas,Sci-Fi & Fantasy,0,0,0.00,26
+Bahamas,Science & Nature TV,0,0,0.00,26
+Bahamas,Spanish-Language TV Shows,0,0,0.00,26
+Bahamas,Sports Movies,0,0,0.00,26
+Bahamas,Stand-Up Comedy,0,0,0.00,26
+Bahamas,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Bahamas,Teen TV Shows,0,0,0.00,26
+Bahamas,Thrillers,0,0,0.00,26
+Bahamas,TV Action & Adventure,0,0,0.00,26
+Bahamas,TV Comedies,0,0,0.00,26
+Bahamas,TV Dramas,0,0,0.00,26
+Bahamas,TV Horror,0,0,0.00,26
+Bahamas,TV Mysteries,0,0,0.00,26
+Bahamas,TV Sci-Fi & Fantasy,0,0,0.00,26
+Bahamas,TV Shows,0,0,0.00,26
+Bahamas,TV Thrillers,0,0,0.00,26
+Bermuda,Action & Adventure,0,0,0.00,26
+Bermuda,Anime Features,0,0,0.00,26
+Bermuda,Anime Series,0,0,0.00,26
+Bermuda,British TV Shows,0,0,0.00,26
+Bermuda,Children & Family Movies,0,0,0.00,26
+Bermuda,Classic & Cult TV,0,0,0.00,26
+Bermuda,Classic Movies,0,0,0.00,26
+Bermuda,Comedies,0,0,0.00,26
+Bermuda,Crime TV Shows,0,0,0.00,26
+Bermuda,Cult Movies,0,0,0.00,26
+Bermuda,Documentaries,0,0,0.00,26
+Bermuda,Docuseries,0,0,0.00,26
+Bermuda,Dramas,0,0,0.00,26
+Bermuda,Faith & Spirituality,0,0,0.00,26
+Bermuda,Horror Movies,0,0,0.00,26
+Bermuda,Independent Movies,0,0,0.00,26
+Bermuda,International Movies,0,0,0.00,26
+Bermuda,International TV Shows,0,0,0.00,26
+Bermuda,Kids' TV,0,0,0.00,26
+Bermuda,Korean TV Shows,0,0,0.00,26
+Bermuda,LGBTQ Movies,0,0,0.00,26
+Bermuda,Movies,0,0,0.00,26
+Bermuda,Music & Musicals,0,0,0.00,26
+Bermuda,Reality TV,0,0,0.00,26
+Bermuda,Romantic Movies,0,0,0.00,26
+Bermuda,Romantic TV Shows,0,0,0.00,26
+Bermuda,Sci-Fi & Fantasy,0,0,0.00,26
+Bermuda,Science & Nature TV,0,0,0.00,26
+Bermuda,Spanish-Language TV Shows,0,0,0.00,26
+Bermuda,Sports Movies,0,0,0.00,26
+Bermuda,Stand-Up Comedy,0,0,0.00,26
+Bermuda,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Bermuda,Teen TV Shows,0,0,0.00,26
+Bermuda,Thrillers,0,0,0.00,26
+Bermuda,TV Action & Adventure,0,0,0.00,26
+Bermuda,TV Comedies,0,0,0.00,26
+Bermuda,TV Dramas,0,0,0.00,26
+Bermuda,TV Horror,0,0,0.00,26
+Bermuda,TV Mysteries,0,0,0.00,26
+Bermuda,TV Sci-Fi & Fantasy,0,0,0.00,26
+Bermuda,TV Shows,0,0,0.00,26
+Bermuda,TV Thrillers,0,0,0.00,26
+Botswana,Action & Adventure,0,0,0.00,26
+Botswana,Anime Features,0,0,0.00,26
+Botswana,Anime Series,0,0,0.00,26
+Botswana,British TV Shows,0,0,0.00,26
+Botswana,Children & Family Movies,0,0,0.00,26
+Botswana,Classic & Cult TV,0,0,0.00,26
+Botswana,Classic Movies,0,0,0.00,26
+Botswana,Comedies,0,0,0.00,26
+Botswana,Crime TV Shows,0,0,0.00,26
+Botswana,Cult Movies,0,0,0.00,26
+Botswana,Documentaries,0,0,0.00,26
+Botswana,Docuseries,0,0,0.00,26
+Botswana,Dramas,0,0,0.00,26
+Botswana,Faith & Spirituality,0,0,0.00,26
+Botswana,Horror Movies,0,0,0.00,26
+Botswana,Independent Movies,0,0,0.00,26
+Botswana,International Movies,0,0,0.00,26
+Botswana,International TV Shows,0,0,0.00,26
+Botswana,Kids' TV,0,0,0.00,26
+Botswana,Korean TV Shows,0,0,0.00,26
+Botswana,LGBTQ Movies,0,0,0.00,26
+Botswana,Movies,0,0,0.00,26
+Botswana,Music & Musicals,0,0,0.00,26
+Botswana,Reality TV,0,0,0.00,26
+Botswana,Romantic Movies,0,0,0.00,26
+Botswana,Romantic TV Shows,0,0,0.00,26
+Botswana,Sci-Fi & Fantasy,0,0,0.00,26
+Botswana,Science & Nature TV,0,0,0.00,26
+Botswana,Spanish-Language TV Shows,0,0,0.00,26
+Botswana,Sports Movies,0,0,0.00,26
+Botswana,Stand-Up Comedy,0,0,0.00,26
+Botswana,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Botswana,Teen TV Shows,0,0,0.00,26
+Botswana,Thrillers,0,0,0.00,26
+Botswana,TV Action & Adventure,0,0,0.00,26
+Botswana,TV Comedies,0,0,0.00,26
+Botswana,TV Dramas,0,0,0.00,26
+Botswana,TV Horror,0,0,0.00,26
+Botswana,TV Mysteries,0,0,0.00,26
+Botswana,TV Sci-Fi & Fantasy,0,0,0.00,26
+Botswana,TV Shows,0,0,0.00,26
+Botswana,TV Thrillers,0,0,0.00,26
+Cayman Islands,Action & Adventure,0,0,0.00,26
+Cayman Islands,Anime Features,0,0,0.00,26
+Cayman Islands,Anime Series,0,0,0.00,26
+Cayman Islands,British TV Shows,0,0,0.00,26
+Cayman Islands,Children & Family Movies,0,0,0.00,26
+Cayman Islands,Classic & Cult TV,0,0,0.00,26
+Cayman Islands,Classic Movies,0,0,0.00,26
+Cayman Islands,Comedies,0,0,0.00,26
+Cayman Islands,Crime TV Shows,0,0,0.00,26
+Cayman Islands,Cult Movies,0,0,0.00,26
+Cayman Islands,Documentaries,0,0,0.00,26
+Cayman Islands,Docuseries,0,0,0.00,26
+Cayman Islands,Dramas,0,0,0.00,26
+Cayman Islands,Faith & Spirituality,0,0,0.00,26
+Cayman Islands,Horror Movies,0,0,0.00,26
+Cayman Islands,Independent Movies,0,0,0.00,26
+Cayman Islands,International Movies,0,0,0.00,26
+Cayman Islands,International TV Shows,0,0,0.00,26
+Cayman Islands,Kids' TV,0,0,0.00,26
+Cayman Islands,Korean TV Shows,0,0,0.00,26
+Cayman Islands,LGBTQ Movies,0,0,0.00,26
+Cayman Islands,Movies,0,0,0.00,26
+Cayman Islands,Music & Musicals,0,0,0.00,26
+Cayman Islands,Reality TV,0,0,0.00,26
+Cayman Islands,Romantic Movies,0,0,0.00,26
+Cayman Islands,Romantic TV Shows,0,0,0.00,26
+Cayman Islands,Sci-Fi & Fantasy,0,0,0.00,26
+Cayman Islands,Science & Nature TV,0,0,0.00,26
+Cayman Islands,Spanish-Language TV Shows,0,0,0.00,26
+Cayman Islands,Sports Movies,0,0,0.00,26
+Cayman Islands,Stand-Up Comedy,0,0,0.00,26
+Cayman Islands,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Cayman Islands,Teen TV Shows,0,0,0.00,26
+Cayman Islands,Thrillers,0,0,0.00,26
+Cayman Islands,TV Action & Adventure,0,0,0.00,26
+Cayman Islands,TV Comedies,0,0,0.00,26
+Cayman Islands,TV Dramas,0,0,0.00,26
+Cayman Islands,TV Horror,0,0,0.00,26
+Cayman Islands,TV Mysteries,0,0,0.00,26
+Cayman Islands,TV Sci-Fi & Fantasy,0,0,0.00,26
+Cayman Islands,TV Shows,0,0,0.00,26
+Cayman Islands,TV Thrillers,0,0,0.00,26
+Ecuador,Action & Adventure,0,0,0.00,26
+Ecuador,Anime Features,0,0,0.00,26
+Ecuador,Anime Series,0,0,0.00,26
+Ecuador,British TV Shows,0,0,0.00,26
+Ecuador,Children & Family Movies,0,0,0.00,26
+Ecuador,Classic & Cult TV,0,0,0.00,26
+Ecuador,Classic Movies,0,0,0.00,26
+Ecuador,Comedies,0,0,0.00,26
+Ecuador,Crime TV Shows,0,0,0.00,26
+Ecuador,Cult Movies,0,0,0.00,26
+Ecuador,Documentaries,0,0,0.00,26
+Ecuador,Docuseries,0,0,0.00,26
+Ecuador,Dramas,0,0,0.00,26
+Ecuador,Faith & Spirituality,0,0,0.00,26
+Ecuador,Horror Movies,0,0,0.00,26
+Ecuador,Independent Movies,0,0,0.00,26
+Ecuador,International Movies,0,0,0.00,26
+Ecuador,International TV Shows,0,0,0.00,26
+Ecuador,Kids' TV,0,0,0.00,26
+Ecuador,Korean TV Shows,0,0,0.00,26
+Ecuador,LGBTQ Movies,0,0,0.00,26
+Ecuador,Movies,0,0,0.00,26
+Ecuador,Music & Musicals,0,0,0.00,26
+Ecuador,Reality TV,0,0,0.00,26
+Ecuador,Romantic Movies,0,0,0.00,26
+Ecuador,Romantic TV Shows,0,0,0.00,26
+Ecuador,Sci-Fi & Fantasy,0,0,0.00,26
+Ecuador,Science & Nature TV,0,0,0.00,26
+Ecuador,Spanish-Language TV Shows,0,0,0.00,26
+Ecuador,Sports Movies,0,0,0.00,26
+Ecuador,Stand-Up Comedy,0,0,0.00,26
+Ecuador,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Ecuador,Teen TV Shows,0,0,0.00,26
+Ecuador,Thrillers,0,0,0.00,26
+Ecuador,TV Action & Adventure,0,0,0.00,26
+Ecuador,TV Comedies,0,0,0.00,26
+Ecuador,TV Dramas,0,0,0.00,26
+Ecuador,TV Horror,0,0,0.00,26
+Ecuador,TV Mysteries,0,0,0.00,26
+Ecuador,TV Sci-Fi & Fantasy,0,0,0.00,26
+Ecuador,TV Shows,0,0,0.00,26
+Ecuador,TV Thrillers,0,0,0.00,26
+Ethiopia,Action & Adventure,0,0,0.00,26
+Ethiopia,Anime Features,0,0,0.00,26
+Ethiopia,Anime Series,0,0,0.00,26
+Ethiopia,British TV Shows,0,0,0.00,26
+Ethiopia,Children & Family Movies,0,0,0.00,26
+Ethiopia,Classic & Cult TV,0,0,0.00,26
+Ethiopia,Classic Movies,0,0,0.00,26
+Ethiopia,Comedies,0,0,0.00,26
+Ethiopia,Crime TV Shows,0,0,0.00,26
+Ethiopia,Cult Movies,0,0,0.00,26
+Ethiopia,Documentaries,0,0,0.00,26
+Ethiopia,Docuseries,0,0,0.00,26
+Ethiopia,Dramas,0,0,0.00,26
+Ethiopia,Faith & Spirituality,0,0,0.00,26
+Ethiopia,Horror Movies,0,0,0.00,26
+Ethiopia,Independent Movies,0,0,0.00,26
+Ethiopia,International Movies,0,0,0.00,26
+Ethiopia,International TV Shows,0,0,0.00,26
+Ethiopia,Kids' TV,0,0,0.00,26
+Ethiopia,Korean TV Shows,0,0,0.00,26
+Ethiopia,LGBTQ Movies,0,0,0.00,26
+Ethiopia,Movies,0,0,0.00,26
+Ethiopia,Music & Musicals,0,0,0.00,26
+Ethiopia,Reality TV,0,0,0.00,26
+Ethiopia,Romantic Movies,0,0,0.00,26
+Ethiopia,Romantic TV Shows,0,0,0.00,26
+Ethiopia,Sci-Fi & Fantasy,0,0,0.00,26
+Ethiopia,Science & Nature TV,0,0,0.00,26
+Ethiopia,Spanish-Language TV Shows,0,0,0.00,26
+Ethiopia,Sports Movies,0,0,0.00,26
+Ethiopia,Stand-Up Comedy,0,0,0.00,26
+Ethiopia,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Ethiopia,Teen TV Shows,0,0,0.00,26
+Ethiopia,Thrillers,0,0,0.00,26
+Ethiopia,TV Action & Adventure,0,0,0.00,26
+Ethiopia,TV Comedies,0,0,0.00,26
+Ethiopia,TV Dramas,0,0,0.00,26
+Ethiopia,TV Horror,0,0,0.00,26
+Ethiopia,TV Mysteries,0,0,0.00,26
+Ethiopia,TV Sci-Fi & Fantasy,0,0,0.00,26
+Ethiopia,TV Shows,0,0,0.00,26
+Ethiopia,TV Thrillers,0,0,0.00,26
+Kazakhstan,Action & Adventure,0,0,0.00,26
+Kazakhstan,Anime Features,0,0,0.00,26
+Kazakhstan,Anime Series,0,0,0.00,26
+Kazakhstan,British TV Shows,0,0,0.00,26
+Kazakhstan,Children & Family Movies,0,0,0.00,26
+Kazakhstan,Classic & Cult TV,0,0,0.00,26
+Kazakhstan,Classic Movies,0,0,0.00,26
+Kazakhstan,Comedies,0,0,0.00,26
+Kazakhstan,Crime TV Shows,0,0,0.00,26
+Kazakhstan,Cult Movies,0,0,0.00,26
+Kazakhstan,Documentaries,0,0,0.00,26
+Kazakhstan,Docuseries,0,0,0.00,26
+Kazakhstan,Dramas,0,0,0.00,26
+Kazakhstan,Faith & Spirituality,0,0,0.00,26
+Kazakhstan,Horror Movies,0,0,0.00,26
+Kazakhstan,Independent Movies,0,0,0.00,26
+Kazakhstan,International Movies,0,0,0.00,26
+Kazakhstan,International TV Shows,0,0,0.00,26
+Kazakhstan,Kids' TV,0,0,0.00,26
+Kazakhstan,Korean TV Shows,0,0,0.00,26
+Kazakhstan,LGBTQ Movies,0,0,0.00,26
+Kazakhstan,Movies,0,0,0.00,26
+Kazakhstan,Music & Musicals,0,0,0.00,26
+Kazakhstan,Reality TV,0,0,0.00,26
+Kazakhstan,Romantic Movies,0,0,0.00,26
+Kazakhstan,Romantic TV Shows,0,0,0.00,26
+Kazakhstan,Sci-Fi & Fantasy,0,0,0.00,26
+Kazakhstan,Science & Nature TV,0,0,0.00,26
+Kazakhstan,Spanish-Language TV Shows,0,0,0.00,26
+Kazakhstan,Sports Movies,0,0,0.00,26
+Kazakhstan,Stand-Up Comedy,0,0,0.00,26
+Kazakhstan,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Kazakhstan,Teen TV Shows,0,0,0.00,26
+Kazakhstan,Thrillers,0,0,0.00,26
+Kazakhstan,TV Action & Adventure,0,0,0.00,26
+Kazakhstan,TV Comedies,0,0,0.00,26
+Kazakhstan,TV Dramas,0,0,0.00,26
+Kazakhstan,TV Horror,0,0,0.00,26
+Kazakhstan,TV Mysteries,0,0,0.00,26
+Kazakhstan,TV Sci-Fi & Fantasy,0,0,0.00,26
+Kazakhstan,TV Shows,0,0,0.00,26
+Kazakhstan,TV Thrillers,0,0,0.00,26
+Latvia,Action & Adventure,0,0,0.00,26
+Latvia,Anime Features,0,0,0.00,26
+Latvia,Anime Series,0,0,0.00,26
+Latvia,British TV Shows,0,0,0.00,26
+Latvia,Children & Family Movies,0,0,0.00,26
+Latvia,Classic & Cult TV,0,0,0.00,26
+Latvia,Classic Movies,0,0,0.00,26
+Latvia,Comedies,0,0,0.00,26
+Latvia,Crime TV Shows,0,0,0.00,26
+Latvia,Cult Movies,0,0,0.00,26
+Latvia,Documentaries,0,0,0.00,26
+Latvia,Docuseries,0,0,0.00,26
+Latvia,Dramas,0,0,0.00,26
+Latvia,Faith & Spirituality,0,0,0.00,26
+Latvia,Horror Movies,0,0,0.00,26
+Latvia,Independent Movies,0,0,0.00,26
+Latvia,International Movies,0,0,0.00,26
+Latvia,International TV Shows,0,0,0.00,26
+Latvia,Kids' TV,0,0,0.00,26
+Latvia,Korean TV Shows,0,0,0.00,26
+Latvia,LGBTQ Movies,0,0,0.00,26
+Latvia,Movies,0,0,0.00,26
+Latvia,Music & Musicals,0,0,0.00,26
+Latvia,Reality TV,0,0,0.00,26
+Latvia,Romantic Movies,0,0,0.00,26
+Latvia,Romantic TV Shows,0,0,0.00,26
+Latvia,Sci-Fi & Fantasy,0,0,0.00,26
+Latvia,Science & Nature TV,0,0,0.00,26
+Latvia,Spanish-Language TV Shows,0,0,0.00,26
+Latvia,Sports Movies,0,0,0.00,26
+Latvia,Stand-Up Comedy,0,0,0.00,26
+Latvia,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Latvia,Teen TV Shows,0,0,0.00,26
+Latvia,Thrillers,0,0,0.00,26
+Latvia,TV Action & Adventure,0,0,0.00,26
+Latvia,TV Comedies,0,0,0.00,26
+Latvia,TV Dramas,0,0,0.00,26
+Latvia,TV Horror,0,0,0.00,26
+Latvia,TV Mysteries,0,0,0.00,26
+Latvia,TV Sci-Fi & Fantasy,0,0,0.00,26
+Latvia,TV Shows,0,0,0.00,26
+Latvia,TV Thrillers,0,0,0.00,26
+Liechtenstein,Action & Adventure,0,0,0.00,26
+Liechtenstein,Anime Features,0,0,0.00,26
+Liechtenstein,Anime Series,0,0,0.00,26
+Liechtenstein,British TV Shows,0,0,0.00,26
+Liechtenstein,Children & Family Movies,0,0,0.00,26
+Liechtenstein,Classic & Cult TV,0,0,0.00,26
+Liechtenstein,Classic Movies,0,0,0.00,26
+Liechtenstein,Comedies,0,0,0.00,26
+Liechtenstein,Crime TV Shows,0,0,0.00,26
+Liechtenstein,Cult Movies,0,0,0.00,26
+Liechtenstein,Documentaries,0,0,0.00,26
+Liechtenstein,Docuseries,0,0,0.00,26
+Liechtenstein,Dramas,0,0,0.00,26
+Liechtenstein,Faith & Spirituality,0,0,0.00,26
+Liechtenstein,Horror Movies,0,0,0.00,26
+Liechtenstein,Independent Movies,0,0,0.00,26
+Liechtenstein,International Movies,0,0,0.00,26
+Liechtenstein,International TV Shows,0,0,0.00,26
+Liechtenstein,Kids' TV,0,0,0.00,26
+Liechtenstein,Korean TV Shows,0,0,0.00,26
+Liechtenstein,LGBTQ Movies,0,0,0.00,26
+Liechtenstein,Movies,0,0,0.00,26
+Liechtenstein,Music & Musicals,0,0,0.00,26
+Liechtenstein,Reality TV,0,0,0.00,26
+Liechtenstein,Romantic Movies,0,0,0.00,26
+Liechtenstein,Romantic TV Shows,0,0,0.00,26
+Liechtenstein,Sci-Fi & Fantasy,0,0,0.00,26
+Liechtenstein,Science & Nature TV,0,0,0.00,26
+Liechtenstein,Spanish-Language TV Shows,0,0,0.00,26
+Liechtenstein,Sports Movies,0,0,0.00,26
+Liechtenstein,Stand-Up Comedy,0,0,0.00,26
+Liechtenstein,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Liechtenstein,Teen TV Shows,0,0,0.00,26
+Liechtenstein,Thrillers,0,0,0.00,26
+Liechtenstein,TV Action & Adventure,0,0,0.00,26
+Liechtenstein,TV Comedies,0,0,0.00,26
+Liechtenstein,TV Dramas,0,0,0.00,26
+Liechtenstein,TV Horror,0,0,0.00,26
+Liechtenstein,TV Mysteries,0,0,0.00,26
+Liechtenstein,TV Sci-Fi & Fantasy,0,0,0.00,26
+Liechtenstein,TV Shows,0,0,0.00,26
+Liechtenstein,TV Thrillers,0,0,0.00,26
+Mongolia,Action & Adventure,0,0,0.00,26
+Mongolia,Anime Features,0,0,0.00,26
+Mongolia,Anime Series,0,0,0.00,26
+Mongolia,British TV Shows,0,0,0.00,26
+Mongolia,Children & Family Movies,0,0,0.00,26
+Mongolia,Classic & Cult TV,0,0,0.00,26
+Mongolia,Classic Movies,0,0,0.00,26
+Mongolia,Comedies,0,0,0.00,26
+Mongolia,Crime TV Shows,0,0,0.00,26
+Mongolia,Cult Movies,0,0,0.00,26
+Mongolia,Documentaries,0,0,0.00,26
+Mongolia,Docuseries,0,0,0.00,26
+Mongolia,Dramas,0,0,0.00,26
+Mongolia,Faith & Spirituality,0,0,0.00,26
+Mongolia,Horror Movies,0,0,0.00,26
+Mongolia,Independent Movies,0,0,0.00,26
+Mongolia,International Movies,0,0,0.00,26
+Mongolia,International TV Shows,0,0,0.00,26
+Mongolia,Kids' TV,0,0,0.00,26
+Mongolia,Korean TV Shows,0,0,0.00,26
+Mongolia,LGBTQ Movies,0,0,0.00,26
+Mongolia,Movies,0,0,0.00,26
+Mongolia,Music & Musicals,0,0,0.00,26
+Mongolia,Reality TV,0,0,0.00,26
+Mongolia,Romantic Movies,0,0,0.00,26
+Mongolia,Romantic TV Shows,0,0,0.00,26
+Mongolia,Sci-Fi & Fantasy,0,0,0.00,26
+Mongolia,Science & Nature TV,0,0,0.00,26
+Mongolia,Spanish-Language TV Shows,0,0,0.00,26
+Mongolia,Sports Movies,0,0,0.00,26
+Mongolia,Stand-Up Comedy,0,0,0.00,26
+Mongolia,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Mongolia,Teen TV Shows,0,0,0.00,26
+Mongolia,Thrillers,0,0,0.00,26
+Mongolia,TV Action & Adventure,0,0,0.00,26
+Mongolia,TV Comedies,0,0,0.00,26
+Mongolia,TV Dramas,0,0,0.00,26
+Mongolia,TV Horror,0,0,0.00,26
+Mongolia,TV Mysteries,0,0,0.00,26
+Mongolia,TV Sci-Fi & Fantasy,0,0,0.00,26
+Mongolia,TV Shows,0,0,0.00,26
+Mongolia,TV Thrillers,0,0,0.00,26
+Montenegro,Action & Adventure,0,0,0.00,26
+Montenegro,Anime Features,0,0,0.00,26
+Montenegro,Anime Series,0,0,0.00,26
+Montenegro,British TV Shows,0,0,0.00,26
+Montenegro,Children & Family Movies,0,0,0.00,26
+Montenegro,Classic & Cult TV,0,0,0.00,26
+Montenegro,Classic Movies,0,0,0.00,26
+Montenegro,Comedies,0,0,0.00,26
+Montenegro,Crime TV Shows,0,0,0.00,26
+Montenegro,Cult Movies,0,0,0.00,26
+Montenegro,Documentaries,0,0,0.00,26
+Montenegro,Docuseries,0,0,0.00,26
+Montenegro,Dramas,0,0,0.00,26
+Montenegro,Faith & Spirituality,0,0,0.00,26
+Montenegro,Horror Movies,0,0,0.00,26
+Montenegro,Independent Movies,0,0,0.00,26
+Montenegro,International Movies,0,0,0.00,26
+Montenegro,International TV Shows,0,0,0.00,26
+Montenegro,Kids' TV,0,0,0.00,26
+Montenegro,Korean TV Shows,0,0,0.00,26
+Montenegro,LGBTQ Movies,0,0,0.00,26
+Montenegro,Movies,0,0,0.00,26
+Montenegro,Music & Musicals,0,0,0.00,26
+Montenegro,Reality TV,0,0,0.00,26
+Montenegro,Romantic Movies,0,0,0.00,26
+Montenegro,Romantic TV Shows,0,0,0.00,26
+Montenegro,Sci-Fi & Fantasy,0,0,0.00,26
+Montenegro,Science & Nature TV,0,0,0.00,26
+Montenegro,Spanish-Language TV Shows,0,0,0.00,26
+Montenegro,Sports Movies,0,0,0.00,26
+Montenegro,Stand-Up Comedy,0,0,0.00,26
+Montenegro,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Montenegro,Teen TV Shows,0,0,0.00,26
+Montenegro,Thrillers,0,0,0.00,26
+Montenegro,TV Action & Adventure,0,0,0.00,26
+Montenegro,TV Comedies,0,0,0.00,26
+Montenegro,TV Dramas,0,0,0.00,26
+Montenegro,TV Horror,0,0,0.00,26
+Montenegro,TV Mysteries,0,0,0.00,26
+Montenegro,TV Sci-Fi & Fantasy,0,0,0.00,26
+Montenegro,TV Shows,0,0,0.00,26
+Montenegro,TV Thrillers,0,0,0.00,26
+Nicaragua,Action & Adventure,0,0,0.00,26
+Nicaragua,Anime Features,0,0,0.00,26
+Nicaragua,Anime Series,0,0,0.00,26
+Nicaragua,British TV Shows,0,0,0.00,26
+Nicaragua,Children & Family Movies,0,0,0.00,26
+Nicaragua,Classic & Cult TV,0,0,0.00,26
+Nicaragua,Classic Movies,0,0,0.00,26
+Nicaragua,Comedies,0,0,0.00,26
+Nicaragua,Crime TV Shows,0,0,0.00,26
+Nicaragua,Cult Movies,0,0,0.00,26
+Nicaragua,Documentaries,0,0,0.00,26
+Nicaragua,Docuseries,0,0,0.00,26
+Nicaragua,Dramas,0,0,0.00,26
+Nicaragua,Faith & Spirituality,0,0,0.00,26
+Nicaragua,Horror Movies,0,0,0.00,26
+Nicaragua,Independent Movies,0,0,0.00,26
+Nicaragua,International Movies,0,0,0.00,26
+Nicaragua,International TV Shows,0,0,0.00,26
+Nicaragua,Kids' TV,0,0,0.00,26
+Nicaragua,Korean TV Shows,0,0,0.00,26
+Nicaragua,LGBTQ Movies,0,0,0.00,26
+Nicaragua,Movies,0,0,0.00,26
+Nicaragua,Music & Musicals,0,0,0.00,26
+Nicaragua,Reality TV,0,0,0.00,26
+Nicaragua,Romantic Movies,0,0,0.00,26
+Nicaragua,Romantic TV Shows,0,0,0.00,26
+Nicaragua,Sci-Fi & Fantasy,0,0,0.00,26
+Nicaragua,Science & Nature TV,0,0,0.00,26
+Nicaragua,Spanish-Language TV Shows,0,0,0.00,26
+Nicaragua,Sports Movies,0,0,0.00,26
+Nicaragua,Stand-Up Comedy,0,0,0.00,26
+Nicaragua,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Nicaragua,Teen TV Shows,0,0,0.00,26
+Nicaragua,Thrillers,0,0,0.00,26
+Nicaragua,TV Action & Adventure,0,0,0.00,26
+Nicaragua,TV Comedies,0,0,0.00,26
+Nicaragua,TV Dramas,0,0,0.00,26
+Nicaragua,TV Horror,0,0,0.00,26
+Nicaragua,TV Mysteries,0,0,0.00,26
+Nicaragua,TV Sci-Fi & Fantasy,0,0,0.00,26
+Nicaragua,TV Shows,0,0,0.00,26
+Nicaragua,TV Thrillers,0,0,0.00,26
+Panama,Action & Adventure,0,0,0.00,26
+Panama,Anime Features,0,0,0.00,26
+Panama,Anime Series,0,0,0.00,26
+Panama,British TV Shows,0,0,0.00,26
+Panama,Children & Family Movies,0,0,0.00,26
+Panama,Classic & Cult TV,0,0,0.00,26
+Panama,Classic Movies,0,0,0.00,26
+Panama,Comedies,0,0,0.00,26
+Panama,Crime TV Shows,0,0,0.00,26
+Panama,Cult Movies,0,0,0.00,26
+Panama,Documentaries,0,0,0.00,26
+Panama,Docuseries,0,0,0.00,26
+Panama,Dramas,0,0,0.00,26
+Panama,Faith & Spirituality,0,0,0.00,26
+Panama,Horror Movies,0,0,0.00,26
+Panama,Independent Movies,0,0,0.00,26
+Panama,International Movies,0,0,0.00,26
+Panama,International TV Shows,0,0,0.00,26
+Panama,Kids' TV,0,0,0.00,26
+Panama,Korean TV Shows,0,0,0.00,26
+Panama,LGBTQ Movies,0,0,0.00,26
+Panama,Movies,0,0,0.00,26
+Panama,Music & Musicals,0,0,0.00,26
+Panama,Reality TV,0,0,0.00,26
+Panama,Romantic Movies,0,0,0.00,26
+Panama,Romantic TV Shows,0,0,0.00,26
+Panama,Sci-Fi & Fantasy,0,0,0.00,26
+Panama,Science & Nature TV,0,0,0.00,26
+Panama,Spanish-Language TV Shows,0,0,0.00,26
+Panama,Sports Movies,0,0,0.00,26
+Panama,Stand-Up Comedy,0,0,0.00,26
+Panama,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Panama,Teen TV Shows,0,0,0.00,26
+Panama,Thrillers,0,0,0.00,26
+Panama,TV Action & Adventure,0,0,0.00,26
+Panama,TV Comedies,0,0,0.00,26
+Panama,TV Dramas,0,0,0.00,26
+Panama,TV Horror,0,0,0.00,26
+Panama,TV Mysteries,0,0,0.00,26
+Panama,TV Sci-Fi & Fantasy,0,0,0.00,26
+Panama,TV Shows,0,0,0.00,26
+Panama,TV Thrillers,0,0,0.00,26
+Samoa,Action & Adventure,0,0,0.00,26
+Samoa,Anime Features,0,0,0.00,26
+Samoa,Anime Series,0,0,0.00,26
+Samoa,British TV Shows,0,0,0.00,26
+Samoa,Children & Family Movies,0,0,0.00,26
+Samoa,Classic & Cult TV,0,0,0.00,26
+Samoa,Classic Movies,0,0,0.00,26
+Samoa,Comedies,0,0,0.00,26
+Samoa,Crime TV Shows,0,0,0.00,26
+Samoa,Cult Movies,0,0,0.00,26
+Samoa,Documentaries,0,0,0.00,26
+Samoa,Docuseries,0,0,0.00,26
+Samoa,Dramas,0,0,0.00,26
+Samoa,Faith & Spirituality,0,0,0.00,26
+Samoa,Horror Movies,0,0,0.00,26
+Samoa,Independent Movies,0,0,0.00,26
+Samoa,International Movies,0,0,0.00,26
+Samoa,International TV Shows,0,0,0.00,26
+Samoa,Kids' TV,0,0,0.00,26
+Samoa,Korean TV Shows,0,0,0.00,26
+Samoa,LGBTQ Movies,0,0,0.00,26
+Samoa,Movies,0,0,0.00,26
+Samoa,Music & Musicals,0,0,0.00,26
+Samoa,Reality TV,0,0,0.00,26
+Samoa,Romantic Movies,0,0,0.00,26
+Samoa,Romantic TV Shows,0,0,0.00,26
+Samoa,Sci-Fi & Fantasy,0,0,0.00,26
+Samoa,Science & Nature TV,0,0,0.00,26
+Samoa,Spanish-Language TV Shows,0,0,0.00,26
+Samoa,Sports Movies,0,0,0.00,26
+Samoa,Stand-Up Comedy,0,0,0.00,26
+Samoa,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Samoa,Teen TV Shows,0,0,0.00,26
+Samoa,Thrillers,0,0,0.00,26
+Samoa,TV Action & Adventure,0,0,0.00,26
+Samoa,TV Comedies,0,0,0.00,26
+Samoa,TV Dramas,0,0,0.00,26
+Samoa,TV Horror,0,0,0.00,26
+Samoa,TV Mysteries,0,0,0.00,26
+Samoa,TV Sci-Fi & Fantasy,0,0,0.00,26
+Samoa,TV Shows,0,0,0.00,26
+Samoa,TV Thrillers,0,0,0.00,26
+Sudan,Action & Adventure,0,0,0.00,26
+Sudan,Anime Features,0,0,0.00,26
+Sudan,Anime Series,0,0,0.00,26
+Sudan,British TV Shows,0,0,0.00,26
+Sudan,Children & Family Movies,0,0,0.00,26
+Sudan,Classic & Cult TV,0,0,0.00,26
+Sudan,Classic Movies,0,0,0.00,26
+Sudan,Comedies,0,0,0.00,26
+Sudan,Crime TV Shows,0,0,0.00,26
+Sudan,Cult Movies,0,0,0.00,26
+Sudan,Documentaries,0,0,0.00,26
+Sudan,Docuseries,0,0,0.00,26
+Sudan,Dramas,0,0,0.00,26
+Sudan,Faith & Spirituality,0,0,0.00,26
+Sudan,Horror Movies,0,0,0.00,26
+Sudan,Independent Movies,0,0,0.00,26
+Sudan,International Movies,0,0,0.00,26
+Sudan,International TV Shows,0,0,0.00,26
+Sudan,Kids' TV,0,0,0.00,26
+Sudan,Korean TV Shows,0,0,0.00,26
+Sudan,LGBTQ Movies,0,0,0.00,26
+Sudan,Movies,0,0,0.00,26
+Sudan,Music & Musicals,0,0,0.00,26
+Sudan,Reality TV,0,0,0.00,26
+Sudan,Romantic Movies,0,0,0.00,26
+Sudan,Romantic TV Shows,0,0,0.00,26
+Sudan,Sci-Fi & Fantasy,0,0,0.00,26
+Sudan,Science & Nature TV,0,0,0.00,26
+Sudan,Spanish-Language TV Shows,0,0,0.00,26
+Sudan,Sports Movies,0,0,0.00,26
+Sudan,Stand-Up Comedy,0,0,0.00,26
+Sudan,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Sudan,Teen TV Shows,0,0,0.00,26
+Sudan,Thrillers,0,0,0.00,26
+Sudan,TV Action & Adventure,0,0,0.00,26
+Sudan,TV Comedies,0,0,0.00,26
+Sudan,TV Dramas,0,0,0.00,26
+Sudan,TV Horror,0,0,0.00,26
+Sudan,TV Mysteries,0,0,0.00,26
+Sudan,TV Sci-Fi & Fantasy,0,0,0.00,26
+Sudan,TV Shows,0,0,0.00,26
+Sudan,TV Thrillers,0,0,0.00,26
+Uganda,Action & Adventure,0,0,0.00,26
+Uganda,Anime Features,0,0,0.00,26
+Uganda,Anime Series,0,0,0.00,26
+Uganda,British TV Shows,0,0,0.00,26
+Uganda,Children & Family Movies,0,0,0.00,26
+Uganda,Classic & Cult TV,0,0,0.00,26
+Uganda,Classic Movies,0,0,0.00,26
+Uganda,Comedies,0,0,0.00,26
+Uganda,Crime TV Shows,0,0,0.00,26
+Uganda,Cult Movies,0,0,0.00,26
+Uganda,Documentaries,0,0,0.00,26
+Uganda,Docuseries,0,0,0.00,26
+Uganda,Dramas,0,0,0.00,26
+Uganda,Faith & Spirituality,0,0,0.00,26
+Uganda,Horror Movies,0,0,0.00,26
+Uganda,Independent Movies,0,0,0.00,26
+Uganda,International Movies,0,0,0.00,26
+Uganda,International TV Shows,0,0,0.00,26
+Uganda,Kids' TV,0,0,0.00,26
+Uganda,Korean TV Shows,0,0,0.00,26
+Uganda,LGBTQ Movies,0,0,0.00,26
+Uganda,Movies,0,0,0.00,26
+Uganda,Music & Musicals,0,0,0.00,26
+Uganda,Reality TV,0,0,0.00,26
+Uganda,Romantic Movies,0,0,0.00,26
+Uganda,Romantic TV Shows,0,0,0.00,26
+Uganda,Sci-Fi & Fantasy,0,0,0.00,26
+Uganda,Science & Nature TV,0,0,0.00,26
+Uganda,Spanish-Language TV Shows,0,0,0.00,26
+Uganda,Sports Movies,0,0,0.00,26
+Uganda,Stand-Up Comedy,0,0,0.00,26
+Uganda,Stand-Up Comedy & Talk Shows,0,0,0.00,26
+Uganda,Teen TV Shows,0,0,0.00,26
+Uganda,Thrillers,0,0,0.00,26
+Uganda,TV Action & Adventure,0,0,0.00,26
+Uganda,TV Comedies,0,0,0.00,26
+Uganda,TV Dramas,0,0,0.00,26
+Uganda,TV Horror,0,0,0.00,26
+Uganda,TV Mysteries,0,0,0.00,26
+Uganda,TV Sci-Fi & Fantasy,0,0,0.00,26
+Uganda,TV Shows,0,0,0.00,26
+Uganda,TV Thrillers,0,0,0.00,26
